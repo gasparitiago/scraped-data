@@ -1,0 +1,4004 @@
+{
+  "url": "https://www.recursion.com/pipeline",
+  "timestamp": 1661206796772,
+  "elements": [
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div.w-embed.w-iframe",
+        "boundingBox": {
+          "top": 0,
+          "left": 0,
+          "width": 2770,
+          "height": 0
+        },
+        "children": 5,
+        "attributes": [
+          {
+            "class": "w-embed w-iframe"
+          }
+        ]
+      },
+      []
+    ],
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div.div-block-102",
+        "boundingBox": {
+          "top": 256,
+          "left": 0,
+          "width": 0,
+          "height": 0
+        },
+        "children": 1,
+        "attributes": [
+          {
+            "data-w-id": "b1018d9b-a102-6814-dac9-bccb186a9829"
+          },
+          {
+            "class": "div-block-102"
+          }
+        ]
+      },
+      []
+    ],
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div.flex-wrapper",
+        "boundingBox": {
+          "top": 0,
+          "left": 0,
+          "width": 2770,
+          "height": 7740.890625
+        },
+        "children": 7,
+        "attributes": [
+          {
+            "class": "flex-wrapper"
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div.flex-wrapper div.pipeline-header.wf-section",
+            "boundingBox": {
+              "top": 0,
+              "left": 0,
+              "width": 2770,
+              "height": 4596.890625
+            },
+            "children": 1,
+            "attributes": [
+              {
+                "class": "pipeline-header wf-section"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.flex-wrapper div.pipeline-header.wf-section div",
+                "boundingBox": {
+                  "top": 4191.890625,
+                  "left": 785,
+                  "width": 1200,
+                  "height": 405
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "class": "secondary-page-content-div narrow our-story"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body div.flex-wrapper div.pipeline-header.wf-section div div",
+                    "boundingBox": {
+                      "top": 4191.890625,
+                      "left": 785,
+                      "width": 1200,
+                      "height": 405
+                    },
+                    "children": 1,
+                    "attributes": null
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.flex-wrapper div.pipeline-header.wf-section div div div.approach-headline.white.wide",
+                        "boundingBox": {
+                          "top": 4227.890625,
+                          "left": 785,
+                          "width": 1200,
+                          "height": 405
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "data-w-id": "8885cbfe-36d3-5c6d-d7e5-a1adbf475d3c"
+                          },
+                          {
+                            "class": "approach-headline white wide"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "h1",
+                            "path": "html body div.flex-wrapper div.pipeline-header.wf-section div div div.approach-headline.white.wide h1.heading-12",
+                            "boundingBox": {
+                              "top": 4265.890625,
+                              "left": 785,
+                              "width": 1168,
+                              "height": 288
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "heading-12"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.flex-wrapper div.pipeline-header.wf-section div div div.approach-headline.white.wide h1.heading-12",
+                              "text": "One of the largest, broadest and deepest pipelines of any technology-enabled drug discovery company.",
+                              "boundingBox": {
+                                "top": 4265.890625,
+                                "left": 785,
+                                "width": 1168,
+                                "height": 288
+                              },
+                              "attributes": [
+                                {
+                                  "class": "heading-12"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ],
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section",
+            "boundingBox": {
+              "top": 4596.890625,
+              "left": 0,
+              "width": 2770,
+              "height": 593
+            },
+            "children": 2,
+            "attributes": [
+              {
+                "class": "impact-secondary-head wf-section"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.div-block-129",
+                "boundingBox": {
+                  "top": 4705.890625,
+                  "left": 785,
+                  "width": 1200,
+                  "height": 124
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "class": "div-block-129"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "h3",
+                    "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.div-block-129 h3",
+                    "boundingBox": {
+                      "top": 4705.890625,
+                      "left": 785,
+                      "width": 800,
+                      "height": 114
+                    },
+                    "children": 2,
+                    "attributes": [
+                      {
+                        "class": "heading-5 dark"
+                      }
+                    ]
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.div-block-129 h3",
+                      "text": "Every program at Recursion is a product of our Recursion OS. With every new discovery, our platform gets smarter, leading to pipeline growth.",
+                      "boundingBox": {
+                        "top": 4705.890625,
+                        "left": 785,
+                        "width": 800,
+                        "height": 114
+                      },
+                      "attributes": [
+                        {
+                          "class": "heading-5 dark"
+                        }
+                      ]
+                    },
+                    [
+                      {
+                        "nodeName": "br",
+                        "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.div-block-129 h3 br",
+                        "boundingBox": {
+                          "top": 4780.890625,
+                          "left": 1379.609375,
+                          "width": 0,
+                          "height": 40
+                        },
+                        "children": 0,
+                        "attributes": null
+                      }
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.wist-desc-block",
+                "boundingBox": {
+                  "top": 4903.890625,
+                  "left": 785,
+                  "width": 1200,
+                  "height": 266
+                },
+                "children": 3,
+                "attributes": [
+                  {
+                    "class": "wist-desc-block"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "h3",
+                    "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.wist-desc-block h3.heading-5.dark.sub",
+                    "boundingBox": {
+                      "top": 4903.890625,
+                      "left": 785,
+                      "width": 590.203125,
+                      "height": 38
+                    },
+                    "children": 2,
+                    "attributes": [
+                      {
+                        "class": "heading-5 dark sub"
+                      }
+                    ]
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.wist-desc-block h3.heading-5.dark.sub",
+                      "text": "Our programs target diseases spanning several therapeutic areas where:",
+                      "boundingBox": {
+                        "top": 4903.890625,
+                        "left": 785,
+                        "width": 590.203125,
+                        "height": 38
+                      },
+                      "attributes": [
+                        {
+                          "class": "heading-5 dark sub"
+                        }
+                      ]
+                    },
+                    [
+                      {
+                        "nodeName": "br",
+                        "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.wist-desc-block h3.heading-5.dark.sub br",
+                        "boundingBox": {
+                          "top": 4910.890625,
+                          "left": 1375.203125,
+                          "width": 0,
+                          "height": 23
+                        },
+                        "children": 0,
+                        "attributes": null
+                      }
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "p",
+                    "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.wist-desc-block p.values-lead",
+                    "boundingBox": {
+                      "top": 4951.890625,
+                      "left": 785,
+                      "width": 949,
+                      "height": 135
+                    },
+                    "children": 6,
+                    "attributes": [
+                      {
+                        "class": "values-lead"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "br",
+                        "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.wist-desc-block p.values-lead br:nth-child(1)",
+                        "boundingBox": {
+                          "top": 4954.890625,
+                          "left": 785,
+                          "width": 0,
+                          "height": 21
+                        },
+                        "children": 0,
+                        "attributes": null
+                      }
+                    ],
+                    {
+                      "nodeName": "text",
+                      "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.wist-desc-block p.values-lead",
+                      "text": "1. the cause of the disease is well-defined",
+                      "boundingBox": {
+                        "top": 4951.890625,
+                        "left": 785,
+                        "width": 949,
+                        "height": 135
+                      },
+                      "attributes": [
+                        {
+                          "class": "values-lead"
+                        }
+                      ]
+                    },
+                    [
+                      {
+                        "nodeName": "br",
+                        "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.wist-desc-block p.values-lead br:nth-child(2)",
+                        "boundingBox": {
+                          "top": 4981.890625,
+                          "left": 1137.703125,
+                          "width": 0,
+                          "height": 21
+                        },
+                        "children": 0,
+                        "attributes": null
+                      }
+                    ],
+                    [
+                      {
+                        "nodeName": "br",
+                        "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.wist-desc-block p.values-lead br:nth-child(3)",
+                        "boundingBox": {
+                          "top": 5008.890625,
+                          "left": 785,
+                          "width": 0,
+                          "height": 21
+                        },
+                        "children": 0,
+                        "attributes": null
+                      }
+                    ],
+                    {
+                      "nodeName": "text",
+                      "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.wist-desc-block p.values-lead",
+                      "text": "2. there is high unmet need, there are no approved therapies, or there are significant shortcomings with existing treatment paradigms",
+                      "boundingBox": {
+                        "top": 4951.890625,
+                        "left": 785,
+                        "width": 949,
+                        "height": 135
+                      },
+                      "attributes": [
+                        {
+                          "class": "values-lead"
+                        }
+                      ]
+                    },
+                    [
+                      {
+                        "nodeName": "br",
+                        "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.wist-desc-block p.values-lead br:nth-child(4)",
+                        "boundingBox": {
+                          "top": 5062.890625,
+                          "left": 960.265625,
+                          "width": 0,
+                          "height": 21
+                        },
+                        "children": 0,
+                        "attributes": null
+                      }
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "a",
+                    "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.wist-desc-block a.button-4.w-button",
+                    "boundingBox": {
+                      "top": 5131.890625,
+                      "left": 1291.75,
+                      "width": 186.5,
+                      "height": 38
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "href": "/expanded-access-policy"
+                      },
+                      {
+                        "class": "button-4 w-button"
+                      }
+                    ]
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body div.flex-wrapper div.impact-secondary-head.wf-section div.wist-desc-block a.button-4.w-button",
+                      "text": "Expanded Access Policy",
+                      "boundingBox": {
+                        "top": 5131.890625,
+                        "left": 1291.75,
+                        "width": 186.5,
+                        "height": 38
+                      },
+                      "attributes": [
+                        {
+                          "href": "/expanded-access-policy"
+                        },
+                        {
+                          "class": "button-4 w-button"
+                        }
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ],
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div.flex-wrapper div.pipeline-section.wf-section",
+            "boundingBox": {
+              "top": 5189.890625,
+              "left": 0,
+              "width": 2770,
+              "height": 1477
+            },
+            "children": 6,
+            "attributes": [
+              {
+                "class": "pipeline-section wf-section"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139",
+                "boundingBox": {
+                  "top": 5356.890625,
+                  "left": 785,
+                  "width": 1200,
+                  "height": 5051
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "class": "div-block-139"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136",
+                    "boundingBox": {
+                      "top": 5356.890625,
+                      "left": 785,
+                      "width": 1200,
+                      "height": 5051
+                    },
+                    "children": 2,
+                    "attributes": [
+                      {
+                        "class": "div-block-136"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134",
+                        "boundingBox": {
+                          "top": 5356.890625,
+                          "left": 795,
+                          "width": 1180,
+                          "height": 3851
+                        },
+                        "children": 2,
+                        "attributes": [
+                          {
+                            "class": "div-block-134"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1)",
+                            "boundingBox": {
+                              "top": 5356.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 51
+                            },
+                            "children": 7,
+                            "attributes": [
+                              {
+                                "class": "div-block-138"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div.grid-header-div-2.new",
+                                "boundingBox": {
+                                  "top": 5356.890625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 51
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "grid-header-div-2 new"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div.grid-header-div-2.new div",
+                                    "boundingBox": {
+                                      "top": 5370.890625,
+                                      "left": 795,
+                                      "width": 180.890625,
+                                      "height": 20
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "pipeline-grid-header-text disease-model"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div.grid-header-div-2.new div",
+                                      "text": "Disease Indication",
+                                      "boundingBox": {
+                                        "top": 5370.890625,
+                                        "left": 795,
+                                        "width": 180.890625,
+                                        "height": 20
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "pipeline-grid-header-text disease-model"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div.grid-header-div-2.early-discovery._2",
+                                "boundingBox": {
+                                  "top": 5356.890625,
+                                  "left": 977.890625,
+                                  "width": 141.59375,
+                                  "height": 51
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "grid-header-div-2 early-discovery _2"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div.grid-header-div-2.early-discovery._2 div",
+                                    "boundingBox": {
+                                      "top": 5370.890625,
+                                      "left": 981.96875,
+                                      "width": 133.4375,
+                                      "height": 20
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "pipeline-grid-header-text early-discovery"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div.grid-header-div-2.early-discovery._2 div",
+                                      "text": "Early Discovery",
+                                      "boundingBox": {
+                                        "top": 5370.890625,
+                                        "left": 981.96875,
+                                        "width": 133.4375,
+                                        "height": 20
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "pipeline-grid-header-text early-discovery"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div.grid-header-div-2.discovery._2",
+                                "boundingBox": {
+                                  "top": 5356.890625,
+                                  "left": 1119.484375,
+                                  "width": 141.59375,
+                                  "height": 51
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "grid-header-div-2 discovery _2"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div.grid-header-div-2.discovery._2 div",
+                                    "boundingBox": {
+                                      "top": 5370.890625,
+                                      "left": 1126.140625,
+                                      "width": 128.265625,
+                                      "height": 20
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "pipeline-grid-header-text discovery"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div.grid-header-div-2.discovery._2 div",
+                                      "text": "Late Discovery",
+                                      "boundingBox": {
+                                        "top": 5370.890625,
+                                        "left": 1126.140625,
+                                        "width": 128.265625,
+                                        "height": 20
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "pipeline-grid-header-text discovery"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div:nth-child(4)",
+                                "boundingBox": {
+                                  "top": 5356.890625,
+                                  "left": 1261.078125,
+                                  "width": 141.59375,
+                                  "height": 51
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "grid-header-div-2 preclinical _2"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div:nth-child(4) div",
+                                    "boundingBox": {
+                                      "top": 5370.890625,
+                                      "left": 1287.484375,
+                                      "width": 88.78125,
+                                      "height": 20
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "pipeline-grid-header-text preclinical"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div:nth-child(4) div",
+                                      "text": "Preclinical",
+                                      "boundingBox": {
+                                        "top": 5370.890625,
+                                        "left": 1287.484375,
+                                        "width": 88.78125,
+                                        "height": 20
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "pipeline-grid-header-text preclinical"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div:nth-child(5)",
+                                "boundingBox": {
+                                  "top": 5356.890625,
+                                  "left": 1402.671875,
+                                  "width": 141.59375,
+                                  "height": 51
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "grid-header-div-2 preclinical _2"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div:nth-child(5) div",
+                                    "boundingBox": {
+                                      "top": 5370.890625,
+                                      "left": 1440.234375,
+                                      "width": 66.46875,
+                                      "height": 20
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "pipeline-grid-header-text phs-1"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div:nth-child(5) div",
+                                      "text": "Phase 1",
+                                      "boundingBox": {
+                                        "top": 5370.890625,
+                                        "left": 1440.234375,
+                                        "width": 66.46875,
+                                        "height": 20
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "pipeline-grid-header-text phs-1"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div.grid-header-div-2.phase-2-copy._2",
+                                "boundingBox": {
+                                  "top": 5356.890625,
+                                  "left": 1544.265625,
+                                  "width": 141.59375,
+                                  "height": 51
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "grid-header-div-2 phase-2-copy _2"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div.grid-header-div-2.phase-2-copy._2 div",
+                                    "boundingBox": {
+                                      "top": 5370.890625,
+                                      "left": 1580.53125,
+                                      "width": 69.046875,
+                                      "height": 20
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "pipeline-grid-header-text ph2"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(1) div.grid-header-div-2.phase-2-copy._2 div",
+                                      "text": "Phase 2",
+                                      "boundingBox": {
+                                        "top": 5370.890625,
+                                        "left": 1580.53125,
+                                        "width": 69.046875,
+                                        "height": 20
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "pipeline-grid-header-text ph2"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(2)",
+                            "boundingBox": {
+                              "top": 5407.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 3800
+                            },
+                            "children": 7,
+                            "attributes": [
+                              {
+                                "class": "div-block-138"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(2) div.div-block-135.main",
+                                "boundingBox": {
+                                  "top": 5407.890625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 3800
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-135 main"
+                                  }
+                                ]
+                              }
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(2) div:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 5407.890625,
+                                  "left": 977.890625,
+                                  "width": 141.59375,
+                                  "height": 3800
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-135"
+                                  }
+                                ]
+                              }
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(2) div:nth-child(3)",
+                                "boundingBox": {
+                                  "top": 5407.890625,
+                                  "left": 1119.484375,
+                                  "width": 141.59375,
+                                  "height": 3800
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-135"
+                                  }
+                                ]
+                              }
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(2) div:nth-child(4)",
+                                "boundingBox": {
+                                  "top": 5407.890625,
+                                  "left": 1261.078125,
+                                  "width": 141.59375,
+                                  "height": 3800
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-135"
+                                  }
+                                ]
+                              }
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(2) div:nth-child(5)",
+                                "boundingBox": {
+                                  "top": 5407.890625,
+                                  "left": 1402.671875,
+                                  "width": 141.59375,
+                                  "height": 3800
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-135"
+                                  }
+                                ]
+                              }
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-134 div:nth-child(2) div:nth-child(6)",
+                                "boundingBox": {
+                                  "top": 5407.890625,
+                                  "left": 1544.265625,
+                                  "width": 141.59375,
+                                  "height": 3800
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-135"
+                                  }
+                                ]
+                              }
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133",
+                        "boundingBox": {
+                          "top": 5428.890625,
+                          "left": 795,
+                          "width": 1180,
+                          "height": 1200
+                        },
+                        "children": 15,
+                        "attributes": [
+                          {
+                            "class": "div-block-133"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(1)",
+                            "boundingBox": {
+                              "top": 5428.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 80
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": "div-block-141"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(1) div:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 5430.390625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 77
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-145"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h5",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(1) div:nth-child(1) h5",
+                                    "boundingBox": {
+                                      "top": 5430.390625,
+                                      "left": 795,
+                                      "width": 182.890625,
+                                      "height": 77
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "white _80 pipeline"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(1) div:nth-child(1) h5",
+                                      "text": "Cerebral Cavernous Malformation",
+                                      "boundingBox": {
+                                        "top": 5430.390625,
+                                        "left": 795,
+                                        "width": 182.890625,
+                                        "height": 77
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "white _80 pipeline"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(1) div:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 5463.890625,
+                                  "left": 977.890625,
+                                  "width": 997.109375,
+                                  "height": 10
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-142"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(1) div:nth-child(2) div.div-block-143.pipe2",
+                                    "boundingBox": {
+                                      "top": 5463.890625,
+                                      "left": 977.890625,
+                                      "width": 648.109375,
+                                      "height": 10
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-143 pipe2"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(2)",
+                            "boundingBox": {
+                              "top": 5508.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 80
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": "div-block-141"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(2) div:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 5510.390625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 77
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-145"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h5",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(2) div:nth-child(1) h5",
+                                    "boundingBox": {
+                                      "top": 5510.390625,
+                                      "left": 795,
+                                      "width": 182.890625,
+                                      "height": 77
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "white _80 pipeline"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(2) div:nth-child(1) h5",
+                                      "text": "Neurofibromatosis Type 2",
+                                      "boundingBox": {
+                                        "top": 5510.390625,
+                                        "left": 795,
+                                        "width": 182.890625,
+                                        "height": 77
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "white _80 pipeline"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(2) div:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 5543.890625,
+                                  "left": 977.890625,
+                                  "width": 997.109375,
+                                  "height": 10
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-142"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(2) div:nth-child(2) div.div-block-143.pipe1",
+                                    "boundingBox": {
+                                      "top": 5543.890625,
+                                      "left": 977.890625,
+                                      "width": 648.109375,
+                                      "height": 10
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-143 pipe1"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(3)",
+                            "boundingBox": {
+                              "top": 5588.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 80
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": "div-block-141"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(3) div:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 5590.390625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 77
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-145"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h5",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(3) div:nth-child(1) h5",
+                                    "boundingBox": {
+                                      "top": 5590.390625,
+                                      "left": 795,
+                                      "width": 182.890625,
+                                      "height": 77
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "white _80 pipeline"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(3) div:nth-child(1) h5",
+                                      "text": "Familial Adenomatous Polyposis",
+                                      "boundingBox": {
+                                        "top": 5590.390625,
+                                        "left": 795,
+                                        "width": 182.890625,
+                                        "height": 77
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "white _80 pipeline"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(3) div:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 5623.890625,
+                                  "left": 977.890625,
+                                  "width": 997.109375,
+                                  "height": 10
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-142"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(3) div:nth-child(2) div.div-block-143.pipe3",
+                                    "boundingBox": {
+                                      "top": 5623.890625,
+                                      "left": 977.890625,
+                                      "width": 566.34375,
+                                      "height": 10
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-143 pipe3"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(4)",
+                            "boundingBox": {
+                              "top": 5668.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 80
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": "div-block-141"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(4) div:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 5670.390625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 77
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-145"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h5",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(4) div:nth-child(1) h5",
+                                    "boundingBox": {
+                                      "top": 5670.390625,
+                                      "left": 795,
+                                      "width": 157.21875,
+                                      "height": 77
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "white _80 pipeline"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(4) div:nth-child(1) h5",
+                                      "text": "GM2 Gangliosidosis",
+                                      "boundingBox": {
+                                        "top": 5670.390625,
+                                        "left": 795,
+                                        "width": 157.21875,
+                                        "height": 77
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "white _80 pipeline"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(4) div:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 5703.890625,
+                                  "left": 977.890625,
+                                  "width": 997.109375,
+                                  "height": 10
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-142"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(4) div:nth-child(2) div.div-block-143.pipe4",
+                                    "boundingBox": {
+                                      "top": 5703.890625,
+                                      "left": 977.890625,
+                                      "width": 566.34375,
+                                      "height": 10
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-143 pipe4"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(5)",
+                            "boundingBox": {
+                              "top": 5748.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 80
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": "div-block-141"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(5) div:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 5750.390625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 77
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-145"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h5",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(5) div:nth-child(1) h5",
+                                    "boundingBox": {
+                                      "top": 5750.390625,
+                                      "left": 795,
+                                      "width": 182.890625,
+                                      "height": 77
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "white _80 pipeline"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(5) div:nth-child(1) h5",
+                                      "text": "Clostridium difficile Colitis",
+                                      "boundingBox": {
+                                        "top": 5750.390625,
+                                        "left": 795,
+                                        "width": 182.890625,
+                                        "height": 77
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "white _80 pipeline"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(5) div:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 5783.890625,
+                                  "left": 977.890625,
+                                  "width": 997.109375,
+                                  "height": 10
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-142"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(5) div:nth-child(2) div",
+                                    "boundingBox": {
+                                      "top": 5783.890625,
+                                      "left": 977.890625,
+                                      "width": 348.984375,
+                                      "height": 10
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-143 pipe5"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(6)",
+                            "boundingBox": {
+                              "top": 5828.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 80
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": "div-block-141"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(6) div:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 5830.390625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 77
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-145"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h5",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(6) div:nth-child(1) h5",
+                                    "boundingBox": {
+                                      "top": 5830.390625,
+                                      "left": 795,
+                                      "width": 182.890625,
+                                      "height": 77
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "white _80 pipeline"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(6) div:nth-child(1) h5",
+                                      "text": "KRAS/STK11-driven checkpoint resistance",
+                                      "boundingBox": {
+                                        "top": 5830.390625,
+                                        "left": 795,
+                                        "width": 182.890625,
+                                        "height": 77
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "white _80 pipeline"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(6) div:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 5863.890625,
+                                  "left": 977.890625,
+                                  "width": 997.109375,
+                                  "height": 10
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-142"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(6) div:nth-child(2) div",
+                                    "boundingBox": {
+                                      "top": 5863.890625,
+                                      "left": 977.890625,
+                                      "width": 348.984375,
+                                      "height": 10
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-143 pipe5"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(7)",
+                            "boundingBox": {
+                              "top": 5908.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 80
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": "div-block-141"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(7) div:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 5910.390625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 77
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-145"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h5",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(7) div:nth-child(1) h5",
+                                    "boundingBox": {
+                                      "top": 5910.390625,
+                                      "left": 795,
+                                      "width": 172.359375,
+                                      "height": 77
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "white _80 pipeline"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(7) div:nth-child(1) h5",
+                                      "text": "MYC-driven oncology",
+                                      "boundingBox": {
+                                        "top": 5910.390625,
+                                        "left": 795,
+                                        "width": 172.359375,
+                                        "height": 77
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "white _80 pipeline"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(7) div:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 5943.890625,
+                                  "left": 977.890625,
+                                  "width": 997.109375,
+                                  "height": 10
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-142"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(7) div:nth-child(2) div.div-block-143.pipe8",
+                                    "boundingBox": {
+                                      "top": 5943.890625,
+                                      "left": 977.890625,
+                                      "width": 209.390625,
+                                      "height": 10
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-143 pipe8"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(8)",
+                            "boundingBox": {
+                              "top": 5988.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 80
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": "div-block-141"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(8) div:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 5990.390625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 77
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-145"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h5",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(8) div:nth-child(1) h5",
+                                    "boundingBox": {
+                                      "top": 5990.390625,
+                                      "left": 795,
+                                      "width": 182.890625,
+                                      "height": 77
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "white _80 pipeline"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(8) div:nth-child(1) h5",
+                                      "text": "Cancer immunotherapy target alpha",
+                                      "boundingBox": {
+                                        "top": 5990.390625,
+                                        "left": 795,
+                                        "width": 182.890625,
+                                        "height": 77
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "white _80 pipeline"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(8) div:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 6023.890625,
+                                  "left": 977.890625,
+                                  "width": 997.109375,
+                                  "height": 10
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-142"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(8) div:nth-child(2) div",
+                                    "boundingBox": {
+                                      "top": 6023.890625,
+                                      "left": 977.890625,
+                                      "width": 209.390625,
+                                      "height": 10
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-143 pipe12"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(9)",
+                            "boundingBox": {
+                              "top": 6068.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 80
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": "div-block-141"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(9) div:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 6070.390625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 77
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-145"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h5",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(9) div:nth-child(1) h5",
+                                    "boundingBox": {
+                                      "top": 6070.390625,
+                                      "left": 795,
+                                      "width": 182.890625,
+                                      "height": 77
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "white _80 pipeline"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(9) div:nth-child(1) h5",
+                                      "text": "Cancer immunotherapy target beta",
+                                      "boundingBox": {
+                                        "top": 6070.390625,
+                                        "left": 795,
+                                        "width": 182.890625,
+                                        "height": 77
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "white _80 pipeline"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(9) div:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 6103.890625,
+                                  "left": 977.890625,
+                                  "width": 997.109375,
+                                  "height": 10
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-142"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(9) div:nth-child(2) div",
+                                    "boundingBox": {
+                                      "top": 6103.890625,
+                                      "left": 977.890625,
+                                      "width": 209.390625,
+                                      "height": 10
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-143 pipe12"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(10)",
+                            "boundingBox": {
+                              "top": 6148.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 80
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": "div-block-141"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(10) div:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 6150.390625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 77
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-145"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h5",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(10) div:nth-child(1) h5",
+                                    "boundingBox": {
+                                      "top": 6150.390625,
+                                      "left": 795,
+                                      "width": 182.890625,
+                                      "height": 77
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "white _80 pipeline"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(10) div:nth-child(1) h5",
+                                      "text": "Hepatocellular carcinoma",
+                                      "boundingBox": {
+                                        "top": 6150.390625,
+                                        "left": 795,
+                                        "width": 182.890625,
+                                        "height": 77
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "white _80 pipeline"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(10) div:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 6183.890625,
+                                  "left": 977.890625,
+                                  "width": 997.109375,
+                                  "height": 10
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-142"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(10) div:nth-child(2) div",
+                                    "boundingBox": {
+                                      "top": 6183.890625,
+                                      "left": 977.890625,
+                                      "width": 209.390625,
+                                      "height": 10
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-143 pipe12"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(11)",
+                            "boundingBox": {
+                              "top": 6228.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 80
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": "div-block-141"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(11) div:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 6230.390625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 77
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-145"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h5",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(11) div:nth-child(1) h5",
+                                    "boundingBox": {
+                                      "top": 6230.390625,
+                                      "left": 795,
+                                      "width": 182.890625,
+                                      "height": 77
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "white _80 pipeline"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(11) div:nth-child(1) h5",
+                                      "text": "HRD-negative ovarian cancer target gamma",
+                                      "boundingBox": {
+                                        "top": 6230.390625,
+                                        "left": 795,
+                                        "width": 182.890625,
+                                        "height": 77
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "white _80 pipeline"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(11) div:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 6263.890625,
+                                  "left": 977.890625,
+                                  "width": 997.109375,
+                                  "height": 10
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-142"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(11) div:nth-child(2) div",
+                                    "boundingBox": {
+                                      "top": 6263.890625,
+                                      "left": 977.890625,
+                                      "width": 209.390625,
+                                      "height": 10
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-143 pipe12"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(12)",
+                            "boundingBox": {
+                              "top": 6308.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 80
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": "div-block-141"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(12) div:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 6310.390625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 77
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-145"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h5",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(12) div:nth-child(1) h5",
+                                    "boundingBox": {
+                                      "top": 6310.390625,
+                                      "left": 795,
+                                      "width": 119.578125,
+                                      "height": 77
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "white _80 pipeline"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(12) div:nth-child(1) h5",
+                                      "text": "Ovarian cancer",
+                                      "boundingBox": {
+                                        "top": 6310.390625,
+                                        "left": 795,
+                                        "width": 119.578125,
+                                        "height": 77
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "white _80 pipeline"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(12) div:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 6343.890625,
+                                  "left": 977.890625,
+                                  "width": 997.109375,
+                                  "height": 10
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-142"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(12) div:nth-child(2) div",
+                                    "boundingBox": {
+                                      "top": 6343.890625,
+                                      "left": 977.890625,
+                                      "width": 209.390625,
+                                      "height": 10
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-143 pipe12"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(13)",
+                            "boundingBox": {
+                              "top": 6388.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 80
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": "div-block-141"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(13) div:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 6390.390625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 77
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-145"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h5",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(13) div:nth-child(1) h5",
+                                    "boundingBox": {
+                                      "top": 6390.390625,
+                                      "left": 795,
+                                      "width": 182.890625,
+                                      "height": 77
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "white _80 pipeline"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(13) div:nth-child(1) h5",
+                                      "text": "Charcot-Marie-Tooth Disease Type 2A",
+                                      "boundingBox": {
+                                        "top": 6390.390625,
+                                        "left": 795,
+                                        "width": 182.890625,
+                                        "height": 77
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "white _80 pipeline"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(13) div:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 6423.890625,
+                                  "left": 977.890625,
+                                  "width": 997.109375,
+                                  "height": 10
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-142"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(13) div:nth-child(2) div",
+                                    "boundingBox": {
+                                      "top": 6423.890625,
+                                      "left": 977.890625,
+                                      "width": 209.390625,
+                                      "height": 10
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-143 pipe12"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(14)",
+                            "boundingBox": {
+                              "top": 6468.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 80
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": "div-block-141"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(14) div:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 6470.390625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 77
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-145"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h5",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(14) div:nth-child(1) h5",
+                                    "boundingBox": {
+                                      "top": 6470.390625,
+                                      "left": 795,
+                                      "width": 119.109375,
+                                      "height": 77
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "white _80 pipeline"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(14) div:nth-child(1) h5",
+                                      "text": "Batten Disease",
+                                      "boundingBox": {
+                                        "top": 6470.390625,
+                                        "left": 795,
+                                        "width": 119.109375,
+                                        "height": 77
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "white _80 pipeline"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(14) div:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 6503.890625,
+                                  "left": 977.890625,
+                                  "width": 997.109375,
+                                  "height": 10
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-142"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(14) div:nth-child(2) div",
+                                    "boundingBox": {
+                                      "top": 6503.890625,
+                                      "left": 977.890625,
+                                      "width": 209.390625,
+                                      "height": 10
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-143 pipe12"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(15)",
+                            "boundingBox": {
+                              "top": 6548.890625,
+                              "left": 795,
+                              "width": 1180,
+                              "height": 80
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": "div-block-141"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(15) div:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 6550.390625,
+                                  "left": 795,
+                                  "width": 182.890625,
+                                  "height": 77
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-145"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h5",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(15) div:nth-child(1) h5",
+                                    "boundingBox": {
+                                      "top": 6550.390625,
+                                      "left": 795,
+                                      "width": 182.890625,
+                                      "height": 77
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "white _80 pipeline"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(15) div:nth-child(1) h5",
+                                      "text": "Several dozen early discovery programs",
+                                      "boundingBox": {
+                                        "top": 6550.390625,
+                                        "left": 795,
+                                        "width": 182.890625,
+                                        "height": 77
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "white _80 pipeline"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(15) div:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 6583.890625,
+                                  "left": 977.890625,
+                                  "width": 997.109375,
+                                  "height": 10
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-142"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.pipeline-section.wf-section div.div-block-139 div.div-block-136 div.div-block-133 div:nth-child(15) div:nth-child(2) div.div-block-143.pipeearlydiscovery",
+                                    "boundingBox": {
+                                      "top": 6583.890625,
+                                      "left": 977.890625,
+                                      "width": 69.796875,
+                                      "height": 10
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-143 pipeearlydiscovery"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ],
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div.flex-wrapper div.background-video-3.w-background-video.w-background-video-atom",
+            "boundingBox": {
+              "top": 6666.890625,
+              "left": 0,
+              "width": 2770,
+              "height": 700
+            },
+            "children": 2,
+            "attributes": [
+              {
+                "data-poster-url": "https://assets.website-files.com/5e533153d3bd3059cf647319/5e713f81a461d147607e977e_WebsiteDiscoveryEDIT1COMPRESSED-poster-00001.jpg"
+              },
+              {
+                "data-video-urls": "https://assets.website-files.com/604197abb43603652c167bfa/604197abb436030534167ca1_WebsiteDiscoveryEDIT1COMPRESSED-transcode.mp4,https://assets.website-files.com/604197abb43603652c167bfa/604197abb436030534167ca1_WebsiteDiscoveryEDIT1COMPRESSED-transcode.webm"
+              },
+              {
+                "data-autoplay": "true"
+              },
+              {
+                "data-loop": "true"
+              },
+              {
+                "data-wf-ignore": "true"
+              },
+              {
+                "data-beta-bgvideo-upgrade": "false"
+              },
+              {
+                "class": "background-video-3 w-background-video w-background-video-atom"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "video",
+                "path": "html body div.flex-wrapper div.background-video-3.w-background-video.w-background-video-atom video#1b7b26bf-0d6e-b5e0-2cda-6f1065a4cf90-video",
+                "boundingBox": {
+                  "top": 6666.890625,
+                  "left": 0,
+                  "width": 2770,
+                  "height": 700
+                },
+                "children": 2,
+                "attributes": [
+                  {
+                    "id": "1b7b26bf-0d6e-b5e0-2cda-6f1065a4cf90-video"
+                  },
+                  {
+                    "autoplay": ""
+                  },
+                  {
+                    "loop": ""
+                  },
+                  {
+                    "style": "background-image:url(\"https://assets.website-files.com/5e533153d3bd3059cf647319/5e713f81a461d147607e977e_WebsiteDiscoveryEDIT1COMPRESSED-poster-00001.jpg\")"
+                  },
+                  {
+                    "muted": ""
+                  },
+                  {
+                    "playsinline": ""
+                  },
+                  {
+                    "data-wf-ignore": "true"
+                  },
+                  {
+                    "data-object-fit": "cover"
+                  }
+                ]
+              },
+              []
+            ],
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.flex-wrapper div.background-video-3.w-background-video.w-background-video-atom div",
+                "boundingBox": {
+                  "top": 6761.890625,
+                  "left": 785,
+                  "width": 1200,
+                  "height": 510
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "class": "secondary-page-content-div narrow our-story"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body div.flex-wrapper div.background-video-3.w-background-video.w-background-video-atom div div",
+                    "boundingBox": {
+                      "top": 6890.390625,
+                      "left": 785,
+                      "width": 940,
+                      "height": 253
+                    },
+                    "children": 1,
+                    "attributes": null
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "h1",
+                        "path": "html body div.flex-wrapper div.background-video-3.w-background-video.w-background-video-atom div div h1.heading.h1.our-story-copy.white.clipped.platform-gradient",
+                        "boundingBox": {
+                          "top": 6910.390625,
+                          "left": 785,
+                          "width": 940,
+                          "height": 207
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "class": "heading h1 our-story-copy white clipped platform-gradient"
+                          }
+                        ]
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html body div.flex-wrapper div.background-video-3.w-background-video.w-background-video-atom div div h1.heading.h1.our-story-copy.white.clipped.platform-gradient",
+                          "text": "Welcome to the era of industrialized drug discovery.",
+                          "boundingBox": {
+                            "top": 6910.390625,
+                            "left": 785,
+                            "width": 940,
+                            "height": 207
+                          },
+                          "attributes": [
+                            {
+                              "class": "heading h1 our-story-copy white clipped platform-gradient"
+                            }
+                          ]
+                        },
+                        [
+                          {
+                            "nodeName": "br",
+                            "path": "html body div.flex-wrapper div.background-video-3.w-background-video.w-background-video-atom div div h1.heading.h1.our-story-copy.white.clipped.platform-gradient br:nth-child(1)",
+                            "boundingBox": {
+                              "top": 6972.390625,
+                              "left": 1663.09375,
+                              "width": 0,
+                              "height": 83
+                            },
+                            "children": 0,
+                            "attributes": null
+                          }
+                        ],
+                        [
+                          {
+                            "nodeName": "br",
+                            "path": "html body div.flex-wrapper div.background-video-3.w-background-video.w-background-video-atom div div h1.heading.h1.our-story-copy.white.clipped.platform-gradient br:nth-child(2)",
+                            "boundingBox": {
+                              "top": 7041.390625,
+                              "left": 785,
+                              "width": 0,
+                              "height": 83
+                            },
+                            "children": 0,
+                            "attributes": null
+                          }
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ],
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div.flex-wrapper div.section-15.wf-section",
+            "boundingBox": {
+              "top": 7366.890625,
+              "left": 0,
+              "width": 2770,
+              "height": 374
+            },
+            "children": 1,
+            "attributes": [
+              {
+                "class": "section-15 wf-section"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91",
+                "boundingBox": {
+                  "top": 7423.890625,
+                  "left": 785,
+                  "width": 1200,
+                  "height": 260
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "class": "div-block-91"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid",
+                    "boundingBox": {
+                      "top": 7423.890625,
+                      "left": 785,
+                      "width": 1200,
+                      "height": 260
+                    },
+                    "children": 3,
+                    "attributes": [
+                      {
+                        "class": "w-layout-grid footer-grid"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div#w-node-_9d2aae47-0c74-2efa-10b3-117415d96e55-15d96e34",
+                        "boundingBox": {
+                          "top": 7423.890625,
+                          "left": 785,
+                          "width": 403.1875,
+                          "height": 260
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "id": "w-node-_9d2aae47-0c74-2efa-10b3-117415d96e55-15d96e34"
+                          },
+                          {
+                            "class": "div-block-21"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "img",
+                            "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div#w-node-_9d2aae47-0c74-2efa-10b3-117415d96e55-15d96e34 img.image-18",
+                            "boundingBox": {
+                              "top": 7423.890625,
+                              "left": 785,
+                              "width": 325.5,
+                              "height": 75.5
+                            },
+                            "children": 0,
+                            "attributes": [
+                              {
+                                "src": "https://assets.website-files.com/604197abb43603652c167bfa/604197abb43603265b167ca4_thedigbioco.png"
+                              },
+                              {
+                                "width": "325.5"
+                              },
+                              {
+                                "alt": ""
+                              },
+                              {
+                                "class": "image-18"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "nodeName": "a",
+                            "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div#w-node-_9d2aae47-0c74-2efa-10b3-117415d96e55-15d96e34 a.link-block-13.w-inline-block",
+                            "boundingBox": {
+                              "top": 7541.390625,
+                              "left": 785,
+                              "width": 190,
+                              "height": 39.890625
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "href": "https://biohive.com/"
+                              },
+                              {
+                                "target": "_blank"
+                              },
+                              {
+                                "class": "link-block-13 w-inline-block"
+                              },
+                              {
+                                "rel": "noreferrer"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "img",
+                                "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div#w-node-_9d2aae47-0c74-2efa-10b3-117415d96e55-15d96e34 a.link-block-13.w-inline-block img",
+                                "boundingBox": {
+                                  "top": 7541.390625,
+                                  "left": 785,
+                                  "width": 190,
+                                  "height": 39.890625
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "src": "https://assets.website-files.com/604197abb43603652c167bfa/6052b25d0aa3227ae4012559_Logo_withtype_yellow%402x.png"
+                                  },
+                                  {
+                                    "loading": "lazy"
+                                  },
+                                  {
+                                    "width": "190"
+                                  },
+                                  {
+                                    "srcset": "https://assets.website-files.com/604197abb43603652c167bfa/6052b25d0aa3227ae4012559_Logo_withtype_yellow%402x-p-500.png 500w, https://assets.website-files.com/604197abb43603652c167bfa/6052b25d0aa3227ae4012559_Logo_withtype_yellow%402x-p-800.png 800w, https://assets.website-files.com/604197abb43603652c167bfa/6052b25d0aa3227ae4012559_Logo_withtype_yellow%402x-p-1080.png 1080w, https://assets.website-files.com/604197abb43603652c167bfa/6052b25d0aa3227ae4012559_Logo_withtype_yellow%402x.png 2424w"
+                                  },
+                                  {
+                                    "sizes": "(max-width: 479px) 100vw, 189.98843383789062px"
+                                  },
+                                  {
+                                    "alt": ""
+                                  }
+                                ]
+                              }
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div#w-node-_9d2aae47-0c74-2efa-10b3-117415d96e55-15d96e34 div",
+                            "boundingBox": {
+                              "top": 7602.28125,
+                              "left": 785,
+                              "width": 403.1875,
+                              "height": 38
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "text-block footer"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div#w-node-_9d2aae47-0c74-2efa-10b3-117415d96e55-15d96e34 div",
+                              "text": "Proud founding member of BioHive, the fastest growing life sciences community in the nation",
+                              "boundingBox": {
+                                "top": 7602.28125,
+                                "left": 785,
+                                "width": 403.1875,
+                                "height": 38
+                              },
+                              "attributes": [
+                                {
+                                  "class": "text-block footer"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2)",
+                        "boundingBox": {
+                          "top": 7423.890625,
+                          "left": 1269.1875,
+                          "width": 449.53125,
+                          "height": 260
+                        },
+                        "children": 6,
+                        "attributes": [
+                          {
+                            "class": "div-block-21"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "h4",
+                            "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) h4",
+                            "boundingBox": {
+                              "top": 7423.890625,
+                              "left": 1269.1875,
+                              "width": 449.53125,
+                              "height": 25
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "footer-header"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) h4",
+                              "text": "Get In Touch",
+                              "boundingBox": {
+                                "top": 7423.890625,
+                                "left": 1269.1875,
+                                "width": 449.53125,
+                                "height": 25
+                              },
+                              "attributes": [
+                                {
+                                  "class": "footer-header"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) div:nth-child(1)",
+                            "boundingBox": {
+                              "top": 7464.890625,
+                              "left": 1269.1875,
+                              "width": 449.53125,
+                              "height": 38
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "text-block footer"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) div:nth-child(1)",
+                              "text": "41 S Rio Grande Street",
+                              "boundingBox": {
+                                "top": 7464.890625,
+                                "left": 1269.1875,
+                                "width": 449.53125,
+                                "height": 38
+                              },
+                              "attributes": [
+                                {
+                                  "class": "text-block footer"
+                                }
+                              ]
+                            },
+                            [
+                              {
+                                "nodeName": "br",
+                                "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) div:nth-child(1) br",
+                                "boundingBox": {
+                                  "top": 7465.890625,
+                                  "left": 1412.765625,
+                                  "width": 0,
+                                  "height": 17
+                                },
+                                "children": 0,
+                                "attributes": null
+                              }
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) div:nth-child(1)",
+                              "text": "Salt Lake City, UT 84101",
+                              "boundingBox": {
+                                "top": 7464.890625,
+                                "left": 1269.1875,
+                                "width": 449.53125,
+                                "height": 38
+                              },
+                              "attributes": [
+                                {
+                                  "class": "text-block footer"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) div:nth-child(2)",
+                            "boundingBox": {
+                              "top": 7523.890625,
+                              "left": 1269.1875,
+                              "width": 449.53125,
+                              "height": 19
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": "text-block footer"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) div:nth-child(2)",
+                              "text": "phone:",
+                              "boundingBox": {
+                                "top": 7523.890625,
+                                "left": 1269.1875,
+                                "width": 449.53125,
+                                "height": 19
+                              },
+                              "attributes": [
+                                {
+                                  "class": "text-block footer"
+                                }
+                              ]
+                            },
+                            [
+                              {
+                                "nodeName": "a",
+                                "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) div:nth-child(2) a",
+                                "boundingBox": {
+                                  "top": 7524.890625,
+                                  "left": 1317.109375,
+                                  "width": 104.90625,
+                                  "height": 17
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "href": "tel:(385)269-0203"
+                                  },
+                                  {
+                                    "class": "footer-link"
+                                  },
+                                  {
+                                    "target": "_blank"
+                                  },
+                                  {
+                                    "rel": "noreferrer"
+                                  }
+                                ]
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) div:nth-child(2) a",
+                                  "text": "(385) 269-0203",
+                                  "boundingBox": {
+                                    "top": 7524.890625,
+                                    "left": 1317.109375,
+                                    "width": 104.90625,
+                                    "height": 17
+                                  },
+                                  "attributes": [
+                                    {
+                                      "href": "tel:(385)269-0203"
+                                    },
+                                    {
+                                      "class": "footer-link"
+                                    },
+                                    {
+                                      "target": "_blank"
+                                    },
+                                    {
+                                      "rel": "noreferrer"
+                                    }
+                                  ]
+                                }
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) div:nth-child(3)",
+                            "boundingBox": {
+                              "top": 7563.890625,
+                              "left": 1269.1875,
+                              "width": 449.53125,
+                              "height": 19
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "text-block footer"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) div:nth-child(3)",
+                              "text": "fax: (801) 821-2872",
+                              "boundingBox": {
+                                "top": 7563.890625,
+                                "left": 1269.1875,
+                                "width": 449.53125,
+                                "height": 19
+                              },
+                              "attributes": [
+                                {
+                                  "class": "text-block footer"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) div:nth-child(4)",
+                            "boundingBox": {
+                              "top": 7603.890625,
+                              "left": 1269.1875,
+                              "width": 449.53125,
+                              "height": 19
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "text-block footer"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) div:nth-child(4)",
+                              "text": "info@recursion.com",
+                              "boundingBox": {
+                                "top": 7603.890625,
+                                "left": 1269.1875,
+                                "width": 449.53125,
+                                "height": 19
+                              },
+                              "attributes": [
+                                {
+                                  "class": "text-block footer"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) div:nth-child(5)",
+                            "boundingBox": {
+                              "top": 7643.890625,
+                              "left": 1269.1875,
+                              "width": 449.53125,
+                              "height": 19
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "text-block footer"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "a",
+                                "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) div:nth-child(5) a",
+                                "boundingBox": {
+                                  "top": 7644.890625,
+                                  "left": 1269.1875,
+                                  "width": 112.6875,
+                                  "height": 17
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "href": "https://ir.recursion.com/"
+                                  },
+                                  {
+                                    "class": "footer-link"
+                                  },
+                                  {
+                                    "target": "_blank"
+                                  },
+                                  {
+                                    "rel": "noreferrer"
+                                  }
+                                ]
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div:nth-child(2) div:nth-child(5) a",
+                                  "text": "Investor Relations",
+                                  "boundingBox": {
+                                    "top": 7644.890625,
+                                    "left": 1269.1875,
+                                    "width": 112.6875,
+                                    "height": 17
+                                  },
+                                  "attributes": [
+                                    {
+                                      "href": "https://ir.recursion.com/"
+                                    },
+                                    {
+                                      "class": "footer-link"
+                                    },
+                                    {
+                                      "target": "_blank"
+                                    },
+                                    {
+                                      "rel": "noreferrer"
+                                    }
+                                  ]
+                                }
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32",
+                        "boundingBox": {
+                          "top": 7423.890625,
+                          "left": 1799.71875,
+                          "width": 185.28125,
+                          "height": 260
+                        },
+                        "children": 4,
+                        "attributes": [
+                          {
+                            "class": "div-block-32"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 div",
+                            "boundingBox": {
+                              "top": 7423.890625,
+                              "left": 1799.71875,
+                              "width": 74.796875,
+                              "height": 41
+                            },
+                            "children": 1,
+                            "attributes": null
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "h4",
+                                "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 div h4",
+                                "boundingBox": {
+                                  "top": 7423.890625,
+                                  "left": 1799.71875,
+                                  "width": 74.796875,
+                                  "height": 25
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "class": "footer-header"
+                                  }
+                                ]
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 div h4",
+                                  "text": "Connect",
+                                  "boundingBox": {
+                                    "top": 7423.890625,
+                                    "left": 1799.71875,
+                                    "width": 74.796875,
+                                    "height": 25
+                                  },
+                                  "attributes": [
+                                    {
+                                      "class": "footer-header"
+                                    }
+                                  ]
+                                }
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "a",
+                            "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(1)",
+                            "boundingBox": {
+                              "top": 7464.890625,
+                              "left": 1799.71875,
+                              "width": 82.40625,
+                              "height": 25
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "href": "http://linkedin.com/company/4990022"
+                              },
+                              {
+                                "target": "_blank"
+                              },
+                              {
+                                "class": "link-block-4 w-inline-block"
+                              },
+                              {
+                                "rel": "noreferrer"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(1) div",
+                                "boundingBox": {
+                                  "top": 7462.890625,
+                                  "left": 1799.71875,
+                                  "width": 82.40625,
+                                  "height": 24
+                                },
+                                "children": 2,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-46"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(1) div div:nth-child(1)",
+                                    "boundingBox": {
+                                      "top": 7464.890625,
+                                      "left": 1799.71875,
+                                      "width": 17,
+                                      "height": 20
+                                    },
+                                    "children": 1,
+                                    "attributes": null
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "img",
+                                        "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(1) div div:nth-child(1) img",
+                                        "boundingBox": {
+                                          "top": 7467.765625,
+                                          "left": 1799.71875,
+                                          "width": 17,
+                                          "height": 17
+                                        },
+                                        "children": 0,
+                                        "attributes": [
+                                          {
+                                            "src": "https://assets.website-files.com/604197abb43603652c167bfa/604197abb43603fe19167c2e_linkedin.png"
+                                          },
+                                          {
+                                            "width": "17"
+                                          },
+                                          {
+                                            "alt": ""
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(1) div div:nth-child(2)",
+                                    "boundingBox": {
+                                      "top": 7466.390625,
+                                      "left": 1828.71875,
+                                      "width": 53.40625,
+                                      "height": 19
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "text-block footer link"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(1) div div:nth-child(2)",
+                                      "text": "LinkedIn",
+                                      "boundingBox": {
+                                        "top": 7466.390625,
+                                        "left": 1828.71875,
+                                        "width": 53.40625,
+                                        "height": 19
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "text-block footer link"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "a",
+                            "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(2)",
+                            "boundingBox": {
+                              "top": 7508.890625,
+                              "left": 1799.71875,
+                              "width": 76.71875,
+                              "height": 25
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "href": "http://twitter.com/recursionpharma"
+                              },
+                              {
+                                "target": "_blank"
+                              },
+                              {
+                                "class": "link-block-4 w-inline-block"
+                              },
+                              {
+                                "rel": "noreferrer"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(2) div",
+                                "boundingBox": {
+                                  "top": 7506.890625,
+                                  "left": 1799.71875,
+                                  "width": 76.71875,
+                                  "height": 24
+                                },
+                                "children": 2,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-46"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(2) div div.div-block-47",
+                                    "boundingBox": {
+                                      "top": 7508.890625,
+                                      "left": 1799.71875,
+                                      "width": 21,
+                                      "height": 20
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-47"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "img",
+                                        "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(2) div div.div-block-47 img",
+                                        "boundingBox": {
+                                          "top": 7513.359375,
+                                          "left": 1799.71875,
+                                          "width": 17,
+                                          "height": 13.8125
+                                        },
+                                        "children": 0,
+                                        "attributes": [
+                                          {
+                                            "src": "https://assets.website-files.com/604197abb43603652c167bfa/604197abb436032b95167c33_twitter.png"
+                                          },
+                                          {
+                                            "width": "17"
+                                          },
+                                          {
+                                            "alt": ""
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(2) div div:nth-child(2)",
+                                    "boundingBox": {
+                                      "top": 7510.390625,
+                                      "left": 1832.71875,
+                                      "width": 43.71875,
+                                      "height": 19
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "text-block footer link"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(2) div div:nth-child(2)",
+                                      "text": "Twitter",
+                                      "boundingBox": {
+                                        "top": 7510.390625,
+                                        "left": 1832.71875,
+                                        "width": 43.71875,
+                                        "height": 19
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "text-block footer link"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "a",
+                            "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(3)",
+                            "boundingBox": {
+                              "top": 7552.890625,
+                              "left": 1799.71875,
+                              "width": 85.953125,
+                              "height": 25
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "href": "https://www.youtube.com/channel/UCXZs32Pik1MWsT9zLQ-K7iA"
+                              },
+                              {
+                                "target": "_blank"
+                              },
+                              {
+                                "class": "link-block-4 w-inline-block"
+                              },
+                              {
+                                "rel": "noreferrer"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(3) div",
+                                "boundingBox": {
+                                  "top": 7550.890625,
+                                  "left": 1799.71875,
+                                  "width": 85.953125,
+                                  "height": 24
+                                },
+                                "children": 2,
+                                "attributes": [
+                                  {
+                                    "class": "div-block-46"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(3) div div.div-block-48",
+                                    "boundingBox": {
+                                      "top": 7552.890625,
+                                      "left": 1799.71875,
+                                      "width": 21,
+                                      "height": 20
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "div-block-48"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "img",
+                                        "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(3) div div.div-block-48 img",
+                                        "boundingBox": {
+                                          "top": 7558.15625,
+                                          "left": 1799.71875,
+                                          "width": 17,
+                                          "height": 12.21875
+                                        },
+                                        "children": 0,
+                                        "attributes": [
+                                          {
+                                            "src": "https://assets.website-files.com/604197abb43603652c167bfa/604197abb436037f2a167c2b_youtube.png"
+                                          },
+                                          {
+                                            "width": "17"
+                                          },
+                                          {
+                                            "alt": ""
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(3) div div:nth-child(2)",
+                                    "boundingBox": {
+                                      "top": 7554.390625,
+                                      "left": 1832.71875,
+                                      "width": 52.953125,
+                                      "height": 19
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "text-block footer link"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.flex-wrapper div.section-15.wf-section div.div-block-91 div.w-layout-grid.footer-grid div.div-block-32 a:nth-child(3) div div:nth-child(2)",
+                                      "text": "Youtube",
+                                      "boundingBox": {
+                                        "top": 7554.390625,
+                                        "left": 1832.71875,
+                                        "width": 52.953125,
+                                        "height": 19
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "text-block footer link"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div:nth-child(4)",
+        "boundingBox": {
+          "top": 7740.890625,
+          "left": 0,
+          "width": 2770,
+          "height": 0
+        },
+        "children": 1,
+        "attributes": [
+          {
+            "class": "w-embed"
+          }
+        ]
+      },
+      []
+    ]
+  ]
+}

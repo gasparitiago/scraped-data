@@ -1,0 +1,1462 @@
+{
+  "url": "https://www.neurocrine.com/pipeline/",
+  "timestamp": 1661205776888,
+  "elements": [
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div.hero.home.bm-mint",
+        "boundingBox": {
+          "top": 0,
+          "left": 0,
+          "width": 2785,
+          "height": 1
+        },
+        "children": 3,
+        "attributes": [
+          {
+            "class": "hero home bm-mint"
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div.hero.home.bm-mint div.row.full.relative",
+            "boundingBox": {
+              "top": 0,
+              "left": 0,
+              "width": 2785,
+              "height": 0
+            },
+            "children": 5,
+            "attributes": [
+              {
+                "class": "row full relative"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "ul",
+                "path": "html body div.hero.home.bm-mint div.row.full.relative ul#carousel-1",
+                "boundingBox": {
+                  "top": 0,
+                  "left": 0,
+                  "width": 2785,
+                  "height": 0
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "class": "carousel slick-initialized slick-slider"
+                  },
+                  {
+                    "id": "carousel-1"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body div.hero.home.bm-mint div.row.full.relative ul#carousel-1 div.slick-list.draggable",
+                    "boundingBox": {
+                      "top": 0,
+                      "left": 0,
+                      "width": 2785,
+                      "height": 0
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "slick-list draggable"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.hero.home.bm-mint div.row.full.relative ul#carousel-1 div.slick-list.draggable div.slick-track",
+                        "boundingBox": {
+                          "top": 0,
+                          "left": 1392.5,
+                          "width": 0,
+                          "height": 0
+                        },
+                        "children": 0,
+                        "attributes": [
+                          {
+                            "class": "slick-track"
+                          },
+                          {
+                            "style": "opacity: 1; width: 0px;"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.hero.home.bm-mint div.row.full.relative div.pagination",
+                "boundingBox": {
+                  "top": -175,
+                  "left": 632.5,
+                  "width": 0,
+                  "height": 0
+                },
+                "children": 0,
+                "attributes": [
+                  {
+                    "class": "pagination"
+                  }
+                ]
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div.hero.inner.bm-mint.bg-contain.bg-right-bottom.bg-no-repeat",
+        "boundingBox": {
+          "top": 1,
+          "left": 0,
+          "width": 2785,
+          "height": 950.1875
+        },
+        "children": 3,
+        "attributes": [
+          {
+            "class": "hero inner bm-mint bg-contain bg-right-bottom bg-no-repeat"
+          },
+          {
+            "style": "background-image: url(https://www.neurocrine.com//assets/2021/12/bg-pipeline-v2.png); height:700px;"
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div.hero.inner.bm-mint.bg-contain.bg-right-bottom.bg-no-repeat div.row.h-full",
+            "boundingBox": {
+              "top": 446.59375,
+              "left": 685,
+              "width": 1415,
+              "height": 58
+            },
+            "children": 3,
+            "attributes": [
+              {
+                "class": "row h-full"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.hero.inner.bm-mint.bg-contain.bg-right-bottom.bg-no-repeat div.row.h-full div.flex.items-center.justify-between.h-full",
+                "boundingBox": {
+                  "top": 446.59375,
+                  "left": 705,
+                  "width": 1375,
+                  "height": 58
+                },
+                "children": 3,
+                "attributes": [
+                  {
+                    "class": "flex items-center justify-between h-full"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body div.hero.inner.bm-mint.bg-contain.bg-right-bottom.bg-no-repeat div.row.h-full div.flex.items-center.justify-between.h-full div.max-w-sm",
+                    "boundingBox": {
+                      "top": 446.59375,
+                      "left": 705,
+                      "width": 237.453125,
+                      "height": 58
+                    },
+                    "children": 3,
+                    "attributes": [
+                      {
+                        "class": "max-w-sm"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "h1",
+                        "path": "html body div.hero.inner.bm-mint.bg-contain.bg-right-bottom.bg-no-repeat div.row.h-full div.flex.items-center.justify-between.h-full div.max-w-sm h1",
+                        "boundingBox": {
+                          "top": 446.59375,
+                          "left": 705,
+                          "width": 237.453125,
+                          "height": 58
+                        },
+                        "children": 1,
+                        "attributes": null
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html body div.hero.inner.bm-mint.bg-contain.bg-right-bottom.bg-no-repeat div.row.h-full div.flex.items-center.justify-between.h-full div.max-w-sm h1",
+                          "text": "Pipeline",
+                          "boundingBox": {
+                            "top": 446.59375,
+                            "left": 705,
+                            "width": 237.453125,
+                            "height": 58
+                          },
+                          "attributes": null
+                        }
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      {
+        "nodeName": "section",
+        "path": "html body section",
+        "boundingBox": {
+          "top": 951.1875,
+          "left": 0,
+          "width": 2785,
+          "height": 1869.53125
+        },
+        "children": 3,
+        "attributes": null
+      },
+      [
+        [
+          {
+            "nodeName": "div",
+            "path": "html body section div",
+            "boundingBox": {
+              "top": 951.1875,
+              "left": 685,
+              "width": 1415,
+              "height": 1869.53125
+            },
+            "children": 3,
+            "attributes": [
+              {
+                "class": "row"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body section div div",
+                "boundingBox": {
+                  "top": 951.1875,
+                  "left": 705,
+                  "width": 1375,
+                  "height": 1869.53125
+                },
+                "children": 3,
+                "attributes": [
+                  {
+                    "class": "main-content py-16 sm:pb-4"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body section div div div",
+                    "boundingBox": {
+                      "top": 1011.1875,
+                      "left": 705,
+                      "width": 1375,
+                      "height": 1749.53125
+                    },
+                    "children": 5,
+                    "attributes": [
+                      {
+                        "class": "flex lg:block"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body section div div div div#sticky-nav",
+                        "boundingBox": {
+                          "top": 1022.4375,
+                          "left": 705,
+                          "width": 294,
+                          "height": 1738.28125
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "class": "w-1/5 mr-20 mt-3 lg:w-full lg:mb-20"
+                          },
+                          {
+                            "id": "sticky-nav"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body section div div div div#sticky-nav div",
+                            "boundingBox": {
+                              "top": 1022.4375,
+                              "left": 705,
+                              "width": 294,
+                              "height": 340
+                            },
+                            "children": 2,
+                            "attributes": [
+                              {
+                                "class": ""
+                              },
+                              {
+                                "role": "navigation"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "ul",
+                                "path": "html body section div div div div#sticky-nav div ul.secondary-nav",
+                                "boundingBox": {
+                                  "top": 1022.4375,
+                                  "left": 705,
+                                  "width": 294,
+                                  "height": 340
+                                },
+                                "children": 10,
+                                "attributes": [
+                                  {
+                                    "class": "secondary-nav"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "li",
+                                    "path": "html body section div div div div#sticky-nav div ul.secondary-nav li.menu-item.menu-item-type-custom.menu-item-object-custom.active.menu-item-462",
+                                    "boundingBox": {
+                                      "top": 1022.4375,
+                                      "left": 705,
+                                      "width": 294,
+                                      "height": 59.5
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "menu-item menu-item-type-custom menu-item-object-custom active menu-item-462"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "a",
+                                        "path": "html body section div div div div#sticky-nav div ul.secondary-nav li.menu-item.menu-item-type-custom.menu-item-object-custom.active.menu-item-462 a",
+                                        "boundingBox": {
+                                          "top": 1022.4375,
+                                          "left": 705,
+                                          "width": 294,
+                                          "height": 59.5
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "href": "https://www.neurocrine.com/pipeline/"
+                                          },
+                                          {
+                                            "aria-current": "page"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body section div div div div#sticky-nav div ul.secondary-nav li.menu-item.menu-item-type-custom.menu-item-object-custom.active.menu-item-462 a",
+                                          "text": "Overview",
+                                          "boundingBox": {
+                                            "top": 1022.4375,
+                                            "left": 705,
+                                            "width": 294,
+                                            "height": 59.5
+                                          },
+                                          "attributes": [
+                                            {
+                                              "href": "https://www.neurocrine.com/pipeline/"
+                                            },
+                                            {
+                                              "aria-current": "page"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "li",
+                                    "path": "html body section div div div div#sticky-nav div ul.secondary-nav li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-439",
+                                    "boundingBox": {
+                                      "top": 1091.9375,
+                                      "left": 705,
+                                      "width": 294,
+                                      "height": 54.5
+                                    },
+                                    "children": 4,
+                                    "attributes": [
+                                      {
+                                        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-439"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "a",
+                                        "path": "html body section div div div div#sticky-nav div ul.secondary-nav li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-439 a",
+                                        "boundingBox": {
+                                          "top": 1091.9375,
+                                          "left": 705,
+                                          "width": 294,
+                                          "height": 54.5
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "href": "https://www.neurocrine.com/pipeline/movement-disorders/"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body section div div div div#sticky-nav div ul.secondary-nav li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-439 a",
+                                          "text": "Movement Disorders",
+                                          "boundingBox": {
+                                            "top": 1091.9375,
+                                            "left": 705,
+                                            "width": 294,
+                                            "height": 54.5
+                                          },
+                                          "attributes": [
+                                            {
+                                              "href": "https://www.neurocrine.com/pipeline/movement-disorders/"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "li",
+                                    "path": "html body section div div div div#sticky-nav div ul.secondary-nav li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-481",
+                                    "boundingBox": {
+                                      "top": 1156.4375,
+                                      "left": 705,
+                                      "width": 294,
+                                      "height": 54.5
+                                    },
+                                    "children": 4,
+                                    "attributes": [
+                                      {
+                                        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-481"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "a",
+                                        "path": "html body section div div div div#sticky-nav div ul.secondary-nav li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-481 a",
+                                        "boundingBox": {
+                                          "top": 1156.4375,
+                                          "left": 705,
+                                          "width": 294,
+                                          "height": 54.5
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "href": "https://www.neurocrine.com/pipeline/epilepsy/"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body section div div div div#sticky-nav div ul.secondary-nav li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-481 a",
+                                          "text": "Epilepsy",
+                                          "boundingBox": {
+                                            "top": 1156.4375,
+                                            "left": 705,
+                                            "width": 294,
+                                            "height": 54.5
+                                          },
+                                          "attributes": [
+                                            {
+                                              "href": "https://www.neurocrine.com/pipeline/epilepsy/"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "li",
+                                    "path": "html body section div div div div#sticky-nav div ul.secondary-nav li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-483",
+                                    "boundingBox": {
+                                      "top": 1220.9375,
+                                      "left": 705,
+                                      "width": 294,
+                                      "height": 77
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-483"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "a",
+                                        "path": "html body section div div div div#sticky-nav div ul.secondary-nav li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-483 a",
+                                        "boundingBox": {
+                                          "top": 1220.9375,
+                                          "left": 705,
+                                          "width": 294,
+                                          "height": 77
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "href": "https://www.neurocrine.com/pipeline/congenital-adrenal-hyperplasia/"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body section div div div div#sticky-nav div ul.secondary-nav li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-483 a",
+                                          "text": "Congenital Adrenal Hyperplasia",
+                                          "boundingBox": {
+                                            "top": 1220.9375,
+                                            "left": 705,
+                                            "width": 294,
+                                            "height": 77
+                                          },
+                                          "attributes": [
+                                            {
+                                              "href": "https://www.neurocrine.com/pipeline/congenital-adrenal-hyperplasia/"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "li",
+                                    "path": "html body section div div div div#sticky-nav div ul.secondary-nav li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-541",
+                                    "boundingBox": {
+                                      "top": 1307.9375,
+                                      "left": 705,
+                                      "width": 294,
+                                      "height": 54.5
+                                    },
+                                    "children": 4,
+                                    "attributes": [
+                                      {
+                                        "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-541"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "a",
+                                        "path": "html body section div div div div#sticky-nav div ul.secondary-nav li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-541 a",
+                                        "boundingBox": {
+                                          "top": 1307.9375,
+                                          "left": 705,
+                                          "width": 294,
+                                          "height": 54.5
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "href": "https://www.neurocrine.com/pipeline/psychiatric-disorders/"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body section div div div div#sticky-nav div ul.secondary-nav li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-541 a",
+                                          "text": "Psychiatric Disorders",
+                                          "boundingBox": {
+                                            "top": 1307.9375,
+                                            "left": 705,
+                                            "width": 294,
+                                            "height": 54.5
+                                          },
+                                          "attributes": [
+                                            {
+                                              "href": "https://www.neurocrine.com/pipeline/psychiatric-disorders/"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body section div div div div:nth-child(2)",
+                        "boundingBox": {
+                          "top": 1011.1875,
+                          "left": 1074,
+                          "width": 1006,
+                          "height": 1749.53125
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "class": "w-4/5 lg:w-full"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body section div div div div:nth-child(2) div.main-content.main",
+                            "boundingBox": {
+                              "top": 1011.1875,
+                              "left": 1074,
+                              "width": 1006,
+                              "height": 1712.03125
+                            },
+                            "children": 5,
+                            "attributes": [
+                              {
+                                "class": "main-content main"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body section div div div div:nth-child(2) div.main-content.main div.mb-10.single-content",
+                                "boundingBox": {
+                                  "top": 1011.1875,
+                                  "left": 1074,
+                                  "width": 1006,
+                                  "height": 1712.03125
+                                },
+                                "children": 11,
+                                "attributes": [
+                                  {
+                                    "class": "mb-10 single-content"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h2",
+                                    "path": "html body section div div div div:nth-child(2) div.main-content.main div.mb-10.single-content h2",
+                                    "boundingBox": {
+                                      "top": 1011.1875,
+                                      "left": 1074,
+                                      "width": 1006,
+                                      "height": 40
+                                    },
+                                    "children": 1,
+                                    "attributes": null
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body section div div div div:nth-child(2) div.main-content.main div.mb-10.single-content h2",
+                                      "text": "Overview",
+                                      "boundingBox": {
+                                        "top": 1011.1875,
+                                        "left": 1074,
+                                        "width": 1006,
+                                        "height": 40
+                                      },
+                                      "attributes": null
+                                    }
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "h4",
+                                    "path": "html body section div div div div:nth-child(2) div.main-content.main div.mb-10.single-content h4:nth-child(1)",
+                                    "boundingBox": {
+                                      "top": 1091.1875,
+                                      "left": 1074,
+                                      "width": 1006,
+                                      "height": 25.1875
+                                    },
+                                    "children": 1,
+                                    "attributes": null
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body section div div div div:nth-child(2) div.main-content.main div.mb-10.single-content h4:nth-child(1)",
+                                      "text": "Commercially Available Medicines",
+                                      "boundingBox": {
+                                        "top": 1091.1875,
+                                        "left": 1074,
+                                        "width": 1006,
+                                        "height": 25.1875
+                                      },
+                                      "attributes": null
+                                    }
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "p",
+                                    "path": "html body section div div div div:nth-child(2) div.main-content.main div.mb-10.single-content p:nth-child(1)",
+                                    "boundingBox": {
+                                      "top": 1136.375,
+                                      "left": 1074,
+                                      "width": 1006,
+                                      "height": 123.78125
+                                    },
+                                    "children": 1,
+                                    "attributes": null
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "img",
+                                        "path": "html body section div div div div:nth-child(2) div.main-content.main div.mb-10.single-content p:nth-child(1) img.alignnone.size-medium.wp-image-1065",
+                                        "boundingBox": {
+                                          "top": 1136.375,
+                                          "left": 1074,
+                                          "width": 1006,
+                                          "height": 123.78125
+                                        },
+                                        "children": 0,
+                                        "attributes": [
+                                          {
+                                            "loading": "lazy"
+                                          },
+                                          {
+                                            "class": "alignnone size-medium wp-image-1065"
+                                          },
+                                          {
+                                            "src": "/assets/2022/04/medicines01-3-1024x126-1.png"
+                                          },
+                                          {
+                                            "alt": ""
+                                          },
+                                          {
+                                            "width": "100%"
+                                          },
+                                          {
+                                            "height": ""
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "h4",
+                                    "path": "html body section div div div div:nth-child(2) div.main-content.main div.mb-10.single-content h4:nth-child(2)",
+                                    "boundingBox": {
+                                      "top": 1300.15625,
+                                      "left": 1074,
+                                      "width": 1006,
+                                      "height": 25.1875
+                                    },
+                                    "children": 1,
+                                    "attributes": null
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body section div div div div:nth-child(2) div.main-content.main div.mb-10.single-content h4:nth-child(2)",
+                                      "text": "Our Pipeline of Investigational Therapies",
+                                      "boundingBox": {
+                                        "top": 1300.15625,
+                                        "left": 1074,
+                                        "width": 1006,
+                                        "height": 25.1875
+                                      },
+                                      "attributes": null
+                                    }
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "p",
+                                    "path": "html body section div div div div:nth-child(2) div.main-content.main div.mb-10.single-content p:nth-child(2)",
+                                    "boundingBox": {
+                                      "top": 1345.34375,
+                                      "left": 1074,
+                                      "width": 1006,
+                                      "height": 1377.875
+                                    },
+                                    "children": 1,
+                                    "attributes": null
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "img",
+                                        "path": "html body section div div div div:nth-child(2) div.main-content.main div.mb-10.single-content p:nth-child(2) img.alignnone.size-medium.wp-image-1032",
+                                        "boundingBox": {
+                                          "top": 1345.34375,
+                                          "left": 1074,
+                                          "width": 1006,
+                                          "height": 1377.875
+                                        },
+                                        "children": 0,
+                                        "attributes": [
+                                          {
+                                            "loading": "lazy"
+                                          },
+                                          {
+                                            "class": "alignnone size-medium wp-image-1032"
+                                          },
+                                          {
+                                            "src": "/assets/2022/04/pipeline-update_v6-02-12.svg"
+                                          },
+                                          {
+                                            "alt": ""
+                                          },
+                                          {
+                                            "width": "100%"
+                                          },
+                                          {
+                                            "height": ""
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      {
+        "nodeName": "footer",
+        "path": "html body footer",
+        "boundingBox": {
+          "top": 2820.71875,
+          "left": 0,
+          "width": 2785,
+          "height": 225.8125
+        },
+        "children": 3,
+        "attributes": [
+          {
+            "class": "bm-mint pt-16 pb-20"
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "div",
+            "path": "html body footer div.row.extended",
+            "boundingBox": {
+              "top": 2880.71875,
+              "left": 612.5,
+              "width": 1560,
+              "height": 90.8125
+            },
+            "children": 3,
+            "attributes": [
+              {
+                "class": "row extended"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body footer div.row.extended div",
+                "boundingBox": {
+                  "top": 2880.71875,
+                  "left": 632.5,
+                  "width": 1520,
+                  "height": 90.8125
+                },
+                "children": 5,
+                "attributes": [
+                  {
+                    "class": "flex justify-between lg:block"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body footer div.row.extended div div:nth-child(1)",
+                    "boundingBox": {
+                      "top": 2880.71875,
+                      "left": 632.5,
+                      "width": 300,
+                      "height": 90.8125
+                    },
+                    "children": 3,
+                    "attributes": [
+                      {
+                        "class": "lg:mb-10 max-w-xs"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "img",
+                        "path": "html body footer div.row.extended div div:nth-child(1) img",
+                        "boundingBox": {
+                          "top": 2880.71875,
+                          "left": 632.5,
+                          "width": 300,
+                          "height": 90.8125
+                        },
+                        "children": 0,
+                        "attributes": [
+                          {
+                            "src": "/wp-content/themes/neurocrine/assets/img/logo-footer.svg"
+                          },
+                          {
+                            "alt": "Image"
+                          },
+                          {
+                            "class": "md:justify-center md:m-auto"
+                          }
+                        ]
+                      }
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body footer div.row.extended div div:nth-child(2)",
+                    "boundingBox": {
+                      "top": 2880.71875,
+                      "left": 1401.703125,
+                      "width": 750.796875,
+                      "height": 90.8125
+                    },
+                    "children": 5,
+                    "attributes": [
+                      {
+                        "class": ""
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "ul",
+                        "path": "html body footer div.row.extended div div:nth-child(2) ul",
+                        "boundingBox": {
+                          "top": 2880.71875,
+                          "left": 1401.703125,
+                          "width": 750.796875,
+                          "height": 22.5
+                        },
+                        "children": 12,
+                        "attributes": [
+                          {
+                            "class": "footer-nav flex mb-6 lg:flex-wrap md:text-center md:justify-center"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "li",
+                            "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(1)",
+                            "boundingBox": {
+                              "top": 2880.71875,
+                              "left": 1431.703125,
+                              "width": 61.234375,
+                              "height": 22.5
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ml-8 xl:ml-0 xl:mr-8 md:ml-4 md:mr-4 menu-item menu-item-type-post_type menu-item-object-page"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "a",
+                                "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(1) a",
+                                "boundingBox": {
+                                  "top": 2880.71875,
+                                  "left": 1431.703125,
+                                  "width": 61.234375,
+                                  "height": 21
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "href": "https://www.neurocrine.com/about-us/contact/"
+                                  }
+                                ]
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(1) a",
+                                  "text": "Contact",
+                                  "boundingBox": {
+                                    "top": 2880.71875,
+                                    "left": 1431.703125,
+                                    "width": 61.234375,
+                                    "height": 21
+                                  },
+                                  "attributes": [
+                                    {
+                                      "href": "https://www.neurocrine.com/about-us/contact/"
+                                    }
+                                  ]
+                                }
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "li",
+                            "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(2)",
+                            "boundingBox": {
+                              "top": 2880.71875,
+                              "left": 1522.9375,
+                              "width": 103.234375,
+                              "height": 22.5
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ml-8 xl:ml-0 xl:mr-8 md:ml-4 md:mr-4 menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "a",
+                                "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(2) a",
+                                "boundingBox": {
+                                  "top": 2880.71875,
+                                  "left": 1522.9375,
+                                  "width": 103.234375,
+                                  "height": 21
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "href": "https://www.neurocrine.com/privacy-policy/"
+                                  }
+                                ]
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(2) a",
+                                  "text": "Privacy Policy",
+                                  "boundingBox": {
+                                    "top": 2880.71875,
+                                    "left": 1522.9375,
+                                    "width": 103.234375,
+                                    "height": 21
+                                  },
+                                  "attributes": [
+                                    {
+                                      "href": "https://www.neurocrine.com/privacy-policy/"
+                                    }
+                                  ]
+                                }
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "li",
+                            "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(3)",
+                            "boundingBox": {
+                              "top": 2880.71875,
+                              "left": 1656.171875,
+                              "width": 100.3125,
+                              "height": 22.5
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ml-8 xl:ml-0 xl:mr-8 md:ml-4 md:mr-4 menu-item menu-item-type-post_type menu-item-object-page"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "a",
+                                "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(3) a",
+                                "boundingBox": {
+                                  "top": 2880.71875,
+                                  "left": 1656.171875,
+                                  "width": 100.3125,
+                                  "height": 21
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "href": "https://www.neurocrine.com/cookie-policy/"
+                                  }
+                                ]
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(3) a",
+                                  "text": "Cookie Policy",
+                                  "boundingBox": {
+                                    "top": 2880.71875,
+                                    "left": 1656.171875,
+                                    "width": 100.3125,
+                                    "height": 21
+                                  },
+                                  "attributes": [
+                                    {
+                                      "href": "https://www.neurocrine.com/cookie-policy/"
+                                    }
+                                  ]
+                                }
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "li",
+                            "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(4)",
+                            "boundingBox": {
+                              "top": 2880.71875,
+                              "left": 1786.484375,
+                              "width": 148.171875,
+                              "height": 22.5
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ml-8 xl:ml-0 xl:mr-8 md:ml-4 md:mr-4 menu-item menu-item-type-post_type menu-item-object-page"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "a",
+                                "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(4) a",
+                                "boundingBox": {
+                                  "top": 2880.71875,
+                                  "left": 1786.484375,
+                                  "width": 148.171875,
+                                  "height": 21
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "href": "https://www.neurocrine.com/terms-conditions/"
+                                  }
+                                ]
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(4) a",
+                                  "text": "Terms & Conditions",
+                                  "boundingBox": {
+                                    "top": 2880.71875,
+                                    "left": 1786.484375,
+                                    "width": 148.171875,
+                                    "height": 21
+                                  },
+                                  "attributes": [
+                                    {
+                                      "href": "https://www.neurocrine.com/terms-conditions/"
+                                    }
+                                  ]
+                                }
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "li",
+                            "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(5)",
+                            "boundingBox": {
+                              "top": 2880.71875,
+                              "left": 1964.65625,
+                              "width": 94.0625,
+                              "height": 22.5
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ml-8 xl:ml-0 xl:mr-8 md:ml-4 md:mr-4 menu-item menu-item-type-post_type menu-item-object-page"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "a",
+                                "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(5) a",
+                                "boundingBox": {
+                                  "top": 2880.71875,
+                                  "left": 1964.65625,
+                                  "width": 94.0625,
+                                  "height": 21
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "href": "https://www.neurocrine.com/neurocrine-accessibility-statement/"
+                                  }
+                                ]
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(5) a",
+                                  "text": "Accessibility",
+                                  "boundingBox": {
+                                    "top": 2880.71875,
+                                    "left": 1964.65625,
+                                    "width": 94.0625,
+                                    "height": 21
+                                  },
+                                  "attributes": [
+                                    {
+                                      "href": "https://www.neurocrine.com/neurocrine-accessibility-statement/"
+                                    }
+                                  ]
+                                }
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "li",
+                            "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(6)",
+                            "boundingBox": {
+                              "top": 2880.71875,
+                              "left": 2088.71875,
+                              "width": 63.78125,
+                              "height": 22.5
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ml-8 xl:ml-0 xl:mr-8 md:ml-4 md:mr-4 menu-item menu-item-type-post_type menu-item-object-page"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "a",
+                                "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(6) a",
+                                "boundingBox": {
+                                  "top": 2880.71875,
+                                  "left": 2088.71875,
+                                  "width": 63.78125,
+                                  "height": 21
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "href": "https://www.neurocrine.com/sitemap/"
+                                  }
+                                ]
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html body footer div.row.extended div div:nth-child(2) ul li:nth-child(6) a",
+                                  "text": "Sitemap",
+                                  "boundingBox": {
+                                    "top": 2880.71875,
+                                    "left": 2088.71875,
+                                    "width": 63.78125,
+                                    "height": 21
+                                  },
+                                  "attributes": [
+                                    {
+                                      "href": "https://www.neurocrine.com/sitemap/"
+                                    }
+                                  ]
+                                }
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body footer div.row.extended div div:nth-child(2) div",
+                        "boundingBox": {
+                          "top": 2925.71875,
+                          "left": 1401.703125,
+                          "width": 750.796875,
+                          "height": 27
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "flex justify-end lg:justify-start md:justify-center"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "p",
+                            "path": "html body footer div.row.extended div div:nth-child(2) div p",
+                            "boundingBox": {
+                              "top": 2925.71875,
+                              "left": 1747.125,
+                              "width": 405.375,
+                              "height": 27
+                            },
+                            "children": 1,
+                            "attributes": null
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body footer div.row.extended div div:nth-child(2) div p",
+                              "text": "©2022 Neurocrine Biosciences, Inc. All Rights Reserved.",
+                              "boundingBox": {
+                                "top": 2925.71875,
+                                "left": 1747.125,
+                                "width": 405.375,
+                                "height": 27
+                              },
+                              "attributes": null
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div.wt-cli-cookie-bar-container",
+        "boundingBox": {
+          "top": 3046.53125,
+          "left": 0,
+          "width": 2785,
+          "height": 0
+        },
+        "children": 10,
+        "attributes": [
+          {
+            "class": "wt-cli-cookie-bar-container"
+          },
+          {
+            "data-nosnippet": "true"
+          },
+          {
+            "style": "display: block;"
+          }
+        ]
+      },
+      []
+    ]
+  ]
+}

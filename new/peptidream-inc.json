@@ -1,0 +1,1766 @@
+{
+  "url": "https://www.peptidream.com/pipeline/index.html",
+  "timestamp": 1661206641267,
+  "elements": [
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div#pipeline",
+        "boundingBox": {
+          "top": 182,
+          "left": 709.5,
+          "width": 1366,
+          "height": 240
+        },
+        "children": 3,
+        "attributes": [
+          {
+            "class": "container mainvisual naka"
+          },
+          {
+            "id": "pipeline"
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "h1",
+            "path": "html body div#pipeline h1",
+            "boundingBox": {
+              "top": 242,
+              "left": 749.5,
+              "width": 1326,
+              "height": 102
+            },
+            "children": 2,
+            "attributes": null
+          },
+          [
+            {
+              "nodeName": "text",
+              "path": "html body div#pipeline h1",
+              "text": "Pipeline",
+              "boundingBox": {
+                "top": 242,
+                "left": 749.5,
+                "width": 1326,
+                "height": 102
+              },
+              "attributes": null
+            },
+            [
+              {
+                "nodeName": "span",
+                "path": "html body div#pipeline h1 span",
+                "boundingBox": {
+                  "top": 314,
+                  "left": 749.5,
+                  "width": 1326,
+                  "height": 30
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "class": "jp"
+                  }
+                ]
+              },
+              [
+                {
+                  "nodeName": "text",
+                  "path": "html body div#pipeline h1 span",
+                  "text": "パイプライン",
+                  "boundingBox": {
+                    "top": 314,
+                    "left": 749.5,
+                    "width": 1326,
+                    "height": 30
+                  },
+                  "attributes": [
+                    {
+                      "class": "jp"
+                    }
+                  ]
+                }
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      {
+        "nodeName": "section",
+        "path": "html body section",
+        "boundingBox": {
+          "top": 422,
+          "left": 724.5,
+          "width": 1336,
+          "height": 476.15625
+        },
+        "children": 7,
+        "attributes": [
+          {
+            "class": "container"
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "div",
+            "path": "html body section div#pipeline01",
+            "boundingBox": {
+              "top": 482,
+              "left": 724.5,
+              "width": 1336,
+              "height": 416.15625
+            },
+            "children": 3,
+            "attributes": [
+              {
+                "class": "row section first"
+              },
+              {
+                "id": "pipeline01"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body section div#pipeline01 div.col-lg-12.col-md-12",
+                "boundingBox": {
+                  "top": 482,
+                  "left": 724.5,
+                  "width": 1336,
+                  "height": 356.15625
+                },
+                "children": 5,
+                "attributes": [
+                  {
+                    "class": "col-lg-12 col-md-12"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "h2",
+                    "path": "html body section div#pipeline01 div.col-lg-12.col-md-12 h2",
+                    "boundingBox": {
+                      "top": 482,
+                      "left": 739.5,
+                      "width": 1306,
+                      "height": 70.796875
+                    },
+                    "children": 2,
+                    "attributes": null
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body section div#pipeline01 div.col-lg-12.col-md-12 h2",
+                      "text": "Progress of Programs in Drug Development Stages (As of June 30, 2022)",
+                      "boundingBox": {
+                        "top": 482,
+                        "left": 739.5,
+                        "width": 1306,
+                        "height": 70.796875
+                      },
+                      "attributes": null
+                    },
+                    [
+                      {
+                        "nodeName": "span",
+                        "path": "html body section div#pipeline01 div.col-lg-12.col-md-12 h2 span",
+                        "boundingBox": {
+                          "top": 533,
+                          "left": 739.5,
+                          "width": 1306,
+                          "height": 19.796875
+                        },
+                        "children": 2,
+                        "attributes": [
+                          {
+                            "class": "jp"
+                          }
+                        ]
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html body section div#pipeline01 div.col-lg-12.col-md-12 h2 span",
+                          "text": "研究開発ステージごとのプログラム進捗状況（2022年6月末時点）",
+                          "boundingBox": {
+                            "top": 533,
+                            "left": 739.5,
+                            "width": 1306,
+                            "height": 19.796875
+                          },
+                          "attributes": [
+                            {
+                              "class": "jp"
+                            }
+                          ]
+                        },
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html body section div#pipeline01 div.col-lg-12.col-md-12 h2 span span",
+                            "boundingBox": {
+                              "top": 532,
+                              "left": 1660.078125,
+                              "width": 0,
+                              "height": 20
+                            },
+                            "children": 0,
+                            "attributes": null
+                          }
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body section div#pipeline01 div.col-lg-12.col-md-12 div.col-ld-12.col-md-12.mb40",
+                    "boundingBox": {
+                      "top": 592.796875,
+                      "left": 739.5,
+                      "width": 1306,
+                      "height": 205.359375
+                    },
+                    "children": 5,
+                    "attributes": [
+                      {
+                        "class": "col-ld-12 col-md-12 mb40"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "figure",
+                        "path": "html body section div#pipeline01 div.col-lg-12.col-md-12 div.col-ld-12.col-md-12.mb40 figure",
+                        "boundingBox": {
+                          "top": 592.796875,
+                          "left": 754.5,
+                          "width": 1276,
+                          "height": 165.359375
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "class": "img-box sdgs-img"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "img",
+                            "path": "html body section div#pipeline01 div.col-lg-12.col-md-12 div.col-ld-12.col-md-12.mb40 figure img",
+                            "boundingBox": {
+                              "top": 592.796875,
+                              "left": 992.5,
+                              "width": 800,
+                              "height": 165.359375
+                            },
+                            "children": 0,
+                            "attributes": [
+                              {
+                                "src": "images/pipeline.jpg"
+                              }
+                            ]
+                          }
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "p",
+                        "path": "html body section div#pipeline01 div.col-lg-12.col-md-12 div.col-ld-12.col-md-12.mb40 p.mt10",
+                        "boundingBox": {
+                          "top": 768.15625,
+                          "left": 754.5,
+                          "width": 1276,
+                          "height": 20
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "mt10"
+                          }
+                        ]
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html body section div#pipeline01 div.col-lg-12.col-md-12 div.col-ld-12.col-md-12.mb40 p.mt10",
+                          "text": "Note: Numbers do not include programs in the PDPS Technology Transfer business nor the Radiopharmaceuticals busines.",
+                          "boundingBox": {
+                            "top": 768.15625,
+                            "left": 754.5,
+                            "width": 1276,
+                            "height": 20
+                          },
+                          "attributes": [
+                            {
+                              "class": "mt10"
+                            }
+                          ]
+                        }
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      {
+        "nodeName": "footer",
+        "path": "html body footer",
+        "boundingBox": {
+          "top": 948.15625,
+          "left": 0,
+          "width": 2785,
+          "height": 260
+        },
+        "children": 5,
+        "attributes": null
+      },
+      [
+        [
+          {
+            "nodeName": "nav",
+            "path": "html body footer nav.footer-nav",
+            "boundingBox": {
+              "top": 948.15625,
+              "left": 0,
+              "width": 2785,
+              "height": 210
+            },
+            "children": 3,
+            "attributes": [
+              {
+                "class": "footer-nav"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body footer nav.footer-nav div",
+                "boundingBox": {
+                  "top": 968.15625,
+                  "left": 724.5,
+                  "width": 1336,
+                  "height": 170
+                },
+                "children": 3,
+                "attributes": [
+                  {
+                    "class": "container"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body footer nav.footer-nav div div",
+                    "boundingBox": {
+                      "top": 968.15625,
+                      "left": 724.5,
+                      "width": 1336,
+                      "height": 170
+                    },
+                    "children": 11,
+                    "attributes": [
+                      {
+                        "class": "row"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body footer nav.footer-nav div div div:nth-child(1)",
+                        "boundingBox": {
+                          "top": 968.15625,
+                          "left": 724.5,
+                          "width": 334,
+                          "height": 136
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "class": "col-lg-3 col-md-3"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "ul",
+                            "path": "html body footer nav.footer-nav div div div:nth-child(1) ul",
+                            "boundingBox": {
+                              "top": 968.15625,
+                              "left": 739.5,
+                              "width": 304,
+                              "height": 122
+                            },
+                            "children": 9,
+                            "attributes": null
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "li",
+                                "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 968.15625,
+                                  "left": 779.5,
+                                  "width": 264,
+                                  "height": 20
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "a",
+                                    "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(1) a",
+                                    "boundingBox": {
+                                      "top": 970.15625,
+                                      "left": 779.5,
+                                      "width": 90.125,
+                                      "height": 16
+                                    },
+                                    "children": 2,
+                                    "attributes": [
+                                      {
+                                        "href": "../index.html"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(1) a",
+                                      "text": "HOME",
+                                      "boundingBox": {
+                                        "top": 970.15625,
+                                        "left": 779.5,
+                                        "width": 90.125,
+                                        "height": 16
+                                      },
+                                      "attributes": [
+                                        {
+                                          "href": "../index.html"
+                                        }
+                                      ]
+                                    },
+                                    [
+                                      {
+                                        "nodeName": "span",
+                                        "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(1) a span",
+                                        "boundingBox": {
+                                          "top": 973.15625,
+                                          "left": 825.390625,
+                                          "width": 44.234375,
+                                          "height": 12
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "class": "jp"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(1) a span",
+                                          "text": "ホーム",
+                                          "boundingBox": {
+                                            "top": 973.15625,
+                                            "left": 825.390625,
+                                            "width": 44.234375,
+                                            "height": 12
+                                          },
+                                          "attributes": [
+                                            {
+                                              "class": "jp"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "li",
+                                "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 1002.15625,
+                                  "left": 779.5,
+                                  "width": 264,
+                                  "height": 20
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "a",
+                                    "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(2) a",
+                                    "boundingBox": {
+                                      "top": 1004.15625,
+                                      "left": 779.5,
+                                      "width": 99.875,
+                                      "height": 16
+                                    },
+                                    "children": 2,
+                                    "attributes": [
+                                      {
+                                        "href": "../news/index.html"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(2) a",
+                                      "text": "NEWS",
+                                      "boundingBox": {
+                                        "top": 1004.15625,
+                                        "left": 779.5,
+                                        "width": 99.875,
+                                        "height": 16
+                                      },
+                                      "attributes": [
+                                        {
+                                          "href": "../news/index.html"
+                                        }
+                                      ]
+                                    },
+                                    [
+                                      {
+                                        "nodeName": "span",
+                                        "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(2) a span",
+                                        "boundingBox": {
+                                          "top": 1007.15625,
+                                          "left": 825.390625,
+                                          "width": 53.984375,
+                                          "height": 12
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "class": "jp"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(2) a span",
+                                          "text": "ニュース",
+                                          "boundingBox": {
+                                            "top": 1007.15625,
+                                            "left": 825.390625,
+                                            "width": 53.984375,
+                                            "height": 12
+                                          },
+                                          "attributes": [
+                                            {
+                                              "class": "jp"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "li",
+                                "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(3)",
+                                "boundingBox": {
+                                  "top": 1036.15625,
+                                  "left": 779.5,
+                                  "width": 264,
+                                  "height": 20
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "a",
+                                    "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(3) a",
+                                    "boundingBox": {
+                                      "top": 1038.15625,
+                                      "left": 779.5,
+                                      "width": 128.359375,
+                                      "height": 16
+                                    },
+                                    "children": 2,
+                                    "attributes": [
+                                      {
+                                        "href": "../careers/index.html"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(3) a",
+                                      "text": "CAREERS",
+                                      "boundingBox": {
+                                        "top": 1038.15625,
+                                        "left": 779.5,
+                                        "width": 128.359375,
+                                        "height": 16
+                                      },
+                                      "attributes": [
+                                        {
+                                          "href": "../careers/index.html"
+                                        }
+                                      ]
+                                    },
+                                    [
+                                      {
+                                        "nodeName": "span",
+                                        "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(3) a span",
+                                        "boundingBox": {
+                                          "top": 1041.15625,
+                                          "left": 851.859375,
+                                          "width": 56,
+                                          "height": 12
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "class": "jp"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(3) a span",
+                                          "text": "採用情報",
+                                          "boundingBox": {
+                                            "top": 1041.15625,
+                                            "left": 851.859375,
+                                            "width": 56,
+                                            "height": 12
+                                          },
+                                          "attributes": [
+                                            {
+                                              "class": "jp"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "li",
+                                "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(4)",
+                                "boundingBox": {
+                                  "top": 1070.15625,
+                                  "left": 779.5,
+                                  "width": 264,
+                                  "height": 20
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "a",
+                                    "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(4) a",
+                                    "boundingBox": {
+                                      "top": 1072.15625,
+                                      "left": 779.5,
+                                      "width": 149.6875,
+                                      "height": 16
+                                    },
+                                    "children": 2,
+                                    "attributes": [
+                                      {
+                                        "href": "../contact/contact.html"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(4) a",
+                                      "text": "CONTACT",
+                                      "boundingBox": {
+                                        "top": 1072.15625,
+                                        "left": 779.5,
+                                        "width": 149.6875,
+                                        "height": 16
+                                      },
+                                      "attributes": [
+                                        {
+                                          "href": "../contact/contact.html"
+                                        }
+                                      ]
+                                    },
+                                    [
+                                      {
+                                        "nodeName": "span",
+                                        "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(4) a span",
+                                        "boundingBox": {
+                                          "top": 1075.15625,
+                                          "left": 850.796875,
+                                          "width": 78.390625,
+                                          "height": 12
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "class": "jp"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body footer nav.footer-nav div div div:nth-child(1) ul li:nth-child(4) a span",
+                                          "text": "お問い合わせ",
+                                          "boundingBox": {
+                                            "top": 1075.15625,
+                                            "left": 850.796875,
+                                            "width": 78.390625,
+                                            "height": 12
+                                          },
+                                          "attributes": [
+                                            {
+                                              "class": "jp"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body footer nav.footer-nav div div div:nth-child(2)",
+                        "boundingBox": {
+                          "top": 968.15625,
+                          "left": 1058.5,
+                          "width": 334,
+                          "height": 170
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "class": "col-lg-3 col-md-3"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "ul",
+                            "path": "html body footer nav.footer-nav div div div:nth-child(2) ul",
+                            "boundingBox": {
+                              "top": 968.15625,
+                              "left": 1073.5,
+                              "width": 304,
+                              "height": 156
+                            },
+                            "children": 11,
+                            "attributes": null
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "li",
+                                "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 968.15625,
+                                  "left": 1113.5,
+                                  "width": 264,
+                                  "height": 20
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "a",
+                                    "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(1) a",
+                                    "boundingBox": {
+                                      "top": 970.15625,
+                                      "left": 1113.5,
+                                      "width": 165.15625,
+                                      "height": 16
+                                    },
+                                    "children": 2,
+                                    "attributes": [
+                                      {
+                                        "href": "../company/index.html"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(1) a",
+                                      "text": "OUR COMPANY",
+                                      "boundingBox": {
+                                        "top": 970.15625,
+                                        "left": 1113.5,
+                                        "width": 165.15625,
+                                        "height": 16
+                                      },
+                                      "attributes": [
+                                        {
+                                          "href": "../company/index.html"
+                                        }
+                                      ]
+                                    },
+                                    [
+                                      {
+                                        "nodeName": "span",
+                                        "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(1) a span",
+                                        "boundingBox": {
+                                          "top": 973.15625,
+                                          "left": 1222.65625,
+                                          "width": 56,
+                                          "height": 12
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "class": "jp"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(1) a span",
+                                          "text": "企業情報",
+                                          "boundingBox": {
+                                            "top": 973.15625,
+                                            "left": 1222.65625,
+                                            "width": 56,
+                                            "height": 12
+                                          },
+                                          "attributes": [
+                                            {
+                                              "class": "jp"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "li",
+                                "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 1002.15625,
+                                  "left": 1113.5,
+                                  "width": 264,
+                                  "height": 20
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "a",
+                                    "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(2) a",
+                                    "boundingBox": {
+                                      "top": 1004.15625,
+                                      "left": 1113.5,
+                                      "width": 141.59375,
+                                      "height": 16
+                                    },
+                                    "children": 2,
+                                    "attributes": [
+                                      {
+                                        "href": "../discovery/index.html"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(2) a",
+                                      "text": "DISCOVERY",
+                                      "boundingBox": {
+                                        "top": 1004.15625,
+                                        "left": 1113.5,
+                                        "width": 141.59375,
+                                        "height": 16
+                                      },
+                                      "attributes": [
+                                        {
+                                          "href": "../discovery/index.html"
+                                        }
+                                      ]
+                                    },
+                                    [
+                                      {
+                                        "nodeName": "span",
+                                        "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(2) a span",
+                                        "boundingBox": {
+                                          "top": 1007.15625,
+                                          "left": 1199.09375,
+                                          "width": 56,
+                                          "height": 12
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "class": "jp"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(2) a span",
+                                          "text": "事業内容",
+                                          "boundingBox": {
+                                            "top": 1007.15625,
+                                            "left": 1199.09375,
+                                            "width": 56,
+                                            "height": 12
+                                          },
+                                          "attributes": [
+                                            {
+                                              "class": "jp"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "li",
+                                "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(3)",
+                                "boundingBox": {
+                                  "top": 1036.15625,
+                                  "left": 1113.5,
+                                  "width": 264,
+                                  "height": 20
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "a",
+                                    "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(3) a",
+                                    "boundingBox": {
+                                      "top": 1038.15625,
+                                      "left": 1113.5,
+                                      "width": 145.75,
+                                      "height": 16
+                                    },
+                                    "children": 2,
+                                    "attributes": [
+                                      {
+                                        "href": "../pipeline/index.html"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(3) a",
+                                      "text": "PIPELINE",
+                                      "boundingBox": {
+                                        "top": 1038.15625,
+                                        "left": 1113.5,
+                                        "width": 145.75,
+                                        "height": 16
+                                      },
+                                      "attributes": [
+                                        {
+                                          "href": "../pipeline/index.html"
+                                        }
+                                      ]
+                                    },
+                                    [
+                                      {
+                                        "nodeName": "span",
+                                        "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(3) a span",
+                                        "boundingBox": {
+                                          "top": 1041.15625,
+                                          "left": 1181.1875,
+                                          "width": 78.0625,
+                                          "height": 12
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "class": "jp"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(3) a span",
+                                          "text": "パイプライン",
+                                          "boundingBox": {
+                                            "top": 1041.15625,
+                                            "left": 1181.1875,
+                                            "width": 78.0625,
+                                            "height": 12
+                                          },
+                                          "attributes": [
+                                            {
+                                              "class": "jp"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "li",
+                                "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(4)",
+                                "boundingBox": {
+                                  "top": 1070.15625,
+                                  "left": 1113.5,
+                                  "width": 264,
+                                  "height": 20
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "a",
+                                    "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(4) a",
+                                    "boundingBox": {
+                                      "top": 1072.15625,
+                                      "left": 1113.5,
+                                      "width": 129.34375,
+                                      "height": 16
+                                    },
+                                    "children": 2,
+                                    "attributes": [
+                                      {
+                                        "href": "../ir/index.html"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(4) a",
+                                      "text": "INVESTORS",
+                                      "boundingBox": {
+                                        "top": 1072.15625,
+                                        "left": 1113.5,
+                                        "width": 129.34375,
+                                        "height": 16
+                                      },
+                                      "attributes": [
+                                        {
+                                          "href": "../ir/index.html"
+                                        }
+                                      ]
+                                    },
+                                    [
+                                      {
+                                        "nodeName": "span",
+                                        "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(4) a span",
+                                        "boundingBox": {
+                                          "top": 1075.15625,
+                                          "left": 1198.046875,
+                                          "width": 44.796875,
+                                          "height": 12
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "class": "jp"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(4) a span",
+                                          "text": "IR情報",
+                                          "boundingBox": {
+                                            "top": 1075.15625,
+                                            "left": 1198.046875,
+                                            "width": 44.796875,
+                                            "height": 12
+                                          },
+                                          "attributes": [
+                                            {
+                                              "class": "jp"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "li",
+                                "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(5)",
+                                "boundingBox": {
+                                  "top": 1104.15625,
+                                  "left": 1113.5,
+                                  "width": 264,
+                                  "height": 20
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "a",
+                                    "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(5) a",
+                                    "boundingBox": {
+                                      "top": 1106.15625,
+                                      "left": 1113.5,
+                                      "width": 218.625,
+                                      "height": 16
+                                    },
+                                    "children": 2,
+                                    "attributes": [
+                                      {
+                                        "href": "../esg/index.html"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(5) a",
+                                      "text": "SUSTAINABILITY",
+                                      "boundingBox": {
+                                        "top": 1106.15625,
+                                        "left": 1113.5,
+                                        "width": 218.625,
+                                        "height": 16
+                                      },
+                                      "attributes": [
+                                        {
+                                          "href": "../esg/index.html"
+                                        }
+                                      ]
+                                    },
+                                    [
+                                      {
+                                        "nodeName": "span",
+                                        "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(5) a span",
+                                        "boundingBox": {
+                                          "top": 1109.15625,
+                                          "left": 1232,
+                                          "width": 100.125,
+                                          "height": 12
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "class": "jp"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body footer nav.footer-nav div div div:nth-child(2) ul li:nth-child(5) a span",
+                                          "text": "サステナビリティ",
+                                          "boundingBox": {
+                                            "top": 1109.15625,
+                                            "left": 1232,
+                                            "width": 100.125,
+                                            "height": 12
+                                          },
+                                          "attributes": [
+                                            {
+                                              "class": "jp"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4",
+                        "boundingBox": {
+                          "top": 968.15625,
+                          "left": 1392.5,
+                          "width": 445.328125,
+                          "height": 122
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "class": "col-lg-4 col-md-4"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "ul",
+                            "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul",
+                            "boundingBox": {
+                              "top": 968.15625,
+                              "left": 1407.5,
+                              "width": 415.328125,
+                              "height": 108
+                            },
+                            "children": 9,
+                            "attributes": null
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "li",
+                                "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 968.15625,
+                                  "left": 1447.5,
+                                  "width": 375.328125,
+                                  "height": 20
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "a",
+                                    "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li:nth-child(1) a",
+                                    "boundingBox": {
+                                      "top": 970.15625,
+                                      "left": 1447.5,
+                                      "width": 221.390625,
+                                      "height": 16
+                                    },
+                                    "children": 2,
+                                    "attributes": [
+                                      {
+                                        "href": "../privacy.html"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li:nth-child(1) a",
+                                      "text": "PRIVACY POLICY",
+                                      "boundingBox": {
+                                        "top": 970.15625,
+                                        "left": 1447.5,
+                                        "width": 221.390625,
+                                        "height": 16
+                                      },
+                                      "attributes": [
+                                        {
+                                          "href": "../privacy.html"
+                                        }
+                                      ]
+                                    },
+                                    [
+                                      {
+                                        "nodeName": "span",
+                                        "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li:nth-child(1) a span",
+                                        "boundingBox": {
+                                          "top": 973.15625,
+                                          "left": 1568.09375,
+                                          "width": 100.796875,
+                                          "height": 12
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "class": "jp"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li:nth-child(1) a span",
+                                          "text": "個人情報保護方針",
+                                          "boundingBox": {
+                                            "top": 973.15625,
+                                            "left": 1568.09375,
+                                            "width": 100.796875,
+                                            "height": 12
+                                          },
+                                          "attributes": [
+                                            {
+                                              "class": "jp"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "li",
+                                "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li.long",
+                                "boundingBox": {
+                                  "top": 1002.15625,
+                                  "left": 1447.5,
+                                  "width": 375.328125,
+                                  "height": 40
+                                },
+                                "children": 2,
+                                "attributes": [
+                                  {
+                                    "class": "long"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "a",
+                                    "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li.long a:nth-child(1)",
+                                    "boundingBox": {
+                                      "top": 1004.15625,
+                                      "left": 1447.5,
+                                      "width": 336.015625,
+                                      "height": 16
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "href": "../proper.html"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li.long a:nth-child(1)",
+                                      "text": "HANDLING POLICY OF PERSONAL INFORMATION",
+                                      "boundingBox": {
+                                        "top": 1004.15625,
+                                        "left": 1447.5,
+                                        "width": 336.015625,
+                                        "height": 16
+                                      },
+                                      "attributes": [
+                                        {
+                                          "href": "../proper.html"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "a",
+                                    "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li.long a:nth-child(2)",
+                                    "boundingBox": {
+                                      "top": 1024.15625,
+                                      "left": 1447.5,
+                                      "width": 246.40625,
+                                      "height": 16
+                                    },
+                                    "children": 2,
+                                    "attributes": [
+                                      {
+                                        "href": "../proper.html"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "br",
+                                        "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li.long a:nth-child(2) br",
+                                        "boundingBox": {
+                                          "top": 1004.15625,
+                                          "left": 1783.515625,
+                                          "width": 0,
+                                          "height": 16
+                                        },
+                                        "children": 0,
+                                        "attributes": null
+                                      }
+                                    ],
+                                    [
+                                      {
+                                        "nodeName": "span",
+                                        "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li.long a:nth-child(2) span",
+                                        "boundingBox": {
+                                          "top": 1027.15625,
+                                          "left": 1447.5,
+                                          "width": 246.40625,
+                                          "height": 12
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "class": "jp"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li.long a:nth-child(2) span",
+                                          "text": "特定個人情報等の適正な取扱いに関する基本方針",
+                                          "boundingBox": {
+                                            "top": 1027.15625,
+                                            "left": 1447.5,
+                                            "width": 246.40625,
+                                            "height": 12
+                                          },
+                                          "attributes": [
+                                            {
+                                              "class": "jp"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "li",
+                                "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li:nth-child(3)",
+                                "boundingBox": {
+                                  "top": 1056.15625,
+                                  "left": 1447.5,
+                                  "width": 375.328125,
+                                  "height": 20
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "a",
+                                    "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li:nth-child(3) a",
+                                    "boundingBox": {
+                                      "top": 1058.15625,
+                                      "left": 1447.5,
+                                      "width": 224.375,
+                                      "height": 16
+                                    },
+                                    "children": 2,
+                                    "attributes": [
+                                      {
+                                        "href": "../sitepolicy.html"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li:nth-child(3) a",
+                                      "text": "SITE POLICY",
+                                      "boundingBox": {
+                                        "top": 1058.15625,
+                                        "left": 1447.5,
+                                        "width": 224.375,
+                                        "height": 16
+                                      },
+                                      "attributes": [
+                                        {
+                                          "href": "../sitepolicy.html"
+                                        }
+                                      ]
+                                    },
+                                    [
+                                      {
+                                        "nodeName": "span",
+                                        "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li:nth-child(3) a span",
+                                        "boundingBox": {
+                                          "top": 1061.15625,
+                                          "left": 1538.265625,
+                                          "width": 133.609375,
+                                          "height": 12
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "class": "jp"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body footer nav.footer-nav div div div.col-lg-4.col-md-4 ul li:nth-child(3) a span",
+                                          "text": "サイトのご利用について",
+                                          "boundingBox": {
+                                            "top": 1061.15625,
+                                            "left": 1538.265625,
+                                            "width": 133.609375,
+                                            "height": 12
+                                          },
+                                          "attributes": [
+                                            {
+                                              "class": "jp"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body footer nav.footer-nav div div div.col-lg-2.col-md-2",
+                        "boundingBox": {
+                          "top": 968.15625,
+                          "left": 1837.828125,
+                          "width": 222.65625,
+                          "height": 42.84375
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "class": "col-lg-2 col-md-2"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "p",
+                            "path": "html body footer nav.footer-nav div div div.col-lg-2.col-md-2 p.pull-right",
+                            "boundingBox": {
+                              "top": 968.15625,
+                              "left": 1896.515625,
+                              "width": 148.96875,
+                              "height": 32.84375
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "pull-right"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "a",
+                                "path": "html body footer nav.footer-nav div div div.col-lg-2.col-md-2 p.pull-right a",
+                                "boundingBox": {
+                                  "top": 975.15625,
+                                  "left": 1911.515625,
+                                  "width": 118.96875,
+                                  "height": 17
+                                },
+                                "children": 3,
+                                "attributes": [
+                                  {
+                                    "href": ""
+                                  }
+                                ]
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html body footer nav.footer-nav div div div.col-lg-2.col-md-2 p.pull-right a",
+                                  "text": "▲",
+                                  "boundingBox": {
+                                    "top": 975.15625,
+                                    "left": 1911.515625,
+                                    "width": 118.96875,
+                                    "height": 17
+                                  },
+                                  "attributes": [
+                                    {
+                                      "href": ""
+                                    }
+                                  ]
+                                },
+                                {
+                                  "nodeName": "text",
+                                  "path": "html body footer nav.footer-nav div div div.col-lg-2.col-md-2 p.pull-right a",
+                                  "text": "Back to top",
+                                  "boundingBox": {
+                                    "top": 975.15625,
+                                    "left": 1911.515625,
+                                    "width": 118.96875,
+                                    "height": 17
+                                  },
+                                  "attributes": [
+                                    {
+                                      "href": ""
+                                    }
+                                  ]
+                                }
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ],
+        [
+          {
+            "nodeName": "div",
+            "path": "html body footer div",
+            "boundingBox": {
+              "top": 1158.15625,
+              "left": 724.5,
+              "width": 1336,
+              "height": 50
+            },
+            "children": 3,
+            "attributes": [
+              {
+                "class": "container"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "p",
+                "path": "html body footer div p.copy",
+                "boundingBox": {
+                  "top": 1158.15625,
+                  "left": 739.5,
+                  "width": 1306,
+                  "height": 40
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "class": "copy"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "small",
+                    "path": "html body footer div p.copy small",
+                    "boundingBox": {
+                      "top": 1172.15625,
+                      "left": 1783.40625,
+                      "width": 262.09375,
+                      "height": 14
+                    },
+                    "children": 1,
+                    "attributes": null
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body footer div p.copy small",
+                      "text": "Copyright © PeptiDream Inc. All Rights Reserved.",
+                      "boundingBox": {
+                        "top": 1172.15625,
+                        "left": 1783.40625,
+                        "width": 262.09375,
+                        "height": 14
+                      },
+                      "attributes": null
+                    }
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+}

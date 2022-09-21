@@ -1,0 +1,3241 @@
+{
+  "url": "https://www.sobi.com/en/development-pipeline",
+  "timestamp": 1661206997727,
+  "elements": [
+    [
+      {
+        "nodeName": "a",
+        "path": "html body a.visually-hidden.focusable",
+        "boundingBox": {
+          "top": 2,
+          "left": 0,
+          "width": 153.859375,
+          "height": 19
+        },
+        "children": 1,
+        "attributes": [
+          {
+            "href": "#main-content"
+          },
+          {
+            "class": "visually-hidden focusable"
+          }
+        ]
+      },
+      [
+        {
+          "nodeName": "text",
+          "path": "html body a.visually-hidden.focusable",
+          "text": "Skip to main content",
+          "boundingBox": {
+            "top": 2,
+            "left": 0,
+            "width": 153.859375,
+            "height": 19
+          },
+          "attributes": [
+            {
+              "href": "#main-content"
+            },
+            {
+              "class": "visually-hidden focusable"
+            }
+          ]
+        }
+      ]
+    ],
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div.dialog-off-canvas-main-canvas",
+        "boundingBox": {
+          "top": 24,
+          "left": 0,
+          "width": 2770,
+          "height": 1385
+        },
+        "children": 17,
+        "attributes": [
+          {
+            "class": "dialog-off-canvas-main-canvas"
+          },
+          {
+            "data-off-canvas-main-canvas": ""
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "section",
+            "path": "html body div.dialog-off-canvas-main-canvas section#banner",
+            "boundingBox": {
+              "top": 24,
+              "left": 0,
+              "width": 2770,
+              "height": 540
+            },
+            "children": 3,
+            "attributes": [
+              {
+                "id": "banner"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.dialog-off-canvas-main-canvas section#banner div.banners",
+                "boundingBox": {
+                  "top": 24,
+                  "left": 0,
+                  "width": 2770,
+                  "height": 540
+                },
+                "children": 3,
+                "attributes": [
+                  {
+                    "class": "banners"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "section",
+                    "path": "html body div.dialog-off-canvas-main-canvas section#banner div.banners section.banner.default",
+                    "boundingBox": {
+                      "top": 24,
+                      "left": 0,
+                      "width": 2770,
+                      "height": 540
+                    },
+                    "children": 3,
+                    "attributes": [
+                      {
+                        "role": "article"
+                      },
+                      {
+                        "about": "/en/node/1066"
+                      },
+                      {
+                        "class": "banner default"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.dialog-off-canvas-main-canvas section#banner div.banners section.banner.default div.bg.mask.mask3.image-position-auto.image-size-cover",
+                        "boundingBox": {
+                          "top": 24,
+                          "left": 0,
+                          "width": 2770,
+                          "height": 540
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "class": "bg mask mask3 image-position-auto image-size-cover"
+                          },
+                          {
+                            "style": "background-image:url(/sites/default/files/styles/banner/public/images/Default_new2.jpg?itok=odqdVSog)"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.dialog-off-canvas-main-canvas section#banner div.banners section.banner.default div.bg.mask.mask3.image-position-auto.image-size-cover div",
+                            "boundingBox": {
+                              "top": 24,
+                              "left": 815,
+                              "width": 1140,
+                              "height": 540
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "container"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.dialog-off-canvas-main-canvas section#banner div.banners section.banner.default div.bg.mask.mask3.image-position-auto.image-size-cover div div",
+                                "boundingBox": {
+                                  "top": 24,
+                                  "left": 815,
+                                  "width": 1140,
+                                  "height": 540
+                                },
+                                "children": 3,
+                                "attributes": [
+                                  {
+                                    "class": "row align-items-center"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.dialog-off-canvas-main-canvas section#banner div.banners section.banner.default div.bg.mask.mask3.image-position-auto.image-size-cover div div div",
+                                    "boundingBox": {
+                                      "top": 264,
+                                      "left": 815,
+                                      "width": 60,
+                                      "height": 60
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "body"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ],
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div.dialog-off-canvas-main-canvas div#main",
+            "boundingBox": {
+              "top": 579,
+              "left": 0,
+              "width": 2770,
+              "height": 262
+            },
+            "children": 5,
+            "attributes": [
+              {
+                "id": "main"
+              },
+              {
+                "class": "site_services"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content",
+                "boundingBox": {
+                  "top": 579,
+                  "left": 0,
+                  "width": 2770,
+                  "height": 262
+                },
+                "children": 3,
+                "attributes": [
+                  {
+                    "id": "block-sobi-content"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "article",
+                    "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article",
+                    "boundingBox": {
+                      "top": 579,
+                      "left": 0,
+                      "width": 2770,
+                      "height": 262
+                    },
+                    "children": 3,
+                    "attributes": [
+                      {
+                        "role": "article"
+                      },
+                      {
+                        "about": "/en/404-not-found"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div",
+                        "boundingBox": {
+                          "top": 579,
+                          "left": 0,
+                          "width": 2770,
+                          "height": 262
+                        },
+                        "children": 3,
+                        "attributes": null
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div",
+                            "boundingBox": {
+                              "top": 579,
+                              "left": 0,
+                              "width": 2770,
+                              "height": 262
+                            },
+                            "children": 1,
+                            "attributes": null
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div",
+                                "boundingBox": {
+                                  "top": 579,
+                                  "left": 815,
+                                  "width": 1140,
+                                  "height": 262
+                                },
+                                "children": 11,
+                                "attributes": [
+                                  {
+                                    "class": "container"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "h1",
+                                    "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div h1",
+                                    "boundingBox": {
+                                      "top": 579,
+                                      "left": 830,
+                                      "width": 1110,
+                                      "height": 80
+                                    },
+                                    "children": 1,
+                                    "attributes": null
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div h1",
+                                      "text": "404 Not Found",
+                                      "boundingBox": {
+                                        "top": 579,
+                                        "left": 830,
+                                        "width": 1110,
+                                        "height": 80
+                                      },
+                                      "attributes": null
+                                    }
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "p",
+                                    "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div p.lead",
+                                    "boundingBox": {
+                                      "top": 667,
+                                      "left": 830,
+                                      "width": 1110,
+                                      "height": 30
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "lead"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div p.lead",
+                                      "text": "Sorry, we couldn’t find that page.",
+                                      "boundingBox": {
+                                        "top": 667,
+                                        "left": 830,
+                                        "width": 1110,
+                                        "height": 30
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "lead"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "p",
+                                    "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div p:nth-child(2)",
+                                    "boundingBox": {
+                                      "top": 713,
+                                      "left": 830,
+                                      "width": 1110,
+                                      "height": 24
+                                    },
+                                    "children": 1,
+                                    "attributes": null
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div p:nth-child(2)",
+                                      "text": "To find what you're looking for you might try:",
+                                      "boundingBox": {
+                                        "top": 713,
+                                        "left": 830,
+                                        "width": 1110,
+                                        "height": 24
+                                      },
+                                      "attributes": null
+                                    }
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "ul",
+                                    "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div ul",
+                                    "boundingBox": {
+                                      "top": 753,
+                                      "left": 830,
+                                      "width": 1110,
+                                      "height": 48
+                                    },
+                                    "children": 5,
+                                    "attributes": null
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "li",
+                                        "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div ul li:nth-child(1)",
+                                        "boundingBox": {
+                                          "top": 753,
+                                          "left": 870,
+                                          "width": 1070,
+                                          "height": 24
+                                        },
+                                        "children": 1,
+                                        "attributes": null
+                                      },
+                                      [
+                                        [
+                                          {
+                                            "nodeName": "a",
+                                            "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div ul li:nth-child(1) a",
+                                            "boundingBox": {
+                                              "top": 755,
+                                              "left": 870,
+                                              "width": 115.796875,
+                                              "height": 19
+                                            },
+                                            "children": 1,
+                                            "attributes": [
+                                              {
+                                                "href": "/"
+                                              }
+                                            ]
+                                          },
+                                          [
+                                            {
+                                              "nodeName": "text",
+                                              "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div ul li:nth-child(1) a",
+                                              "text": "The home page",
+                                              "boundingBox": {
+                                                "top": 755,
+                                                "left": 870,
+                                                "width": 115.796875,
+                                                "height": 19
+                                              },
+                                              "attributes": [
+                                                {
+                                                  "href": "/"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        ]
+                                      ]
+                                    ],
+                                    [
+                                      {
+                                        "nodeName": "li",
+                                        "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div ul li:nth-child(2)",
+                                        "boundingBox": {
+                                          "top": 777,
+                                          "left": 870,
+                                          "width": 1070,
+                                          "height": 24
+                                        },
+                                        "children": 1,
+                                        "attributes": null
+                                      },
+                                      [
+                                        [
+                                          {
+                                            "nodeName": "a",
+                                            "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div ul li:nth-child(2) a",
+                                            "boundingBox": {
+                                              "top": 779,
+                                              "left": 870,
+                                              "width": 94.6875,
+                                              "height": 19
+                                            },
+                                            "children": 1,
+                                            "attributes": [
+                                              {
+                                                "href": "/en/sitemap"
+                                              }
+                                            ]
+                                          },
+                                          [
+                                            {
+                                              "nodeName": "text",
+                                              "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div ul li:nth-child(2) a",
+                                              "text": "The site map",
+                                              "boundingBox": {
+                                                "top": 779,
+                                                "left": 870,
+                                                "width": 94.6875,
+                                                "height": 19
+                                              },
+                                              "attributes": [
+                                                {
+                                                  "href": "/en/sitemap"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        ]
+                                      ]
+                                    ]
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "p",
+                                    "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div p:nth-child(3)",
+                                    "boundingBox": {
+                                      "top": 817,
+                                      "left": 830,
+                                      "width": 1110,
+                                      "height": 24
+                                    },
+                                    "children": 3,
+                                    "attributes": null
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div p:nth-child(3)",
+                                      "text": "If you still can't find what you're looking for, please",
+                                      "boundingBox": {
+                                        "top": 817,
+                                        "left": 830,
+                                        "width": 1110,
+                                        "height": 24
+                                      },
+                                      "attributes": null
+                                    },
+                                    [
+                                      {
+                                        "nodeName": "a",
+                                        "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div p:nth-child(3) a",
+                                        "boundingBox": {
+                                          "top": 819,
+                                          "left": 1209.109375,
+                                          "width": 77.890625,
+                                          "height": 19
+                                        },
+                                        "children": 1,
+                                        "attributes": [
+                                          {
+                                            "href": "/en/contacts"
+                                          }
+                                        ]
+                                      },
+                                      [
+                                        {
+                                          "nodeName": "text",
+                                          "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div p:nth-child(3) a",
+                                          "text": "contact us",
+                                          "boundingBox": {
+                                            "top": 819,
+                                            "left": 1209.109375,
+                                            "width": 77.890625,
+                                            "height": 19
+                                          },
+                                          "attributes": [
+                                            {
+                                              "href": "/en/contacts"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    ],
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div.dialog-off-canvas-main-canvas div#main div#block-sobi-content article div div div p:nth-child(3)",
+                                      "text": "and we'll see how we can help.",
+                                      "boundingBox": {
+                                        "top": 817,
+                                        "left": 830,
+                                        "width": 1110,
+                                        "height": 24
+                                      },
+                                      "attributes": null
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ],
+        [
+          {
+            "nodeName": "footer",
+            "path": "html body div.dialog-off-canvas-main-canvas footer#footer",
+            "boundingBox": {
+              "top": 931,
+              "left": 0,
+              "width": 2770,
+              "height": 454.34375
+            },
+            "children": 3,
+            "attributes": [
+              {
+                "id": "footer"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div",
+                "boundingBox": {
+                  "top": 991,
+                  "left": 815,
+                  "width": 1140,
+                  "height": 334.34375
+                },
+                "children": 5,
+                "attributes": [
+                  {
+                    "class": "container"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1",
+                    "boundingBox": {
+                      "top": 991,
+                      "left": 830,
+                      "width": 1110,
+                      "height": 271.125
+                    },
+                    "children": 3,
+                    "attributes": [
+                      {
+                        "class": "s1"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div",
+                        "boundingBox": {
+                          "top": 991,
+                          "left": 815,
+                          "width": 1140,
+                          "height": 271.125
+                        },
+                        "children": 13,
+                        "attributes": [
+                          {
+                            "class": "row"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(1)",
+                            "boundingBox": {
+                              "top": 991,
+                              "left": 815,
+                              "width": 190,
+                              "height": 256.125
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "col-6 col-sm-6 col-lg-4 col-xl-2"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(1) div",
+                                "boundingBox": {
+                                  "top": 991,
+                                  "left": 830,
+                                  "width": 160,
+                                  "height": 80
+                                },
+                                "children": 3,
+                                "attributes": [
+                                  {
+                                    "role": "article"
+                                  },
+                                  {
+                                    "about": "/en/node/114"
+                                  },
+                                  {
+                                    "class": "box layout0 bgcolor0 fgcolor0 view-mode-default"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(1) div div",
+                                    "boundingBox": {
+                                      "top": 991,
+                                      "left": 830,
+                                      "width": 160,
+                                      "height": 80
+                                    },
+                                    "children": 3,
+                                    "attributes": [
+                                      {
+                                        "class": "body"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "div",
+                                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(1) div div div",
+                                        "boundingBox": {
+                                          "top": 991,
+                                          "left": 830,
+                                          "width": 160,
+                                          "height": 80
+                                        },
+                                        "children": 6,
+                                        "attributes": null
+                                      },
+                                      [
+                                        [
+                                          {
+                                            "nodeName": "h6",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(1) div div div h6",
+                                            "boundingBox": {
+                                              "top": 991,
+                                              "left": 830,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(1) div div div h6 a",
+                                                "boundingBox": {
+                                                  "top": 992,
+                                                  "left": 830,
+                                                  "width": 77.296875,
+                                                  "height": 22
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/about"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(1) div div div h6 a",
+                                                  "text": "About us",
+                                                  "boundingBox": {
+                                                    "top": 992,
+                                                    "left": 830,
+                                                    "width": 77.296875,
+                                                    "height": 22
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/about"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "p",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(1) div div div p:nth-child(1)",
+                                            "boundingBox": {
+                                              "top": 1023,
+                                              "left": 830,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(1) div div div p:nth-child(1) a",
+                                                "boundingBox": {
+                                                  "top": 1025,
+                                                  "left": 830,
+                                                  "width": 81.859375,
+                                                  "height": 19
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/glance"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(1) div div div p:nth-child(1) a",
+                                                  "text": "At a glance",
+                                                  "boundingBox": {
+                                                    "top": 1025,
+                                                    "left": 830,
+                                                    "width": 81.859375,
+                                                    "height": 19
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/glance"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "p",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(1) div div div p:nth-child(2)",
+                                            "boundingBox": {
+                                              "top": 1047,
+                                              "left": 830,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(1) div div div p:nth-child(2) a",
+                                                "boundingBox": {
+                                                  "top": 1049,
+                                                  "left": 830,
+                                                  "width": 98.96875,
+                                                  "height": 19
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/focus-rare-diseases"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(1) div div div p:nth-child(2) a",
+                                                  "text": "Rare diseases",
+                                                  "boundingBox": {
+                                                    "top": 1049,
+                                                    "left": 830,
+                                                    "width": 98.96875,
+                                                    "height": 19
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/focus-rare-diseases"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ]
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(2)",
+                            "boundingBox": {
+                              "top": 991,
+                              "left": 1005,
+                              "width": 190,
+                              "height": 256.125
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "col-6 col-sm-6 col-lg-4 col-xl-2"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(2) div",
+                                "boundingBox": {
+                                  "top": 991,
+                                  "left": 1020,
+                                  "width": 160,
+                                  "height": 128
+                                },
+                                "children": 3,
+                                "attributes": [
+                                  {
+                                    "role": "article"
+                                  },
+                                  {
+                                    "about": "/en/node/116"
+                                  },
+                                  {
+                                    "class": "box layout0 bgcolor0 fgcolor0 view-mode-default"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(2) div div",
+                                    "boundingBox": {
+                                      "top": 991,
+                                      "left": 1020,
+                                      "width": 160,
+                                      "height": 128
+                                    },
+                                    "children": 3,
+                                    "attributes": [
+                                      {
+                                        "class": "body"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "div",
+                                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(2) div div div",
+                                        "boundingBox": {
+                                          "top": 991,
+                                          "left": 1020,
+                                          "width": 160,
+                                          "height": 128
+                                        },
+                                        "children": 8,
+                                        "attributes": null
+                                      },
+                                      [
+                                        [
+                                          {
+                                            "nodeName": "h6",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(2) div div div h6",
+                                            "boundingBox": {
+                                              "top": 991,
+                                              "left": 1020,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(2) div div div h6 a",
+                                                "boundingBox": {
+                                                  "top": 992,
+                                                  "left": 1020,
+                                                  "width": 155.125,
+                                                  "height": 22
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/therapeutic-areas"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(2) div div div h6 a",
+                                                  "text": "Therapeutic areas",
+                                                  "boundingBox": {
+                                                    "top": 992,
+                                                    "left": 1020,
+                                                    "width": 155.125,
+                                                    "height": 22
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/therapeutic-areas"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "p",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(2) div div div p:nth-child(1)",
+                                            "boundingBox": {
+                                              "top": 1023,
+                                              "left": 1020,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(2) div div div p:nth-child(1) a",
+                                                "boundingBox": {
+                                                  "top": 1025,
+                                                  "left": 1020,
+                                                  "width": 100.046875,
+                                                  "height": 19
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/haematology"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(2) div div div p:nth-child(1) a",
+                                                  "text": "Haematology",
+                                                  "boundingBox": {
+                                                    "top": 1025,
+                                                    "left": 1020,
+                                                    "width": 100.046875,
+                                                    "height": 19
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/haematology"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "p",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(2) div div div p:nth-child(2)",
+                                            "boundingBox": {
+                                              "top": 1047,
+                                              "left": 1020,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(2) div div div p:nth-child(2) a",
+                                                "boundingBox": {
+                                                  "top": 1049,
+                                                  "left": 1020,
+                                                  "width": 94.984375,
+                                                  "height": 19
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/immunology"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(2) div div div p:nth-child(2) a",
+                                                  "text": "Immunology",
+                                                  "boundingBox": {
+                                                    "top": 1049,
+                                                    "left": 1020,
+                                                    "width": 94.984375,
+                                                    "height": 19
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/immunology"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "p",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(2) div div div p:nth-child(3)",
+                                            "boundingBox": {
+                                              "top": 1071,
+                                              "left": 1020,
+                                              "width": 160,
+                                              "height": 48
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(2) div div div p:nth-child(3) a",
+                                                "boundingBox": {
+                                                  "top": 1073,
+                                                  "left": 1020,
+                                                  "width": 105.484375,
+                                                  "height": 43
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/specialty-care-portfolio"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(2) div div div p:nth-child(3) a",
+                                                  "text": "Specialty Care portfolio",
+                                                  "boundingBox": {
+                                                    "top": 1073,
+                                                    "left": 1020,
+                                                    "width": 105.484375,
+                                                    "height": 43
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/specialty-care-portfolio"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ]
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(3)",
+                            "boundingBox": {
+                              "top": 991,
+                              "left": 1195,
+                              "width": 190,
+                              "height": 256.125
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "col-6 col-sm-6 col-lg-4 col-xl-2"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(3) div",
+                                "boundingBox": {
+                                  "top": 991,
+                                  "left": 1210,
+                                  "width": 160,
+                                  "height": 128
+                                },
+                                "children": 3,
+                                "attributes": [
+                                  {
+                                    "role": "article"
+                                  },
+                                  {
+                                    "about": "/en/node/115"
+                                  },
+                                  {
+                                    "class": "box layout0 bgcolor0 fgcolor0 view-mode-default"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(3) div div",
+                                    "boundingBox": {
+                                      "top": 991,
+                                      "left": 1210,
+                                      "width": 160,
+                                      "height": 128
+                                    },
+                                    "children": 3,
+                                    "attributes": [
+                                      {
+                                        "class": "body"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "div",
+                                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(3) div div div",
+                                        "boundingBox": {
+                                          "top": 991,
+                                          "left": 1210,
+                                          "width": 160,
+                                          "height": 128
+                                        },
+                                        "children": 8,
+                                        "attributes": null
+                                      },
+                                      [
+                                        [
+                                          {
+                                            "nodeName": "h6",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(3) div div div h6",
+                                            "boundingBox": {
+                                              "top": 991,
+                                              "left": 1210,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(3) div div div h6 a",
+                                                "boundingBox": {
+                                                  "top": 992,
+                                                  "left": 1210,
+                                                  "width": 79.203125,
+                                                  "height": 22
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/investors"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(3) div div div h6 a",
+                                                  "text": "Investors",
+                                                  "boundingBox": {
+                                                    "top": 992,
+                                                    "left": 1210,
+                                                    "width": 79.203125,
+                                                    "height": 22
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/investors"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "p",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(3) div div div p:nth-child(1)",
+                                            "boundingBox": {
+                                              "top": 1023,
+                                              "left": 1210,
+                                              "width": 160,
+                                              "height": 48
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(3) div div div p:nth-child(1) a",
+                                                "boundingBox": {
+                                                  "top": 1025,
+                                                  "left": 1210,
+                                                  "width": 100.78125,
+                                                  "height": 43
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/reports-presentations"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(3) div div div p:nth-child(1) a",
+                                                  "text": "Reports & presentations",
+                                                  "boundingBox": {
+                                                    "top": 1025,
+                                                    "left": 1210,
+                                                    "width": 100.78125,
+                                                    "height": 43
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/reports-presentations"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "p",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(3) div div div p:nth-child(2)",
+                                            "boundingBox": {
+                                              "top": 1071,
+                                              "left": 1210,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(3) div div div p:nth-child(2) a",
+                                                "boundingBox": {
+                                                  "top": 1073,
+                                                  "left": 1210,
+                                                  "width": 133.09375,
+                                                  "height": 19
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/share-information"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(3) div div div p:nth-child(2) a",
+                                                  "text": "Share information",
+                                                  "boundingBox": {
+                                                    "top": 1073,
+                                                    "left": 1210,
+                                                    "width": 133.09375,
+                                                    "height": 19
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/share-information"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "p",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(3) div div div p:nth-child(3)",
+                                            "boundingBox": {
+                                              "top": 1095,
+                                              "left": 1210,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(3) div div div p:nth-child(3) a",
+                                                "boundingBox": {
+                                                  "top": 1097,
+                                                  "left": 1210,
+                                                  "width": 66.84375,
+                                                  "height": 19
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/financial-calendar"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(3) div div div p:nth-child(3) a",
+                                                  "text": "Calendar",
+                                                  "boundingBox": {
+                                                    "top": 1097,
+                                                    "left": 1210,
+                                                    "width": 66.84375,
+                                                    "height": 19
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/financial-calendar"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ]
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(4)",
+                            "boundingBox": {
+                              "top": 991,
+                              "left": 1385,
+                              "width": 190,
+                              "height": 256.125
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "col-6 col-sm-6 col-lg-4 col-xl-2"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(4) div",
+                                "boundingBox": {
+                                  "top": 991,
+                                  "left": 1400,
+                                  "width": 160,
+                                  "height": 80
+                                },
+                                "children": 3,
+                                "attributes": [
+                                  {
+                                    "role": "article"
+                                  },
+                                  {
+                                    "about": "/en/node/117"
+                                  },
+                                  {
+                                    "class": "box layout0 bgcolor0 fgcolor0 view-mode-default"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(4) div div",
+                                    "boundingBox": {
+                                      "top": 991,
+                                      "left": 1400,
+                                      "width": 160,
+                                      "height": 80
+                                    },
+                                    "children": 3,
+                                    "attributes": [
+                                      {
+                                        "class": "body"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "div",
+                                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(4) div div div",
+                                        "boundingBox": {
+                                          "top": 991,
+                                          "left": 1400,
+                                          "width": 160,
+                                          "height": 80
+                                        },
+                                        "children": 6,
+                                        "attributes": null
+                                      },
+                                      [
+                                        [
+                                          {
+                                            "nodeName": "h6",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(4) div div div h6",
+                                            "boundingBox": {
+                                              "top": 991,
+                                              "left": 1400,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(4) div div div h6 a",
+                                                "boundingBox": {
+                                                  "top": 992,
+                                                  "left": 1400,
+                                                  "width": 57.390625,
+                                                  "height": 22
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/careers"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(4) div div div h6 a",
+                                                  "text": "Career",
+                                                  "boundingBox": {
+                                                    "top": 992,
+                                                    "left": 1400,
+                                                    "width": 57.390625,
+                                                    "height": 22
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/careers"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "p",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(4) div div div p:nth-child(1)",
+                                            "boundingBox": {
+                                              "top": 1023,
+                                              "left": 1400,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(4) div div div p:nth-child(1) a",
+                                                "boundingBox": {
+                                                  "top": 1025,
+                                                  "left": 1400,
+                                                  "width": 112.625,
+                                                  "height": 19
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/open-positions"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(4) div div div p:nth-child(1) a",
+                                                  "text": "Open positions",
+                                                  "boundingBox": {
+                                                    "top": 1025,
+                                                    "left": 1400,
+                                                    "width": 112.625,
+                                                    "height": 19
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/open-positions"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "p",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(4) div div div p:nth-child(2)",
+                                            "boundingBox": {
+                                              "top": 1047,
+                                              "left": 1400,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(4) div div div p:nth-child(2) a",
+                                                "boundingBox": {
+                                                  "top": 1049,
+                                                  "left": 1400,
+                                                  "width": 151.546875,
+                                                  "height": 19
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/meet-our-employees"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(4) div div div p:nth-child(2) a",
+                                                  "text": "Meet our employees",
+                                                  "boundingBox": {
+                                                    "top": 1049,
+                                                    "left": 1400,
+                                                    "width": 151.546875,
+                                                    "height": 19
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/meet-our-employees"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ]
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(5)",
+                            "boundingBox": {
+                              "top": 991,
+                              "left": 1575,
+                              "width": 190,
+                              "height": 256.125
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "col-6 col-sm-6 col-lg-4 col-xl-2"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(5) div",
+                                "boundingBox": {
+                                  "top": 991,
+                                  "left": 1590,
+                                  "width": 160,
+                                  "height": 80
+                                },
+                                "children": 3,
+                                "attributes": [
+                                  {
+                                    "role": "article"
+                                  },
+                                  {
+                                    "about": "/en/node/118"
+                                  },
+                                  {
+                                    "class": "box layout0 bgcolor0 fgcolor0 view-mode-default"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(5) div div",
+                                    "boundingBox": {
+                                      "top": 991,
+                                      "left": 1590,
+                                      "width": 160,
+                                      "height": 80
+                                    },
+                                    "children": 3,
+                                    "attributes": [
+                                      {
+                                        "class": "body"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "div",
+                                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(5) div div div",
+                                        "boundingBox": {
+                                          "top": 991,
+                                          "left": 1590,
+                                          "width": 160,
+                                          "height": 80
+                                        },
+                                        "children": 6,
+                                        "attributes": null
+                                      },
+                                      [
+                                        [
+                                          {
+                                            "nodeName": "h6",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(5) div div div h6",
+                                            "boundingBox": {
+                                              "top": 991,
+                                              "left": 1590,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(5) div div div h6 a",
+                                                "boundingBox": {
+                                                  "top": 992,
+                                                  "left": 1590,
+                                                  "width": 52.359375,
+                                                  "height": 22
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/media"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(5) div div div h6 a",
+                                                  "text": "Media",
+                                                  "boundingBox": {
+                                                    "top": 992,
+                                                    "left": 1590,
+                                                    "width": 52.359375,
+                                                    "height": 22
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/media"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "p",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(5) div div div p:nth-child(1)",
+                                            "boundingBox": {
+                                              "top": 1023,
+                                              "left": 1590,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(5) div div div p:nth-child(1) a",
+                                                "boundingBox": {
+                                                  "top": 1025,
+                                                  "left": 1590,
+                                                  "width": 102.609375,
+                                                  "height": 19
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/press-releases"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(5) div div div p:nth-child(1) a",
+                                                  "text": "Press releases",
+                                                  "boundingBox": {
+                                                    "top": 1025,
+                                                    "left": 1590,
+                                                    "width": 102.609375,
+                                                    "height": 19
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/press-releases"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "p",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(5) div div div p:nth-child(2)",
+                                            "boundingBox": {
+                                              "top": 1047,
+                                              "left": 1590,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(5) div div div p:nth-child(2) a",
+                                                "boundingBox": {
+                                                  "top": 1049,
+                                                  "left": 1590,
+                                                  "width": 52.25,
+                                                  "height": 19
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/media-gallery"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(5) div div div p:nth-child(2) a",
+                                                  "text": "Gallery",
+                                                  "boundingBox": {
+                                                    "top": 1049,
+                                                    "left": 1590,
+                                                    "width": 52.25,
+                                                    "height": 19
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/media-gallery"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ]
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6)",
+                            "boundingBox": {
+                              "top": 991,
+                              "left": 1765,
+                              "width": 190,
+                              "height": 256.125
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "col-6 col-sm-6 col-lg-4 col-xl-2"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div",
+                                "boundingBox": {
+                                  "top": 991,
+                                  "left": 1780,
+                                  "width": 160,
+                                  "height": 256.125
+                                },
+                                "children": 3,
+                                "attributes": [
+                                  {
+                                    "role": "article"
+                                  },
+                                  {
+                                    "about": "/en/node/119"
+                                  },
+                                  {
+                                    "class": "box layout0 bgcolor0 fgcolor0 view-mode-default"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div",
+                                    "boundingBox": {
+                                      "top": 991,
+                                      "left": 1780,
+                                      "width": 160,
+                                      "height": 256.125
+                                    },
+                                    "children": 3,
+                                    "attributes": [
+                                      {
+                                        "class": "body"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "div",
+                                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div",
+                                        "boundingBox": {
+                                          "top": 991,
+                                          "left": 1780,
+                                          "width": 160,
+                                          "height": 256.125
+                                        },
+                                        "children": 16,
+                                        "attributes": null
+                                      },
+                                      [
+                                        [
+                                          {
+                                            "nodeName": "h6",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(1)",
+                                            "boundingBox": {
+                                              "top": 991,
+                                              "left": 1780,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(1) a",
+                                                "boundingBox": {
+                                                  "top": 992,
+                                                  "left": 1780,
+                                                  "width": 70.046875,
+                                                  "height": 22
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/sitemap"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(1) a",
+                                                  "text": "Sitemap",
+                                                  "boundingBox": {
+                                                    "top": 992,
+                                                    "left": 1780,
+                                                    "width": 70.046875,
+                                                    "height": 22
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/sitemap"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "h6",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(2)",
+                                            "boundingBox": {
+                                              "top": 1023,
+                                              "left": 1780,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(2) a",
+                                                "boundingBox": {
+                                                  "top": 1024,
+                                                  "left": 1780,
+                                                  "width": 116.953125,
+                                                  "height": 22
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/cookie-policy"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(2) a",
+                                                  "text": "Cookie Policy",
+                                                  "boundingBox": {
+                                                    "top": 1024,
+                                                    "left": 1780,
+                                                    "width": 116.953125,
+                                                    "height": 22
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/cookie-policy"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "h6",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(3)",
+                                            "boundingBox": {
+                                              "top": 1055,
+                                              "left": 1780,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(3) a",
+                                                "boundingBox": {
+                                                  "top": 1056,
+                                                  "left": 1780,
+                                                  "width": 119.484375,
+                                                  "height": 22
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/policies"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(3) a",
+                                                  "text": "Privacy Policy",
+                                                  "boundingBox": {
+                                                    "top": 1056,
+                                                    "left": 1780,
+                                                    "width": 119.484375,
+                                                    "height": 22
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/policies"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "h6",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(4)",
+                                            "boundingBox": {
+                                              "top": 1087,
+                                              "left": 1780,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(4) a",
+                                                "boundingBox": {
+                                                  "top": 1088,
+                                                  "left": 1780,
+                                                  "width": 110.25,
+                                                  "height": 22
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "/en/terms-use"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(4) a",
+                                                  "text": "Terms of use",
+                                                  "boundingBox": {
+                                                    "top": 1088,
+                                                    "left": 1780,
+                                                    "width": 110.25,
+                                                    "height": 22
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "href": "/en/terms-use"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "h6",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(5)",
+                                            "boundingBox": {
+                                              "top": 1119,
+                                              "left": 1780,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(5) a.ot-sdk-show-settings",
+                                                "boundingBox": {
+                                                  "top": 1120,
+                                                  "left": 1780,
+                                                  "width": 143.328125,
+                                                  "height": 22
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "class": "ot-sdk-show-settings"
+                                                  },
+                                                  {
+                                                    "style": "cursor:pointer"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                {
+                                                  "nodeName": "text",
+                                                  "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(5) a.ot-sdk-show-settings",
+                                                  "text": "Cookies Settings",
+                                                  "boundingBox": {
+                                                    "top": 1120,
+                                                    "left": 1780,
+                                                    "width": 143.328125,
+                                                    "height": 22
+                                                  },
+                                                  "attributes": [
+                                                    {
+                                                      "class": "ot-sdk-show-settings"
+                                                    },
+                                                    {
+                                                      "style": "cursor:pointer"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            ]
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "p",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div p:nth-child(1)",
+                                            "boundingBox": {
+                                              "top": 1151,
+                                              "left": 1780,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          }
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "h6",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(6)",
+                                            "boundingBox": {
+                                              "top": 1175,
+                                              "left": 1780,
+                                              "width": 160,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            {
+                                              "nodeName": "text",
+                                              "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div h6:nth-child(6)",
+                                              "text": "Follow us:",
+                                              "boundingBox": {
+                                                "top": 1175,
+                                                "left": 1780,
+                                                "width": 160,
+                                                "height": 24
+                                              },
+                                              "attributes": null
+                                            }
+                                          ]
+                                        ],
+                                        [
+                                          {
+                                            "nodeName": "p",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div p:nth-child(2)",
+                                            "boundingBox": {
+                                              "top": 1207,
+                                              "left": 1780,
+                                              "width": 160,
+                                              "height": 40.125
+                                            },
+                                            "children": 3,
+                                            "attributes": null
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "strong",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div p:nth-child(2) strong",
+                                                "boundingBox": {
+                                                  "top": 1216.171875,
+                                                  "left": 1780,
+                                                  "width": 40,
+                                                  "height": 19
+                                                },
+                                                "children": 1,
+                                                "attributes": null
+                                              },
+                                              [
+                                                [
+                                                  {
+                                                    "nodeName": "a",
+                                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div p:nth-child(2) strong a",
+                                                    "boundingBox": {
+                                                      "top": 1216.171875,
+                                                      "left": 1780,
+                                                      "width": 40,
+                                                      "height": 19
+                                                    },
+                                                    "children": 1,
+                                                    "attributes": [
+                                                      {
+                                                        "href": "https://www.linkedin.com/company/sobi/"
+                                                      }
+                                                    ]
+                                                  },
+                                                  [
+                                                    [
+                                                      {
+                                                        "nodeName": "img",
+                                                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div p:nth-child(2) strong a img",
+                                                        "boundingBox": {
+                                                          "top": 1207,
+                                                          "left": 1780,
+                                                          "width": 40,
+                                                          "height": 40
+                                                        },
+                                                        "children": 0,
+                                                        "attributes": [
+                                                          {
+                                                            "alt": "Linkedin"
+                                                          },
+                                                          {
+                                                            "data-entity-type": "file"
+                                                          },
+                                                          {
+                                                            "data-entity-uuid": "fc2754b0-676d-4525-9331-e282efd09f24"
+                                                          },
+                                                          {
+                                                            "src": "/sites/default/files/inline-images/footer-icon-linkedin.png"
+                                                          },
+                                                          {
+                                                            "style": "width:40px; height:40px"
+                                                          },
+                                                          {
+                                                            "width": "40"
+                                                          },
+                                                          {
+                                                            "height": "40"
+                                                          },
+                                                          {
+                                                            "loading": "lazy"
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  ]
+                                                ]
+                                              ]
+                                            ],
+                                            [
+                                              {
+                                                "nodeName": "a",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div p:nth-child(2) a",
+                                                "boundingBox": {
+                                                  "top": 1216.171875,
+                                                  "left": 1828.234375,
+                                                  "width": 40,
+                                                  "height": 19
+                                                },
+                                                "children": 1,
+                                                "attributes": [
+                                                  {
+                                                    "href": "https://www.youtube.com/c/Sobi-Pharma"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                [
+                                                  {
+                                                    "nodeName": "img",
+                                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s1 div div:nth-child(6) div div div p:nth-child(2) a img",
+                                                    "boundingBox": {
+                                                      "top": 1207.125,
+                                                      "left": 1828.234375,
+                                                      "width": 40,
+                                                      "height": 40
+                                                    },
+                                                    "children": 0,
+                                                    "attributes": [
+                                                      {
+                                                        "alt": "Youtube"
+                                                      },
+                                                      {
+                                                        "data-entity-type": "file"
+                                                      },
+                                                      {
+                                                        "data-entity-uuid": "80048b65-7498-490e-8330-541f2a92e32e"
+                                                      },
+                                                      {
+                                                        "src": "/sites/default/files/inline-images/footer-icon-youtube.png"
+                                                      },
+                                                      {
+                                                        "style": "width:40px; height:40px"
+                                                      },
+                                                      {
+                                                        "width": "40"
+                                                      },
+                                                      {
+                                                        "height": "40"
+                                                      },
+                                                      {
+                                                        "loading": "lazy"
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              ]
+                                            ]
+                                          ]
+                                        ]
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2",
+                    "boundingBox": {
+                      "top": 1262.125,
+                      "left": 830,
+                      "width": 1110,
+                      "height": 63.21875
+                    },
+                    "children": 3,
+                    "attributes": [
+                      {
+                        "class": "s2"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div",
+                        "boundingBox": {
+                          "top": 1262.125,
+                          "left": 815,
+                          "width": 1140,
+                          "height": 63.21875
+                        },
+                        "children": 5,
+                        "attributes": [
+                          {
+                            "class": "row align-items-center"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo",
+                            "boundingBox": {
+                              "top": 1262.125,
+                              "left": 815,
+                              "width": 190,
+                              "height": 48.21875
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "col-12 col-sm-4 col-lg-2 logo"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div",
+                                "boundingBox": {
+                                  "top": 1262.125,
+                                  "left": 830,
+                                  "width": 160,
+                                  "height": 48.21875
+                                },
+                                "children": 3,
+                                "attributes": [
+                                  {
+                                    "role": "article"
+                                  },
+                                  {
+                                    "about": "/en/node/120"
+                                  },
+                                  {
+                                    "class": "box layout0 bgcolor0 fgcolor0 view-mode-default"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div",
+                                    "boundingBox": {
+                                      "top": 1262.125,
+                                      "left": 830,
+                                      "width": 160,
+                                      "height": 48.21875
+                                    },
+                                    "children": 3,
+                                    "attributes": [
+                                      {
+                                        "class": "body"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "div",
+                                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div",
+                                        "boundingBox": {
+                                          "top": 1262.125,
+                                          "left": 830,
+                                          "width": 160,
+                                          "height": 48.21875
+                                        },
+                                        "children": 1,
+                                        "attributes": null
+                                      },
+                                      [
+                                        [
+                                          {
+                                            "nodeName": "svg",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg",
+                                            "boundingBox": {
+                                              "top": 1262.125,
+                                              "left": 830,
+                                              "width": 128,
+                                              "height": 48.21875
+                                            },
+                                            "children": 2,
+                                            "attributes": [
+                                              {
+                                                "height": "107"
+                                              },
+                                              {
+                                                "viewBox": "0 0 284 107"
+                                              },
+                                              {
+                                                "width": "284"
+                                              },
+                                              {
+                                                "xmlns": "http://www.w3.org/2000/svg"
+                                              },
+                                              {
+                                                "xmlns:xlink": "http://www.w3.org/1999/xlink"
+                                              }
+                                            ]
+                                          },
+                                          [
+                                            [
+                                              {
+                                                "nodeName": "defs",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg defs",
+                                                "boundingBox": {
+                                                  "top": 1262.3115234375,
+                                                  "left": 830.0087890625,
+                                                  "width": 31.93475341796875,
+                                                  "height": 33.5435791015625
+                                                },
+                                                "children": 3,
+                                                "attributes": null
+                                              },
+                                              [
+                                                [
+                                                  {
+                                                    "nodeName": "path",
+                                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg defs path#a",
+                                                    "boundingBox": {
+                                                      "top": 1262.3115234375,
+                                                      "left": 830.0087890625,
+                                                      "width": 31.93475341796875,
+                                                      "height": 31.9371337890625
+                                                    },
+                                                    "children": 0,
+                                                    "attributes": [
+                                                      {
+                                                        "d": "M35.182.414C15.73.549 0 16.365 0 35.848c0 19.569 15.865 35.436 35.433 35.436 19.57 0 35.432-15.867 35.432-35.436C70.865 16.365 55.138.549 35.684.414h-.502zM16.265 18.268a6.99 6.99 0 0 1 6.996-6.992 6.99 6.99 0 0 1 6.992 6.992 6.991 6.991 0 0 1-6.992 6.995 6.99 6.99 0 0 1-6.996-6.995zm0 17.505a6.991 6.991 0 0 1 6.996-6.994 6.993 6.993 0 0 1 6.992 6.994c0 3.863-3.131 6.999-6.992 6.999a6.996 6.996 0 0 1-6.996-6.999zm0 17.595c0-3.86 3.127-7 6.996-7 3.861 0 6.992 3.14 6.992 7a6.992 6.992 0 0 1-6.992 6.995 6.99 6.99 0 0 1-6.996-6.995z"
+                                                      },
+                                                      {
+                                                        "id": "a"
+                                                      }
+                                                    ]
+                                                  }
+                                                ],
+                                                [
+                                                  {
+                                                    "nodeName": "path",
+                                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg defs path#c",
+                                                    "boundingBox": {
+                                                      "top": 1262.43994140625,
+                                                      "left": 830.1439819335938,
+                                                      "width": 28.244873046875,
+                                                      "height": 33.4151611328125
+                                                    },
+                                                    "children": 0,
+                                                    "attributes": [
+                                                      {
+                                                        "d": "M.3.699h62.677v74.15H.3z"
+                                                      },
+                                                      {
+                                                        "id": "c"
+                                                      }
+                                                    ]
+                                                  }
+                                                ],
+                                                [
+                                                  {
+                                                    "nodeName": "path",
+                                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg defs path#e",
+                                                    "boundingBox": {
+                                                      "top": 1262.3170166015625,
+                                                      "left": 830.0191040039062,
+                                                      "width": 6.04852294921875,
+                                                      "height": 7.918701171875
+                                                    },
+                                                    "children": 0,
+                                                    "attributes": [
+                                                      {
+                                                        "d": "M.023.426h13.422v17.572H.023z"
+                                                      },
+                                                      {
+                                                        "id": "e"
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              ]
+                                            ],
+                                            [
+                                              {
+                                                "nodeName": "g",
+                                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg g",
+                                                "boundingBox": {
+                                                  "top": 1262.125,
+                                                  "left": 830.0087890625,
+                                                  "width": 127.74139404296875,
+                                                  "height": 47.9041748046875
+                                                },
+                                                "children": 6,
+                                                "attributes": [
+                                                  {
+                                                    "fill": "none"
+                                                  },
+                                                  {
+                                                    "fill-rule": "evenodd"
+                                                  }
+                                                ]
+                                              },
+                                              [
+                                                [
+                                                  {
+                                                    "nodeName": "g",
+                                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg g g:nth-child(1)",
+                                                    "boundingBox": {
+                                                      "top": 1265.1514892578125,
+                                                      "left": 830.0087890625,
+                                                      "width": 31.93475341796875,
+                                                      "height": 31.93701171875
+                                                    },
+                                                    "children": 2,
+                                                    "attributes": [
+                                                      {
+                                                        "transform": "translate(0 6.302)"
+                                                      }
+                                                    ]
+                                                  },
+                                                  [
+                                                    [
+                                                      {
+                                                        "nodeName": "mask",
+                                                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg g g:nth-child(1) mask#b",
+                                                        "boundingBox": {
+                                                          "top": 0,
+                                                          "left": 0,
+                                                          "width": 0,
+                                                          "height": 0
+                                                        },
+                                                        "children": 1,
+                                                        "attributes": [
+                                                          {
+                                                            "fill": "#fff"
+                                                          },
+                                                          {
+                                                            "id": "b"
+                                                          }
+                                                        ]
+                                                      },
+                                                      [
+                                                        [
+                                                          {
+                                                            "nodeName": "use",
+                                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg g g:nth-child(1) mask#b use",
+                                                            "boundingBox": {
+                                                              "top": 1265.1514892578125,
+                                                              "left": 830.0087890625,
+                                                              "width": 31.93475341796875,
+                                                              "height": 31.93701171875
+                                                            },
+                                                            "children": 0,
+                                                            "attributes": [
+                                                              {
+                                                                "xlink:href": "#a"
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      ]
+                                                    ],
+                                                    [
+                                                      {
+                                                        "nodeName": "path",
+                                                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg g g:nth-child(1) path",
+                                                        "boundingBox": {
+                                                          "top": 1265.1514892578125,
+                                                          "left": 830.0087890625,
+                                                          "width": 31.93475341796875,
+                                                          "height": 31.93701171875
+                                                        },
+                                                        "children": 0,
+                                                        "attributes": [
+                                                          {
+                                                            "d": "M35.182.414C15.73.549 0 16.365 0 35.848c0 19.569 15.865 35.436 35.433 35.436 19.57 0 35.432-15.867 35.432-35.436C70.865 16.365 55.138.549 35.684.414h-.502zM16.265 18.268a6.99 6.99 0 0 1 6.996-6.992 6.99 6.99 0 0 1 6.992 6.992 6.991 6.991 0 0 1-6.992 6.995 6.99 6.99 0 0 1-6.996-6.995zm0 17.505a6.991 6.991 0 0 1 6.996-6.994 6.993 6.993 0 0 1 6.992 6.994c0 3.863-3.131 6.999-6.992 6.999a6.996 6.996 0 0 1-6.996-6.999zm0 17.595c0-3.86 3.127-7 6.996-7 3.861 0 6.992 3.14 6.992 7a6.992 6.992 0 0 1-6.992 6.995 6.99 6.99 0 0 1-6.996-6.995z"
+                                                          },
+                                                          {
+                                                            "fill": "#FFF"
+                                                          },
+                                                          {
+                                                            "mask": "url(#b)"
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  ]
+                                                ],
+                                                [
+                                                  {
+                                                    "nodeName": "path",
+                                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg g path:nth-child(1)",
+                                                    "boundingBox": {
+                                                      "top": 1267.8521728515625,
+                                                      "left": 867.014404296875,
+                                                      "width": 50.9354248046875,
+                                                      "height": 27.68798828125
+                                                    },
+                                                    "children": 0,
+                                                    "attributes": [
+                                                      {
+                                                        "d": "M104.698 74.15c-9.903 0-17.478-3.836-22.518-11.396a.377.377 0 0 1 .103-.52l7.03-4.808c.082-.06.187-.082.287-.06.1.02.188.078.243.168 3.557 5.535 8.695 8.46 14.855 8.46 6.565 0 13.19-2.855 13.19-9.243 0-5.22-4.09-7.27-10.69-8.887l-7.89-1.845c-9.875-2.473-15.092-7.845-15.092-15.54 0-12.275 10.907-17.77 21.714-17.77 9.275 0 16.225 3.755 19.578 10.57a.374.374 0 0 1-.13.482l-7.278 4.813a.371.371 0 0 1-.537-.14c-2.605-4.95-6.798-7.568-12.125-7.568-5.77 0-11.59 2.553-11.59 8.256 0 5.26 3.722 7.077 11.055 8.76l8.27 1.974c8.715 2.01 14.35 8.356 14.35 16.155 0 13.388-12.295 18.138-22.825 18.138M164.056 21.327c-12.305 0-20.898 9.09-20.898 22.102 0 13.02 8.593 22.11 20.898 22.11 12.375 0 21.02-9.09 21.02-22.11 0-13.012-8.645-22.102-21.02-22.102m-.003 52.822c-17.942 0-30.964-12.92-30.964-30.72 0-17.799 13.022-30.717 30.964-30.717 18.015 0 31.093 12.918 31.093 30.717 0 17.8-13.078 30.72-31.093 30.72"
+                                                      },
+                                                      {
+                                                        "fill": "#FFF"
+                                                      }
+                                                    ]
+                                                  }
+                                                ],
+                                                [
+                                                  {
+                                                    "nodeName": "g",
+                                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg g g:nth-child(2)",
+                                                    "boundingBox": {
+                                                      "top": 1262.125,
+                                                      "left": 921.6243896484375,
+                                                      "width": 28.24493408203125,
+                                                      "height": 33.4156494140625
+                                                    },
+                                                    "children": 2,
+                                                    "attributes": [
+                                                      {
+                                                        "transform": "translate(203 -.698)"
+                                                      }
+                                                    ]
+                                                  },
+                                                  [
+                                                    [
+                                                      {
+                                                        "nodeName": "mask",
+                                                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg g g:nth-child(2) mask#d",
+                                                        "boundingBox": {
+                                                          "top": 0,
+                                                          "left": 0,
+                                                          "width": 0,
+                                                          "height": 0
+                                                        },
+                                                        "children": 1,
+                                                        "attributes": [
+                                                          {
+                                                            "fill": "#fff"
+                                                          },
+                                                          {
+                                                            "id": "d"
+                                                          }
+                                                        ]
+                                                      },
+                                                      [
+                                                        [
+                                                          {
+                                                            "nodeName": "use",
+                                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg g g:nth-child(2) mask#d use",
+                                                            "boundingBox": {
+                                                              "top": 1262.12548828125,
+                                                              "left": 921.6243896484375,
+                                                              "width": 28.24493408203125,
+                                                              "height": 33.4151611328125
+                                                            },
+                                                            "children": 0,
+                                                            "attributes": [
+                                                              {
+                                                                "xlink:href": "#c"
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      ]
+                                                    ],
+                                                    [
+                                                      {
+                                                        "nodeName": "path",
+                                                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg g g:nth-child(2) path",
+                                                        "boundingBox": {
+                                                          "top": 1262.125,
+                                                          "left": 921.6243896484375,
+                                                          "width": 28.24493408203125,
+                                                          "height": 33.4156494140625
+                                                        },
+                                                        "children": 0,
+                                                        "attributes": [
+                                                          {
+                                                            "d": "M32.765 22.088c-12.635 0-22.158 9.476-22.158 22.04 0 12.566 9.523 22.04 22.158 22.04 12.337 0 20.952-9.062 20.952-22.04 0-12.977-8.615-22.04-20.952-22.04m-.878 52.76c-6.777 0-16.57-2.802-22.317-10.642v8.782c0 .21-.17.38-.378.38H.675a.377.377 0 0 1-.375-.38V1.076C.3.868.467.698.675.698h8.517c.208 0 .378.17.378.379v22.975c5.747-7.841 15.54-10.643 22.317-10.643 18.016 0 31.09 12.917 31.09 30.72 0 17.8-13.074 30.72-31.09 30.72"
+                                                          },
+                                                          {
+                                                            "fill": "#FFF"
+                                                          },
+                                                          {
+                                                            "mask": "url(#d)"
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  ]
+                                                ],
+                                                [
+                                                  {
+                                                    "nodeName": "path",
+                                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg g path:nth-child(2)",
+                                                    "boundingBox": {
+                                                      "top": 1268.52099609375,
+                                                      "left": 893.8792114257812,
+                                                      "width": 63.8704833984375,
+                                                      "height": 39.36669921875
+                                                    },
+                                                    "children": 0,
+                                                    "attributes": [
+                                                      {
+                                                        "d": "M283.089 72.67h-8.518a.379.379 0 0 1-.377-.377V14.568c0-.208.17-.375.377-.375h8.518c.21 0 .375.167.375.375v57.725a.375.375 0 0 1-.375.377M143.294 90.695c0-.36-.193-.528-.528-.528h-1.034v-.912h1.177c.985 0 1.393.41 1.393 1.32v.84c0 .555-.048.987-.048.987h.048c.602-1.852 1.897-3.242 3.794-3.242.358 0 .695.072.695.072v1.008s-.287-.048-.55-.048c-1.875 0-3.05 1.585-3.58 3.363-.262.837-.36 1.727-.36 2.517v5.188h-1.007V90.695zM153.665 100.612c2.617 0 4.107-2.712 4.107-5.09v-.648h-.77c-2.04 0-6.41 0-6.41 3.12 0 1.273 1.035 2.618 3.073 2.618m3.312-6.675h.795v-.167c0-2.858-.985-3.866-3.482-3.866-.625 0-2.663.168-2.663 1.175v.818h-1.012v-1.105c0-1.418 2.715-1.825 3.7-1.825 3.672 0 4.465 1.995 4.465 4.538v6.315c0 .36.192.53.53.53h1.03v.91h-1.175c-.985 0-1.393-.386-1.393-1.463 0-.65.048-1.082.048-1.082h-.048c.023 0-1.035 2.834-4.155 2.834-1.945 0-4.08-1.082-4.08-3.482 0-4.08 5.305-4.13 7.44-4.13M163.006 90.695c0-.36-.193-.528-.528-.528h-1.032v-.912h1.177c.983 0 1.39.41 1.39 1.32v.84c0 .555-.047.987-.047.987h.048c.602-1.852 1.897-3.242 3.795-3.242.357 0 .694.072.694.072v1.008s-.287-.048-.55-.048c-1.875 0-3.05 1.585-3.577 3.363-.265.837-.362 1.727-.362 2.517v5.188h-1.008V90.695zM179.285 94.152c-.12-2.928-1.872-4.248-3.865-4.248-2.21 0-4.25 1.44-4.683 4.248h8.548zm-3.843-5.185c3.268 0 4.9 2.57 4.9 5.475 0 .265-.05.647-.05.647h-9.627c0 3.483 2.352 5.473 5.137 5.473 2.305 0 3.723-1.51 3.723-1.51l.55.84s-1.678 1.657-4.273 1.657c-3.385 0-6.192-2.45-6.192-6.267 0-4.058 2.76-6.315 5.832-6.315zM189.903 97.37s1.56 1.803 3.65 1.803c.937 0 1.657-.388 1.657-1.203 0-1.728-6.46-1.703-6.46-5.665 0-2.45 2.21-3.579 4.753-3.579 1.66 0 4.3.554 4.3 2.546v1.273h-2.69v-.6c0-.575-.865-.865-1.535-.865-1.083 0-1.825.385-1.825 1.105 0 1.92 6.507 1.538 6.507 5.617 0 2.305-2.042 3.748-4.707 3.748-3.363 0-5.09-2.185-5.09-2.185l1.44-1.995zM201.14 91.44h-1.584v-2.426h1.655v-3.337h2.98v3.337h2.785v2.425h-2.785v4.947c0 2.016 1.585 2.303 2.422 2.303.338 0 .553-.045.553-.045v2.663s-.383.075-.935.075c-1.705 0-5.09-.508-5.09-4.613v-5.33zM209.976 92.135c0-.36-.193-.527-.528-.527h-.962v-2.593h2.787c1.08 0 1.633.457 1.633 1.49v.72c0 .455-.05.765-.05.765h.05c.552-1.75 2.017-3.143 3.89-3.143.262 0 .55.048.55.048v3s-.313-.048-.745-.048c-1.295 0-2.783.745-3.338 2.571A7.444 7.444 0 0 0 213 96.41v4.847h-3.025v-9.122zM226.734 93.553c-.048-1.464-1.055-2.472-2.305-2.472-1.56 0-2.663.934-3 2.472h5.305zm-2.305-4.826c3.505 0 5.427 2.569 5.427 5.812 0 .357-.072 1.127-.072 1.127h-8.45c.24 2.16 1.822 3.29 3.672 3.29 1.97 0 3.436-1.37 3.436-1.37l1.269 2.113s-1.872 1.85-4.92 1.85c-4.057 0-6.58-2.93-6.58-6.41 0-3.77 2.545-6.412 6.218-6.412zM232.81 92.135c0-.36-.193-.527-.53-.527h-.96v-2.593h2.81c1.08 0 1.607.502 1.607 1.37v.357c0 .265-.047.528-.047.528h.047c.53-1.03 1.85-2.543 4.323-2.543 2.712 0 4.272 1.415 4.272 4.658v4.777c0 .338.195.528.531.528h.96v2.567h-2.905c-1.153 0-1.633-.477-1.633-1.63V94.01c0-1.49-.385-2.497-1.923-2.497-1.63 0-2.855 1.032-3.287 2.497-.17.503-.24 1.055-.24 1.63v5.617h-3.025v-9.122z"
+                                                      },
+                                                      {
+                                                        "fill": "#FFF"
+                                                      }
+                                                    ]
+                                                  }
+                                                ],
+                                                [
+                                                  {
+                                                    "nodeName": "g",
+                                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg g g:nth-child(3)",
+                                                    "boundingBox": {
+                                                      "top": 1302.109619140625,
+                                                      "left": 941.3278198242188,
+                                                      "width": 6.04852294921875,
+                                                      "height": 7.9195556640625
+                                                    },
+                                                    "children": 2,
+                                                    "attributes": [
+                                                      {
+                                                        "transform": "translate(247 88.302)"
+                                                      }
+                                                    ]
+                                                  },
+                                                  [
+                                                    [
+                                                      {
+                                                        "nodeName": "mask",
+                                                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg g g:nth-child(3) mask#f",
+                                                        "boundingBox": {
+                                                          "top": 0,
+                                                          "left": 0,
+                                                          "width": 0,
+                                                          "height": 0
+                                                        },
+                                                        "children": 1,
+                                                        "attributes": [
+                                                          {
+                                                            "fill": "#fff"
+                                                          },
+                                                          {
+                                                            "id": "f"
+                                                          }
+                                                        ]
+                                                      },
+                                                      [
+                                                        [
+                                                          {
+                                                            "nodeName": "use",
+                                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg g g:nth-child(3) mask#f use",
+                                                            "boundingBox": {
+                                                              "top": 1302.109619140625,
+                                                              "left": 941.3278198242188,
+                                                              "width": 6.04852294921875,
+                                                              "height": 7.918701171875
+                                                            },
+                                                            "children": 0,
+                                                            "attributes": [
+                                                              {
+                                                                "xlink:href": "#e"
+                                                              }
+                                                            ]
+                                                          }
+                                                        ]
+                                                      ]
+                                                    ],
+                                                    [
+                                                      {
+                                                        "nodeName": "path",
+                                                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg g g:nth-child(3) path",
+                                                        "boundingBox": {
+                                                          "top": 1302.109619140625,
+                                                          "left": 941.3278198242188,
+                                                          "width": 6.04852294921875,
+                                                          "height": 7.9195556640625
+                                                        },
+                                                        "children": 0,
+                                                        "attributes": [
+                                                          {
+                                                            "d": "M9.028 6.548c0-2.785-1.395-3.53-3.05-3.53-1.85 0-2.858 1.345-2.858 3.408 0 2.14 1.08 3.722 3.048 3.722 1.465 0 2.86-.84 2.86-3.6M5.448.426c2.835 0 3.77 1.727 3.77 1.727h.05V1.84c0-.552.382-1.127 1.345-1.127h2.832v2.593h-.935c-.312 0-.53.17-.53.482v8.427c0 4.2-3.265 5.785-6.457 5.785-1.54 0-3.17-.432-4.348-1.057l.935-2.4s1.515.815 3.388.815c1.847 0 3.457-.792 3.457-3v-.575c0-.288.023-.65.023-.65H8.93c-.72 1.032-1.775 1.585-3.407 1.585-3.508 0-5.5-2.833-5.5-6.195C.023 3.163 1.92.426 5.448.426"
+                                                          },
+                                                          {
+                                                            "fill": "#FFF"
+                                                          },
+                                                          {
+                                                            "mask": "url(#f)"
+                                                          }
+                                                        ]
+                                                      }
+                                                    ]
+                                                  ]
+                                                ],
+                                                [
+                                                  {
+                                                    "nodeName": "path",
+                                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-4.col-lg-2.logo div div div svg g path:nth-child(3)",
+                                                    "boundingBox": {
+                                                      "top": 1300.075439453125,
+                                                      "left": 947.9689331054688,
+                                                      "width": 9.78125,
+                                                      "height": 7.736572265625
+                                                    },
+                                                    "children": 0,
+                                                    "attributes": [
+                                                      {
+                                                        "d": "M263.345 91.44h-1.585v-2.426h1.655v-3.337h2.98v3.337h2.785v2.425h-2.785v4.947c0 2.016 1.585 2.303 2.422 2.303.338 0 .553-.045.553-.045v2.663s-.383.075-.935.075c-1.705 0-5.09-.508-5.09-4.613v-5.33zM283.465 101.259h-3.025V94.01c0-1.49-.407-2.497-1.942-2.497-1.611 0-2.861 1.052-3.316 2.542-.144.483-.192 1.008-.192 1.585v5.618h-3.047V87.336c0-.362-.195-.53-.531-.53h-.96v-2.592h2.905c1.128 0 1.633.505 1.633 1.607v4.298c0 .6-.047 1.032-.047 1.032h.047c.578-1.177 2.088-2.425 4.202-2.425 2.738 0 4.273 1.418 4.273 4.66v7.873z"
+                                                      },
+                                                      {
+                                                        "fill": "#FFF"
+                                                      }
+                                                    ]
+                                                  }
+                                                ]
+                                              ]
+                                            ]
+                                          ]
+                                        ]
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-8.col-lg-10",
+                            "boundingBox": {
+                              "top": 1274.234375,
+                              "left": 1005,
+                              "width": 950,
+                              "height": 24
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "col-12 col-sm-8 col-lg-10"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-8.col-lg-10 div",
+                                "boundingBox": {
+                                  "top": 1274.234375,
+                                  "left": 1020,
+                                  "width": 920,
+                                  "height": 24
+                                },
+                                "children": 3,
+                                "attributes": [
+                                  {
+                                    "role": "article"
+                                  },
+                                  {
+                                    "about": "/en/node/121"
+                                  },
+                                  {
+                                    "class": "box layout0 bgcolor0 fgcolor0 view-mode-default"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-8.col-lg-10 div div",
+                                    "boundingBox": {
+                                      "top": 1274.234375,
+                                      "left": 1020,
+                                      "width": 920,
+                                      "height": 24
+                                    },
+                                    "children": 3,
+                                    "attributes": [
+                                      {
+                                        "class": "body"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "div",
+                                        "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-8.col-lg-10 div div div",
+                                        "boundingBox": {
+                                          "top": 1274.234375,
+                                          "left": 1020,
+                                          "width": 920,
+                                          "height": 24
+                                        },
+                                        "children": 2,
+                                        "attributes": null
+                                      },
+                                      [
+                                        [
+                                          {
+                                            "nodeName": "p",
+                                            "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-8.col-lg-10 div div div p",
+                                            "boundingBox": {
+                                              "top": 1274.234375,
+                                              "left": 1020,
+                                              "width": 920,
+                                              "height": 24
+                                            },
+                                            "children": 1,
+                                            "attributes": null
+                                          },
+                                          [
+                                            {
+                                              "nodeName": "text",
+                                              "path": "html body div.dialog-off-canvas-main-canvas footer#footer div div.s2 div div.col-12.col-sm-8.col-lg-10 div div div p",
+                                              "text": "© Swedish Orphan Biovitrum AB (publ) Reg. no. 556038-9321",
+                                              "boundingBox": {
+                                                "top": 1274.234375,
+                                                "left": 1020,
+                                                "width": 920,
+                                                "height": 24
+                                              },
+                                              "attributes": null
+                                            }
+                                          ]
+                                        ]
+                                      ]
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div#onetrust-consent-sdk",
+        "boundingBox": {
+          "top": 1409,
+          "left": 0,
+          "width": 2770,
+          "height": 0
+        },
+        "children": 3,
+        "attributes": [
+          {
+            "id": "onetrust-consent-sdk"
+          }
+        ]
+      },
+      []
+    ]
+  ]
+}

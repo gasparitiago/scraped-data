@@ -1,0 +1,1531 @@
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="js"><head>
+    <meta charset="utf-8"><script type="text/javascript" src="https://bam.nr-data.net/1/faa8394bc9?a=70689614&amp;v=1216.487a282&amp;to=ZlEDNUZTWRVWWhIPVl8bIAJAW1gIGEkHAVxuVwACXFc%3D&amp;rst=2903&amp;ck=1&amp;ref=https://www.sarepta.com/products-pipeline/pipeline&amp;ap=30&amp;be=1377&amp;fe=2838&amp;dc=2048&amp;perf=%7B%22timing%22:%7B%22of%22:1661206867214,%22n%22:0,%22f%22:0,%22dn%22:5,%22dne%22:467,%22c%22:467,%22s%22:479,%22ce%22:566,%22rq%22:566,%22rp%22:1327,%22rpe%22:1376,%22dl%22:1337,%22di%22:2046,%22ds%22:2048,%22de%22:2080,%22dc%22:2838,%22l%22:2838,%22le%22:2878%7D,%22navigation%22:%7B%7D%7D&amp;fp=1610&amp;fcp=1610&amp;at=ShYAQw5JShs%3D&amp;jsonp=NREUM.setToken"></script><script src="https://js-agent.newrelic.com/nr-1216.min.js"></script><script src="https://connect.facebook.net/signals/config/699725163413439?v=2.9.77&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://www.googletagmanager.com/gtm.js?id=GTM-KDTFF5W" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"faa8394bc9",applicationID:"70689614"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(9),c=t(10),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(11);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(8),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],7:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],8:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],9:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],10:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],11:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(9),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!M++){var t=T.info=NREUM.info,e=m.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(x,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+T.offset],null,"api"),c("timing",["load",n]);var r=m.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===m.readyState&&o()}function o(){c("mark",["domContent",a()+T.offset],null,"api")}var a=t(5),c=t("handle"),f=t(9),u=t("ee"),s=t(7),d=t(2),p=t(3),l=d.getConfiguration("ssl")===!1?"http":"https",v=window,m=v.document,g="addEventListener",y="attachEvent",h=v.XMLHttpRequest,w=h&&h.prototype,b=!1;NREUM.o={ST:setTimeout,SI:v.setImmediate,CT:clearTimeout,XHR:h,REQ:v.Request,EV:v.Event,PR:v.Promise,MO:v.MutationObserver};var E=""+location,x={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1216.min.js"},O=h&&w&&w[g]&&!/CriOS/.test(navigator.userAgent),T=e.exports={offset:a.getLastTimestamp(),now:a,origin:E,features:{},xhrWrappable:O,userAgent:s,disabled:b};if(!b){t(1),t(6),m[g]?(m[g]("DOMContentLoaded",o,p(!1)),v[g]("load",r,p(!1))):(m[y]("onreadystatechange",i),v[y]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var M=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(10),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<link rel="canonical" href="https://www.sarepta.com/products-pipeline/pipeline">
+<link rel="image_src" href="https://www.sarepta.com/sites/sarepta-corporate/files/2019-12/ELIJAH-web2.jpg">
+<meta name="description" content="See our pipeline for RNA technologies, gene therapy, and gene editing to learn about our research in rare diseases.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.sarepta.com/products-pipeline/pipeline">
+<meta property="og:title" content="Our Pipeline">
+<meta property="og:image" content="https://www.sarepta.com/sites/sarepta-corporate/files/2019-12/ELIJAH-web2.jpg">
+<meta property="og:image:width" content="1800">
+<meta property="og:image:height" content="600">
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="ImageToolbar" content="false">
+<link rel="icon" href="/themes/sarepta_corporate/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="alternate" hreflang="en" href="https://www.sarepta.com/products-pipeline/pipeline">
+<script src="/sites/sarepta-corporate/files/google_tag/sarepta_corporate/google_tag.script.js?rfs56g" defer=""></script>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <title>Our Pipeline | Sarepta Therapeutics</title>
+    <link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/controlgroup.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/autocomplete.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/menu.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/checkboxradio.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/resizable.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/button.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/dialog.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/align.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/fieldgroup.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/container-inline.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/clearfix.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/details.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/hidden.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/item-list.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/nowrap.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/position-container.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/progress.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/reset-appearance.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/resize.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/views/views.module.css?rfs56g">
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?rfs56g">
+<link rel="stylesheet" media="all" href="/modules/custom/sarepta_utils/sarepta_utils.css?rfs56g">
+<link rel="stylesheet" media="all" href="/modules/contrib/extlink/extlink.css?rfs56g">
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?rfs56g">
+<link rel="stylesheet" media="all" href="/modules/features/hero/css/hero.css?rfs56g">
+<link rel="stylesheet" media="all" href="/modules/contrib/search_api_autocomplete/css/search_api_autocomplete.css?rfs56g">
+<link rel="stylesheet" media="all" href="/themes/zurb_foundation/css/foundation-float.min.css?rfs56g">
+<link rel="stylesheet" media="all" href="/themes/zurb_foundation/css/motion-ui.min.css?rfs56g">
+<link rel="stylesheet" media="all" href="/themes/zurb_foundation/css/zurb_foundation.css?rfs56g">
+<link rel="stylesheet" media="all" href="/themes/sarepta_corporate/css/sarepta_corporate.css?rfs56g">
+<link rel="stylesheet" media="all" href="/themes/sarepta_corporate/slick/slick.css?rfs56g">
+<link rel="stylesheet" media="all" href="/themes/sarepta_corporate/slick/slick-theme.css?rfs56g">
+
+    
+    
+
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="google-site-verification" content="c1DPF0Y-q0fL4QKfOlWKx-H_XrsNANefThWFRn8Cy58">
+<meta class="foundation-mq"><script src="https://bat.bing.com/p/action/5726518.js" type="text/javascript" async="" data-ueto="ueto_04573a71a0"></script><style type="text/css">/* Chart.js */
+@keyframes chartjs-render-animation{from{opacity:.99}to{opacity:1}}.chartjs-render-monitor{animation:chartjs-render-animation 1ms}.chartjs-size-monitor,.chartjs-size-monitor-expand,.chartjs-size-monitor-shrink{position:absolute;direction:ltr;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1}.chartjs-size-monitor-expand>div{position:absolute;width:1000000px;height:1000000px;left:0;top:0}.chartjs-size-monitor-shrink>div{position:absolute;width:200%;height:200%;left:0;top:0}</style></head>
+<body class="lang-en section-products-pipeline page-pipeline path-node node--type-page">
+<a href="#main-content" class="visually-hidden focusable skip-link">
+    Skip to main content
+</a>
+<noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KDTFF5W" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    
+<div class="off-canvas-wrapper">
+  <div class="inner-wrap off-canvas-wrapper-inner" id="inner-wrap" data-off-canvas-wrapper="">
+    <aside id="left-off-canvas-menu" class="off-canvas left-off-canvas-menu position-left is-transition-push is-closed" role="complementary" data-off-canvas="" aria-hidden="true" data-i="2munke-i">
+      
+    </aside><div class="js-off-canvas-overlay is-overlay-fixed"></div>
+
+    <aside id="right-off-canvas-menu" class="off-canvas right-off-canvas-menu position-right is-transition-push is-closed" role="complementary" data-off-canvas="" aria-hidden="true" data-i="cty8vh-i">
+      
+    </aside><div class="js-off-canvas-overlay is-overlay-fixed"></div>
+
+    <div class="off-canvas-content" data-off-canvas-content="">
+      
+      <header class="header" role="banner" aria-label="Site header">
+        
+        <!-- Mobile Nav Header -->
+        <div class="mobile--nav" data-responsive-toggle="responsive-menu" data-hide-for="large" style="display: none;" data-n="jdjzzj-n">
+                      <div class="utility--nav">
+              <div class="row row--large">
+                <div class="small-12 columns nav--wrapper_utility">
+                    <div>
+    <nav role="navigation" aria-labelledby="block-utilitymenu-menu" id="block-utilitymenu" class="block-utilitymenu">
+            
+  <h2 class="block-title visually-hidden" id="block-utilitymenu-menu">Utility Menu</h2>
+  
+
+        
+              <ul class="menu">
+              <li>
+                            <a href="https://investorrelations.sarepta.com" role="menuitem">Investors</a>
+                          </li>
+          <li>
+                            <a href="/newsroom" role="menuitem" data-drupal-link-system-path="node/316">Newsroom</a>
+                          </li>
+          <li>
+                            <a href="/about-us/contact-us" role="menuitem" data-drupal-link-system-path="node/286">Contact Us</a>
+                          </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-regionalnavigation-menu" id="block-regionalnavigation" class="block-regionalnavigation">
+            
+  <h2 class="block-title visually-hidden" id="block-regionalnavigation-menu">Regional Navigation</h2>
+  
+
+        
+<ul class="menu menu-level-0">
+  
+  <li class="menu-item menu-item--expanded">
+    
+              
+
+<div class="menu_link_content menu-link-contentregional-navigation view-mode-icon menu-dropdown global--nav menu-dropdown-0 menu-type-icon">
+        <div class="icon--link">
+          <div class="field-wrapper field field--name-field-region-icon field--type-entity-reference field--label-hidden field__items">
+                          <img src="/sites/sarepta-corporate/files/2019-06/united-states_0.png" width="42" height="42" alt="global sites" loading="lazy" typeof="foaf:Image">
+
+
+      
+
+          </div>
+
+      <span>Global Sites</span>
+    </div>
+    
+<ul class="menu menu-level-1">
+  
+  <li class="menu-item menu-item--expanded">
+    
+              
+
+<div class="menu_link_content menu-link-contentregional-navigation view-mode-icon menu-dropdown global--nav menu-dropdown-1 menu-type-icon">
+        <div class="icon--link">
+          <div class="field-wrapper field field--name-field-region-icon field--type-entity-reference field--label-hidden field__items">
+                          <img src="/sites/sarepta-corporate/files/2019-07/swiss_flag_2.png" width="39" height="39" alt="Switzerland flag" loading="lazy" typeof="foaf:Image">
+
+
+      
+
+          </div>
+
+      <span>Switzerland</span>
+    </div>
+    
+<ul class="menu menu-level-2">
+  
+  <li class="menu-item">
+        <a href="https://www.sareptatherapeutics.ch/de" target="_blank" rel="noopener">Deutsch</a>
+    
+              
+  
+  <div class="menu_link_content menu-link-contentregional-navigation view-mode-default menu-dropdown menu-dropdown-2 menu-type-default">
+              
+      </div>
+
+
+
+      </li>
+  
+  <li class="menu-item">
+        <a href="https://www.sareptatherapeutics.ch/" target="_blank" rel="noopener">English</a>
+    
+              
+  
+  <div class="menu_link_content menu-link-contentregional-navigation view-mode-default menu-dropdown menu-dropdown-2 menu-type-default">
+              
+      </div>
+
+
+
+      </li>
+  
+  <li class="menu-item">
+        <a href="https://www.sareptatherapeutics.ch/fr" target="_blank" rel="noopener">Français</a>
+    
+              
+  
+  <div class="menu_link_content menu-link-contentregional-navigation view-mode-default menu-dropdown menu-dropdown-2 menu-type-default">
+              
+      </div>
+
+
+
+      </li>
+  
+  <li class="menu-item">
+        <a href="https://www.sareptatherapeutics.ch/it" target="_blank" rel="noopener">Italiano</a>
+    
+              
+  
+  <div class="menu_link_content menu-link-contentregional-navigation view-mode-default menu-dropdown menu-dropdown-2 menu-type-default">
+              
+      </div>
+
+
+
+      </li>
+</ul>
+
+  </div>
+
+      </li>
+  
+  <li class="menu-item menu-item--expanded">
+    
+              
+
+<div class="menu_link_content menu-link-contentregional-navigation view-mode-icon menu-dropdown global--nav menu-dropdown-1 menu-type-icon">
+        <div class="icon--link">
+          <div class="field-wrapper field field--name-field-region-icon field--type-entity-reference field--label-hidden field__items">
+                          <img src="/sites/sarepta-corporate/files/2019-07/uk_small.png" width="39" height="39" alt="UK flag" loading="lazy" typeof="foaf:Image">
+
+
+      
+
+          </div>
+
+      <span>UK</span>
+    </div>
+    
+<ul class="menu menu-level-2">
+  
+  <li class="menu-item">
+        <a href="https://www.sareptatherapeutics.co.uk/" target="_blank" rel="noopener">English</a>
+    
+              
+  
+  <div class="menu_link_content menu-link-contentregional-navigation view-mode-default menu-dropdown menu-dropdown-2 menu-type-default">
+              
+      </div>
+
+
+
+      </li>
+</ul>
+
+  </div>
+
+      </li>
+  
+  <li class="menu-item menu-item--expanded">
+    
+              
+
+<div class="menu_link_content menu-link-contentregional-navigation view-mode-icon menu-dropdown global--nav menu-dropdown-1 menu-type-icon">
+        <div class="icon--link">
+          <div class="field-wrapper field field--name-field-region-icon field--type-entity-reference field--label-hidden field__items">
+                          <img src="/sites/sarepta-corporate/files/2019-06/united-states_0.png" width="42" height="42" alt="global sites" loading="lazy" typeof="foaf:Image">
+
+
+      
+
+          </div>
+
+      <span>United States</span>
+    </div>
+    
+<ul class="menu menu-level-2">
+  
+  <li class="menu-item">
+        <a href="https://www.sarepta.com/">English</a>
+    
+              
+  
+  <div class="menu_link_content menu-link-contentregional-navigation view-mode-default menu-dropdown menu-dropdown-2 menu-type-default">
+              
+      </div>
+
+
+
+      </li>
+</ul>
+
+  </div>
+
+      </li>
+</ul>
+
+  </div>
+
+      </li>
+</ul>
+
+  </nav>
+
+  </div>
+
+                </div>
+              </div>
+            </div>
+                    <div class="row row--large">
+            <div class="columns small-8">
+              <a href="/" class="mobile--logo"><img src="/themes/sarepta_corporate/logo.svg" alt=""></a>
+              <p class="mobile--logo print-only" aria-label="Printed Logo"><img src="/themes/sarepta_corporate/images/sarepta_print_logo.png" alt=""></p>
+            </div>
+            <div class="columns small-4">
+                              <div class="toggle--btn">
+                  <button class="menu--icon" type="button" data-toggle="responsive-menu" aria-label="Menu Button">
+                    <span>Toggle Menu Button</span>
+                  </button>
+                </div>
+                          </div>
+          </div>
+        </div>
+        <!-- /.Mobile Nav Header -->
+
+        <div class="header--container sticky-container" data-sticky-container="" style="height: 103.375px;">
+          <div id="responsive-menu" data-sticky="" data-margin-top="0" class="sticky is-anchored is-at-top" data-resize="responsive-menu" data-mutate="responsive-menu" data-n="4apgwe-n" style="max-width: 2785px; margin-top: 0px; bottom: auto; top: 0px;" data-events="mutate">
+                          <div class="utility--nav show-for-large">
+                <div class="row">
+                  <div class="small-12 columns nav--wrapper_utility">
+                      <div>
+    <nav role="navigation" aria-labelledby="block-utilitymenu-menu" id="block-utilitymenu" class="block-utilitymenu">
+            
+  <h2 class="block-title visually-hidden" id="block-utilitymenu-menu">Utility Menu</h2>
+  
+
+        
+              <ul class="menu">
+              <li>
+                            <a href="https://investorrelations.sarepta.com" role="menuitem">Investors</a>
+                          </li>
+          <li>
+                            <a href="/newsroom" role="menuitem" data-drupal-link-system-path="node/316">Newsroom</a>
+                          </li>
+          <li>
+                            <a href="/about-us/contact-us" role="menuitem" data-drupal-link-system-path="node/286">Contact Us</a>
+                          </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-regionalnavigation-menu" id="block-regionalnavigation" class="block-regionalnavigation">
+            
+  <h2 class="block-title visually-hidden" id="block-regionalnavigation-menu">Regional Navigation</h2>
+  
+
+        
+<ul class="menu menu-level-0">
+  
+  <li class="menu-item menu-item--expanded">
+    
+              
+
+<div class="menu_link_content menu-link-contentregional-navigation view-mode-icon menu-dropdown global--nav menu-dropdown-0 menu-type-icon">
+        <div class="icon--link">
+          <div class="field-wrapper field field--name-field-region-icon field--type-entity-reference field--label-hidden field__items">
+                          <img src="/sites/sarepta-corporate/files/2019-06/united-states_0.png" width="42" height="42" alt="global sites" loading="lazy" typeof="foaf:Image">
+
+
+      
+
+          </div>
+
+      <span>Global Sites</span>
+    </div>
+    
+<ul class="menu menu-level-1">
+  
+  <li class="menu-item menu-item--expanded">
+    
+              
+
+<div class="menu_link_content menu-link-contentregional-navigation view-mode-icon menu-dropdown global--nav menu-dropdown-1 menu-type-icon">
+        <div class="icon--link">
+          <div class="field-wrapper field field--name-field-region-icon field--type-entity-reference field--label-hidden field__items">
+                          <img src="/sites/sarepta-corporate/files/2019-07/swiss_flag_2.png" width="39" height="39" alt="Switzerland flag" loading="lazy" typeof="foaf:Image">
+
+
+      
+
+          </div>
+
+      <span>Switzerland</span>
+    </div>
+    
+<ul class="menu menu-level-2">
+  
+  <li class="menu-item">
+        <a href="https://www.sareptatherapeutics.ch/de" target="_blank" rel="noopener">Deutsch</a>
+    
+              
+  
+  <div class="menu_link_content menu-link-contentregional-navigation view-mode-default menu-dropdown menu-dropdown-2 menu-type-default">
+              
+      </div>
+
+
+
+      </li>
+  
+  <li class="menu-item">
+        <a href="https://www.sareptatherapeutics.ch/" target="_blank" rel="noopener">English</a>
+    
+              
+  
+  <div class="menu_link_content menu-link-contentregional-navigation view-mode-default menu-dropdown menu-dropdown-2 menu-type-default">
+              
+      </div>
+
+
+
+      </li>
+  
+  <li class="menu-item">
+        <a href="https://www.sareptatherapeutics.ch/fr" target="_blank" rel="noopener">Français</a>
+    
+              
+  
+  <div class="menu_link_content menu-link-contentregional-navigation view-mode-default menu-dropdown menu-dropdown-2 menu-type-default">
+              
+      </div>
+
+
+
+      </li>
+  
+  <li class="menu-item">
+        <a href="https://www.sareptatherapeutics.ch/it" target="_blank" rel="noopener">Italiano</a>
+    
+              
+  
+  <div class="menu_link_content menu-link-contentregional-navigation view-mode-default menu-dropdown menu-dropdown-2 menu-type-default">
+              
+      </div>
+
+
+
+      </li>
+</ul>
+
+  </div>
+
+      </li>
+  
+  <li class="menu-item menu-item--expanded">
+    
+              
+
+<div class="menu_link_content menu-link-contentregional-navigation view-mode-icon menu-dropdown global--nav menu-dropdown-1 menu-type-icon">
+        <div class="icon--link">
+          <div class="field-wrapper field field--name-field-region-icon field--type-entity-reference field--label-hidden field__items">
+                          <img src="/sites/sarepta-corporate/files/2019-07/uk_small.png" width="39" height="39" alt="UK flag" loading="lazy" typeof="foaf:Image">
+
+
+      
+
+          </div>
+
+      <span>UK</span>
+    </div>
+    
+<ul class="menu menu-level-2">
+  
+  <li class="menu-item">
+        <a href="https://www.sareptatherapeutics.co.uk/" target="_blank" rel="noopener">English</a>
+    
+              
+  
+  <div class="menu_link_content menu-link-contentregional-navigation view-mode-default menu-dropdown menu-dropdown-2 menu-type-default">
+              
+      </div>
+
+
+
+      </li>
+</ul>
+
+  </div>
+
+      </li>
+  
+  <li class="menu-item menu-item--expanded">
+    
+              
+
+<div class="menu_link_content menu-link-contentregional-navigation view-mode-icon menu-dropdown global--nav menu-dropdown-1 menu-type-icon">
+        <div class="icon--link">
+          <div class="field-wrapper field field--name-field-region-icon field--type-entity-reference field--label-hidden field__items">
+                          <img src="/sites/sarepta-corporate/files/2019-06/united-states_0.png" width="42" height="42" alt="global sites" loading="lazy" typeof="foaf:Image">
+
+
+      
+
+          </div>
+
+      <span>United States</span>
+    </div>
+    
+<ul class="menu menu-level-2">
+  
+  <li class="menu-item">
+        <a href="https://www.sarepta.com/">English</a>
+    
+              
+  
+  <div class="menu_link_content menu-link-contentregional-navigation view-mode-default menu-dropdown menu-dropdown-2 menu-type-default">
+              
+      </div>
+
+
+
+      </li>
+</ul>
+
+  </div>
+
+      </li>
+</ul>
+
+  </div>
+
+      </li>
+</ul>
+
+  </nav>
+
+  </div>
+
+                  </div>
+                </div>
+              </div>
+                                      <div class="main--nav">
+                <div class="row">
+                  <div class="small-12 columns nav--wrapper_main ">
+                      <div>
+    <section id="block-sarepta-corporate-branding" class="block-sarepta-corporate-branding block block-system block-system-branding-block">
+  
+  
+    
+
+  
+                <a href="/" title="Home" rel="home">
+      <img src="/themes/sarepta_corporate/logo.svg" alt="Home">
+    </a>
+      
+    
+      
+  
+  </section>
+<section class="views-exposed-form block-exposedformacquia-searchpage block block-views block-views-exposed-filter-blockacquia-search-page" data-drupal-selector="views-exposed-form-acquia-search-page" id="block-exposedformacquia-searchpage">
+  
+  
+    
+
+  
+                  <form action="/search" method="get" id="views-exposed-form-acquia-search-page" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search-api-autocomplete form-item-search js-form-item-search form-no-label">
+        <input data-drupal-selector="edit-search" data-search-api-autocomplete-search="acquia_search" class="form-autocomplete form-text ui-autocomplete-input" data-autocomplete-path="/search_api_autocomplete/acquia_search?display=page&amp;&amp;filter=search" type="text" id="edit-search" name="search" value="" size="30" maxlength="128" data-once="autocomplete" autocomplete="off">
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="success button radius js-form-submit form-submit" data-drupal-selector="edit-submit-acquia-search" type="submit" id="edit-submit-acquia-search" value="Search">
+</div>
+
+
+</form>
+
+          
+      
+  
+  </section>
+<nav role="navigation" aria-labelledby="block-sociallinks-2-menu" id="block-sociallinks-2" class="block-sociallinks-2">
+            
+  <h2 class="block-title visually-hidden" id="block-sociallinks-2-menu">Social Links</h2>
+  
+
+        
+              <ul class="menu">
+              <li>
+                            <a href="https://twitter.com/sarepta" class="social--link twitter" target="_blank" rel="noopener">Twitter</a>
+                          </li>
+          <li>
+                            <a href="https://www.linkedin.com/company/sarepta-therapeutics" class="social--link linkedin" target="_blank" rel="noopener">LinkedIn</a>
+                          </li>
+          <li>
+                            <a href="https://www.instagram.com/sareptatherapeutics/" class="social--link instagram" target="_blank" rel="noopener">Instagram</a>
+                          </li>
+          <li>
+                            <a href="https://www.facebook.com/Sarepta-Therapeutics-208950446535427/" class="social--link facebook" target="_blank" rel="noopener">Facebook</a>
+                          </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-sarepta-corporate-main-menu-menu" id="block-sarepta-corporate-main-menu" class="block-sarepta-corporate-main-menu">
+            
+  <h2 class="block-title visually-hidden" id="block-sarepta-corporate-main-menu-menu">Main navigation</h2>
+  
+
+        
+
+                        <ul class="menu dropdown" data-dropdown-menu="" role="menubar" data-n="viq8u5-n">
+                          <li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="Our Disease Areas">
+        <a href="/disease-areas" data-drupal-link-system-path="node/6">Our Disease Areas</a>
+                                          <ul class="menu submenu is-dropdown-submenu first-sub vertical" data-submenu="" role="menubar">
+                          <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/disease-areas/duchenne-muscular-dystrophy" data-drupal-link-system-path="node/146">Duchenne Muscular Dystrophy</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/disease-areas/limb-girdle-muscular-dystrophy" data-drupal-link-system-path="node/151">Limb-girdle Muscular Dystrophy</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/disease-areas/charcot-marie-tooth-disease" data-drupal-link-system-path="node/306">Charcot-Marie-Tooth Disease</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="Our Science">
+        <a href="/science" data-drupal-link-system-path="node/16">Our Science</a>
+                                          <ul class="menu submenu is-dropdown-submenu first-sub vertical" data-submenu="" role="menubar">
+                          <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/science/gene-therapy-engine" data-drupal-link-system-path="node/201">Gene Therapy Engine</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/science/rna-platform" title="Leveraging RNA technology to treat rare disease" data-drupal-link-system-path="node/241">RNA Platform</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/science/gene-editing" data-drupal-link-system-path="node/196">Gene Editing</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/science/manufacturing" data-drupal-link-system-path="node/231">Manufacturing</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/science/strategic-partners" data-drupal-link-system-path="node/236">Strategic Partnerships</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="Our Products &amp; Pipeline">
+        <a href="/products-pipeline" data-drupal-link-system-path="node/21">Our Products &amp; Pipeline</a>
+                                          <ul class="menu submenu is-dropdown-submenu first-sub vertical" data-submenu="" role="menubar">
+                          <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/products-pipeline/products" data-drupal-link-system-path="node/246">Products</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/products-pipeline/pipeline" data-drupal-link-system-path="node/376" class="is-active">Pipeline</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/products-pipeline/clinical-trials" data-drupal-link-system-path="node/251">Clinical Trials</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/products-pipeline/treatment-access" data-drupal-link-system-path="node/256">Treatment Access</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="About Us">
+        <a href="/about-us" data-drupal-link-system-path="node/26">About Us</a>
+                                          <ul class="menu submenu is-dropdown-submenu first-sub vertical" data-submenu="" role="menubar">
+                          <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/about-us/leadership" data-drupal-link-system-path="node/261">Leadership</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/about-us/patient-affairs" data-drupal-link-system-path="node/141">Patient Affairs</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/about-us/corporate-responsibility" data-drupal-link-system-path="node/1281">Corporate Responsibility</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/about-us/grants-giving" data-drupal-link-system-path="node/946">Grants &amp; Giving</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/about-us/global-locations" data-drupal-link-system-path="node/971">Global Locations</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/about-us/contact-us" data-drupal-link-system-path="node/286">Contact Us</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="Join Us">
+        <a href="/join-us" data-drupal-link-system-path="node/31">Join Us</a>
+                                          <ul class="menu submenu is-dropdown-submenu first-sub vertical" data-submenu="" role="menubar">
+                          <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="https://sarepta.wd5.myworkdayjobs.com/sarepta_external">Career Opportunities</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+
+                                          <div class="toggle--btn">
+                        <button class="menu--icon search--icon" id="searchBtn" type="button" aria-label="Desktop Search Button">
+                          <span>Toggle Menu Button</span>
+                        </button>
+                      </div>
+                                      </div>
+                </div>
+              </div>
+                      </div>
+                  </div>
+      </header>
+
+                <div>
+    <section class="views-element-container block-views-block-hero-block-hero-block-2 block block-views block-views-blockhero-block-hero-block" id="block-views-block-hero-block-hero-block-2">
+  
+  
+    
+
+  
+                  <div><div class="view view-hero-block view-id-hero_block view-display-id-hero_block js-view-dom-id-f1cba2c5b6b90ee156d50b4d8f06f3b6de08f98895047b077c55f7d80b96bc73">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+
+<div id="heroWrapper" data-history-node-id="376" role="article" about="/products-pipeline/pipeline" typeof="schema:WebPage" class="hero--with-image hero--blue hero--wrapper hero-type-single-column hero--page">
+
+      <article id="node-376-hero" class="hero" style="background-image:url('/sites/sarepta-corporate/files/2019-12/ELIJAH-web2.jpg')">
+      <div class="hero--banner"></div>
+    </article>
+  
+  
+
+  <div class="hero--content hero--content__inner">
+    
+      <span property="schema:name" content="Our Pipeline" class="hidden"></span>
+
+
+    
+
+    <div class="row">
+
+            
+        <div class="columns small-12">
+          <h1 class="page--tag"><span property="schema:name" class="field-wrapper">Our Pipeline</span>
+</h1>
+          <span class="hero-title">
+                <div class="field-wrapper field field--name-field-hero-title field--type-string field--label-hidden field__items">
+                <div class="field__item">
+        Building an industry-leading genetic medicine pipeline
+            </div>
+          </div>
+
+          </span>
+        </div>
+
+      
+    </div>
+  </div>
+
+</div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+          
+      
+  
+  </section>
+<section id="block-sarepta-corporate-breadcrumbs" class="block-sarepta-corporate-breadcrumbs block block-system block-system-breadcrumb-block">
+  
+  
+    
+
+  
+                    <nav role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">You are here</h2>
+    <ul class="breadcrumbs">
+          <li>
+                  <a href="/">Home</a>
+              </li>
+          <li>
+                  <a href="/products-pipeline">Our Products &amp; Pipeline</a>
+              </li>
+          <li class="current"><a href="#">Our Pipeline</a></li>
+    </ul>
+  </nav>
+
+          
+      
+  
+  </section>
+<section class="views-element-container block-views-block-paragraph-component-listing-component-listing block block-views block-views-blockparagraph-component-listing-component-listing sticky-container" id="block-views-block-paragraph-component-listing-component-listing" data-sticky-container="" style="height: 0px;">
+  
+
+      <div class="sticky scroll-link--sticky_wrapper is-anchored is-at-top" data-sticky="" data-margin-top="5.7" data-top-anchor="heroWrapper:bottom" data-resize="2sjzad-sticky" data-mutate="2sjzad-sticky" data-n="0is32a-n" style="max-width: 2785px; margin-top: 0px; bottom: auto; top: 0px;" data-events="mutate">
+              <div><div class="row scroll--link-wrapper view view-paragraph-component-listing view-id-paragraph_component_listing view-display-id-component_listing js-view-dom-id-05926b1c5c5c0153f4e78bfcd4752a838c90adccc85805581cc0705f7dffe610">
+  
+    
+      
+  
+          </div>
+</div>
+
+          </div>
+  
+  </section>
+
+  </div>
+
+      
+      <div class="row">
+                              </div>
+
+      
+            <div class="l-help row expanded">
+        <div class="large-12 columns">
+            <div>
+    <div data-drupal-messages-fallback="" class="hidden"></div>
+
+  </div>
+
+        </div>
+      </div>
+      
+      <div class="row expanded collapse">
+        <main id="main" class="large-12 columns" role="main">
+                    <a id="main-content"></a>
+                    <section>
+              <div>
+    <div id="block-pipelinegraph" class="block-pipelinegraph field field--- field-name- field-type- field-label-">
+                          
+  <div class="pipeline-graph--graph">
+    <div class="row">
+      <div class="columns small-12">
+        <div class="pipeline-graph--wrapper">
+          <div class="chart--background"></div>
+          <div class="chart--wrapper"><div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div><div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div><div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div><div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div><div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div><div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div><div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div><div class="chartjs-size-monitor"><div class="chartjs-size-monitor-expand"><div class=""></div></div><div class="chartjs-size-monitor-shrink"><div class=""></div></div></div>
+                        <canvas id="myChart" style="display: block; width: 894px; height: 447px;" width="894" height="447" class="chartjs-render-monitor"></canvas>
+          </div>
+          <div class="pipeline-graph--target">
+            <span id="chartTotal" class="number">40+</span>
+            <span class="text">Programs</span>
+          </div>
+        </div>
+                <div id="pipelineLegend" class="pipeline--legend"><ul><li class="pipeline-legend--item"><span class="pipeline-legend--label" style="background-color:#EEB62A"></span><span class="pipeline-legend--text">Gene Editing</span></li><li class="pipeline-legend--item"><span class="pipeline-legend--label" style="background-color:#661B62"></span><span class="pipeline-legend--text">Gene Therapy</span></li><li class="pipeline-legend--item"><span class="pipeline-legend--label" style="background-color:#172A84"></span><span class="pipeline-legend--text">RNA Technologies</span></li></ul></div>
+                <div class="pipeline-graph--dropdown">
+          <p>Display by:</p>
+          <ul id="pipelineGraphSelect" class="menu pipeline-graph--listing">
+            <li class="menu-text is-active" data-graph="modality">Modality</li>
+            <li class="menu-text" data-graph="stage">Stage of Development</li>
+                      </ul>
+        </div>
+      </div>
+    </div><!-- /.row -->
+    <div class="row">
+      <div class="columns small-12">
+        <div class="pipeline__program">
+          <h6>Program Details</h6>
+          <a class="pipeline__program__reset" href="#">Reset Filters</a>
+        </div>
+        <div class="pipeline__program-blurb"><p style="margin-top: -1em; font-size: .8em;"><em>Information is current as of 3/1/2022, updates are made on a quarterly basis</em></p>
+</div>
+        <div class="row pipeline-grid-filters">
+          <div class="columns small-12 medium-3 pipeline-grid-filter">Filter Results by:</div>
+          <div class="columns small-12 medium-3 pipeline-grid-filter">
+            <select id="pipelineFilterModality">
+              <option value="all"> Select Modality </option>
+                                  <option value="gene-editing"> Gene Editing </option>
+                                  <option value="gene-therapy"> Gene Therapy </option>
+                                  <option value="rna-technologies"> RNA Technologies </option>
+                            </select>
+          </div>
+          <div class="columns small-12 medium-3 pipeline-grid-filter">
+            <select id="pipelineFilterStage">
+              <option value="all"> Select Stage </option>
+                                  <option value="discovery"> Discovery </option>
+                                  <option value="pre-clinical"> Pre-Clinical </option>
+                                  <option value="clinical"> Clinical </option>
+                                  <option value="commercial"> Commercial </option>
+                            </select>
+          </div>
+          <div class="columns small-12 medium-3 pipeline-grid-filter">
+            <select id="pipelineFilterDisease">
+              <option value="all"> Select Disease </option>
+                                  <option value="angelman-syndrome"> Angelman Syndrome </option>
+                                  <option value="cardiomyopathy"> Cardiomyopathy </option>
+                                  <option value="cmt"> CMT </option>
+                                  <option value="cns-disorders"> CNS Disorders </option>
+                                  <option value="dravet-syndrome"> Dravet Syndrome </option>
+                                  <option value="duchenne"> Duchenne </option>
+                                  <option value="edmd"> EDMD </option>
+                                  <option value="lgmd"> LGMD </option>
+                                  <option value="mps"> MPS </option>
+                                  <option value="multiple-sclerosis"> Multiple Sclerosis </option>
+                                  <option value="muscle---cns-target"> Muscle - CNS Target </option>
+                                  <option value="muscle---cv-targets"> Muscle - CV Targets </option>
+                                  <option value="niemann-pick-type-c"> Niemann-Pick Type C </option>
+                                  <option value="pompe-disease"> Pompe Disease </option>
+                                  <option value="rett"> Rett </option>
+                            </select>
+
+          </div>
+        </div>
+      </div>
+    </div><!-- /.row -->
+  </div><!-- /.pipeline-graph-graph -->
+</div>
+<section id="block-sarepta-corporate-content" class="block-sarepta-corporate-content block block-system block-system-main-block">
+  
+  
+    
+
+  
+                  <article id="node-376" data-history-node-id="376" role="article" about="/products-pipeline/pipeline" typeof="schema:WebPage">
+
+  
+      <span property="schema:name" content="Our Pipeline" class="hidden"></span>
+
+
+  
+    <div class="view-mode-full">
+        <div class="field-wrapper field field--name-field-components field--type-entity-reference-revisions field--label-hidden field__items">
+                <div class="field__item">
+          <div id="paragraph-2821" class="paragraph--embedded_ p-view-id--pipeline p-view-display-id--pipeline-standard-grid paragraph paragraph--type--embedded- paragraph--view-mode--default">
+              <div class="row">
+        <div class="columns small-12">
+                  
+<div class="field field--name-field-view field--type-viewfield field--label-hidden">
+  
+    
+        
+<div class="field__item field__item-label-hidden">
+  
+    
+      <div class="views-element-container"><div class="pipeline-standard-grid view view-pipeline view-id-pipeline view-display-id-pipeline_standard_grid js-view-dom-id-58f6d30d2cbfe5a0d025f51ad0263c6feb6ab1ba20dadba9ff268d68c7e887d3">
+  
+    
+      <div class="view-header">
+      <div class="pipeline-table-wrapper-standard">
+  <ul class="pipeline__header" style="top: 0px;"><li data-phase="program-name">Program Name</li>
+    <li data-phase="discovery">Discovery</li>
+    <li data-phase="preclinical">Preclinical</li>
+    <li data-phase="clinical">Clinical</li>
+    <li data-phase="commercial">Commercial*</li>
+  </ul><div class="pipeline-table">
+    
+  <div class="pipeline__section small-12 rna-technologies" data-standard-modality="RNA Technologies">
+    <div class="pipeline__standard">RNA Technologies</div>
+      <div class="pipeline__rows">
+        
+      <div class="pipeline-row duchenne commercial">
+          <div class="pipeline__text">
+EXONDYS 51 (eteplirsen)*
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:87%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne commercial">
+          <div class="pipeline__text">
+VYONDYS 53 (golodirsen)* 
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:87%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne commercial">
+          <div class="pipeline__text">
+AMONDYS 45 (casimersen)*  
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:87%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne pre-clinical">
+          <div class="pipeline__text">
+Exon 52 
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:40%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne discovery">
+          <div class="pipeline__text">
+Exon 43
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:20%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne discovery">
+          <div class="pipeline__text">
+Exon 44
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:20%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne discovery">
+          <div class="pipeline__text">
+Exon 50
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:20%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne discovery">
+          <div class="pipeline__text">
+Exon 55
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:20%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne clinical">
+          <div class="pipeline__text">
+SRP-5051
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:65%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne pre-clinical">
+          <div class="pipeline__text">
+SRP-5053
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:40%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne pre-clinical">
+          <div class="pipeline__text">
+SRP-5045
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:40%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne pre-clinical">
+          <div class="pipeline__text">
+SRP-5052
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:40%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne pre-clinical">
+          <div class="pipeline__text">
+SRP-5044
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:40%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne pre-clinical">
+          <div class="pipeline__text">
+SRP-5050
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:40%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div></div>
+    </div><div class="pipeline__section small-12 gene-therapy" data-standard-modality="Gene Therapy">
+    <div class="pipeline__standard">Gene Therapy</div>
+      <div class="pipeline__rows">
+        
+      <div class="pipeline-row duchenne clinical">
+          <div class="pipeline__text">
+SRP-9001 Micro-dystrophin**
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:65%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne clinical">
+          <div class="pipeline__text">
+GALGT2 (Nationwide Children's)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:65%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne clinical">
+          <div class="pipeline__text">
+GNT 0004 (Genethon)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:65%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row lgmd clinical">
+          <div class="pipeline__text">
+SRP-9003 (LGMD2E β-sarcoglycan)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#3453a3; width:65%;">LGMD</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row lgmd clinical">
+          <div class="pipeline__text">
+SRP-9004 (LGMD2D α-sarcoglycan)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#3453a3; width:65%;">LGMD</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row lgmd pre-clinical">
+          <div class="pipeline__text">
+SRP-9005 (LGMD2C γ-sarcoglycan)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#3453a3; width:40%;">LGMD</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row lgmd clinical">
+          <div class="pipeline__text">
+SRP-6004 (LGMD2B Dysferlin)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#3453a3; width:65%;">LGMD</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row lgmd pre-clinical">
+          <div class="pipeline__text">
+SRP-9006 (LGMD2L Anoctamin 5)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#3453a3; width:40%;">LGMD</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row lgmd pre-clinical">
+          <div class="pipeline__text">
+Calpain 3 (LGMD2A)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#3453a3; width:40%;">LGMD</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row cmt pre-clinical">
+          <div class="pipeline__text">
+Neurotrophin 3 (CMT 1A) (Nationwide Children's)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#15587b; width:40%;">CMT</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row cardiomyopathy pre-clinical">
+          <div class="pipeline__text">
+Cardiomyopathy (University of Florida)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#8eaa6d; width:40%;">Cardiomyopathy</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row cns-disorders pre-clinical">
+          <div class="pipeline__text">
+CNS-1 (Lacerta)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#8798e9; width:40%;">CNS Disorders</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row pompe-disease discovery">
+          <div class="pipeline__text">
+Pompe Disease (Lacerta)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#999899; width:20%;">Pompe Disease</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row niemann-pick-type-c pre-clinical">
+          <div class="pipeline__text">
+Niemann-Pick Type C (StrideBio)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#b25ba3; width:40%;">Niemann-Pick Type C</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row rett discovery">
+          <div class="pipeline__text">
+Rett Syndrome (StrideBio)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#999899; width:20%;">Rett</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row dravet-syndrome discovery">
+          <div class="pipeline__text">
+Dravet Syndrome (StrideBio)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#999899; width:20%;">Dravet Syndrome</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row angelman-syndrome discovery">
+          <div class="pipeline__text">
+Angelman Syndrome (StrideBio)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#999899; width:20%;">Angelman Syndrome</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row edmd pre-clinical">
+          <div class="pipeline__text">
+Emery-Dreifuss muscular dystrophy Type 1 (Columbia University)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#21bfd1; width:40%;">EDMD</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row multiple-sclerosis pre-clinical">
+          <div class="pipeline__text">
+Multiple Sclerosis (University of Florida)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#6341fa; width:40%;">Multiple Sclerosis</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row rett discovery">
+          <div class="pipeline__text">
+Rett Syndrome (University of Massachusetts)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#999899; width:20%;">Rett</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne discovery">
+          <div class="pipeline__text">
+Duchenne (Institute of Myology)***
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:20%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div></div>
+    </div><div class="pipeline__section small-12 gene-editing" data-standard-modality="Gene Editing">
+    <div class="pipeline__standard">Gene Editing</div>
+      <div class="pipeline__rows">
+        
+      <div class="pipeline-row duchenne discovery">
+          <div class="pipeline__text">
+CRISPR/CAS9 (Duke University)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:20%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div><div class="pipeline-row duchenne discovery">
+          <div class="pipeline__text">
+Duchenne (Harvard University)
+</div>
+          <div class="pipeline__phase-text"><span class="pipeline-bar" style="background-color:#661b62; width:20%;">Duchenne</span></div>
+          <div class="pipeline__sub-text"></div>
+       </div></div>
+    </div></div>
+</div>
+    </div>
+      
+      
+  
+          </div>
+</div>
+
+  </div>
+
+    </div>
+
+                      </div>
+        </div>
+        </div>
+
+            </div>
+                  <div class="field__item">
+          <div id="paragraph-3426" class="paragraph--paragraph_cta paragraph paragraph--type--paragraph-cta paragraph--view-mode--default">
+              <div class="row">
+        <div class="columns small-12">
+                      <div class="field-wrapper field field--name-field-paragraph-cta-text field--type-text-long field--label-hidden field__items">
+            <p><em>* Candidate received accelerated approval in the U.S., confirmatory studies required </em></p>
+
+<p><em>** Roche has the exclusive right to launch and commercialize SRP-9001 outside the United States </em></p>
+
+<p><em>*** Gene therapy and PPMO</em></p>
+
+<p><a href="https://www.sarepta.com/sites/sarepta-corporate/files/2022-04/Pipeline%202022%20030122.pdf"><em><em>Download PDF of Our Pipeline</em></em></a></p>
+
+<p><em>For more information about our pipeline, please contact Sarepta’s Patient Affairs team at <a href="mailto:Advocacy@sarepta.com">Advocacy@Sarepta.com</a>.</em></p>
+
+          </div>
+
+                      </div>
+        </div>
+        </div>
+
+            </div>
+          </div>
+
+  </div>
+
+  
+  
+  
+</article>
+
+          
+      
+  
+  </section>
+
+  </div>
+
+          </section>
+        </main>
+                      </div>
+              <footer class="row expanded collapse">
+                      <div id="footer-first" class="large-12 columns">
+              <div class="row">
+                <div class="small-12 columns">
+                    <div>
+    <nav role="navigation" aria-labelledby="block-sociallinks-menu" id="block-sociallinks" class="block-sociallinks">
+      
+  <h2 class="block-title" id="block-sociallinks-menu">Follow Us On Social</h2>
+  
+
+        
+              <ul class="menu">
+              <li>
+                            <a href="https://twitter.com/sarepta" class="social--link twitter" target="_blank" rel="noopener">Twitter</a>
+                          </li>
+          <li>
+                            <a href="https://www.linkedin.com/company/sarepta-therapeutics" class="social--link linkedin" target="_blank" rel="noopener">LinkedIn</a>
+                          </li>
+          <li>
+                            <a href="https://www.instagram.com/sareptatherapeutics/" class="social--link instagram" target="_blank" rel="noopener">Instagram</a>
+                          </li>
+          <li>
+                            <a href="https://www.facebook.com/Sarepta-Therapeutics-208950446535427/" class="social--link facebook" target="_blank" rel="noopener">Facebook</a>
+                          </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+                </div>
+              </div>
+            </div>
+                                <div id="footer-middle" class="large-12 columns">
+              <div class="row collapse">
+                <div class="small-12 columns">
+                    <div>
+    <nav role="navigation" aria-labelledby="block-mainnavigation-2-menu" id="block-mainnavigation-2" class="block-mainnavigation-2">
+            
+  <h2 class="block-title visually-hidden" id="block-mainnavigation-2-menu">Main navigation</h2>
+  
+
+        
+
+                        <ul class="menu dropdown" data-dropdown-menu="" role="menubar" data-n="f4rs7p-n">
+                          <li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="Our Disease Areas">
+        <a href="/disease-areas" data-drupal-link-system-path="node/6">Our Disease Areas</a>
+                                          <ul class="menu submenu is-dropdown-submenu first-sub vertical" data-submenu="" role="menubar">
+                          <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/disease-areas/duchenne-muscular-dystrophy" data-drupal-link-system-path="node/146">Duchenne Muscular Dystrophy</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/disease-areas/limb-girdle-muscular-dystrophy" data-drupal-link-system-path="node/151">Limb-girdle Muscular Dystrophy</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/disease-areas/charcot-marie-tooth-disease" data-drupal-link-system-path="node/306">Charcot-Marie-Tooth Disease</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="Our Science">
+        <a href="/science" data-drupal-link-system-path="node/16">Our Science</a>
+                                          <ul class="menu submenu is-dropdown-submenu first-sub vertical" data-submenu="" role="menubar">
+                          <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/science/gene-therapy-engine" data-drupal-link-system-path="node/201">Gene Therapy Engine</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/science/rna-platform" title="Leveraging RNA technology to treat rare disease" data-drupal-link-system-path="node/241">RNA Platform</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/science/gene-editing" data-drupal-link-system-path="node/196">Gene Editing</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/science/manufacturing" data-drupal-link-system-path="node/231">Manufacturing</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/science/strategic-partners" data-drupal-link-system-path="node/236">Strategic Partnerships</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="Our Products &amp; Pipeline">
+        <a href="/products-pipeline" data-drupal-link-system-path="node/21">Our Products &amp; Pipeline</a>
+                                          <ul class="menu submenu is-dropdown-submenu first-sub vertical" data-submenu="" role="menubar">
+                          <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/products-pipeline/products" data-drupal-link-system-path="node/246">Products</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/products-pipeline/pipeline" data-drupal-link-system-path="node/376" class="is-active">Pipeline</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/products-pipeline/clinical-trials" data-drupal-link-system-path="node/251">Clinical Trials</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/products-pipeline/treatment-access" data-drupal-link-system-path="node/256">Treatment Access</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="About Us">
+        <a href="/about-us" data-drupal-link-system-path="node/26">About Us</a>
+                                          <ul class="menu submenu is-dropdown-submenu first-sub vertical" data-submenu="" role="menubar">
+                          <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/about-us/leadership" data-drupal-link-system-path="node/261">Leadership</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/about-us/patient-affairs" data-drupal-link-system-path="node/141">Patient Affairs</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/about-us/corporate-responsibility" data-drupal-link-system-path="node/1281">Corporate Responsibility</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/about-us/grants-giving" data-drupal-link-system-path="node/946">Grants &amp; Giving</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/about-us/global-locations" data-drupal-link-system-path="node/971">Global Locations</a>
+              </li>
+                <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="/about-us/contact-us" data-drupal-link-system-path="node/286">Contact Us</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li role="menuitem" class="is-dropdown-submenu-parent opens-right" aria-haspopup="true" aria-label="Join Us">
+        <a href="/join-us" data-drupal-link-system-path="node/31">Join Us</a>
+                                          <ul class="menu submenu is-dropdown-submenu first-sub vertical" data-submenu="" role="menubar">
+                          <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item">
+        <a href="https://sarepta.wd5.myworkdayjobs.com/sarepta_external">Career Opportunities</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+                </div>
+              </div>
+            </div>
+                      <div id="footer-last" class="large-12 columns">
+              <div class="row">
+                                  <div class="small-12 columns footer-bottom">
+                      <div>
+    <section id="block-copyright" class="block-copyright block block-block-content block-block-content6df5b91c-2003-44a2-b350-a72bae26dbf0">
+  
+  
+    
+
+  
+                      <div class="field-wrapper body field field--name-body field--type-text-with-summary field--label-hidden field__items">
+                <div class="field__item">
+        <p>©2022 Sarepta Therapeutics, Inc. All rights reserved.</p>
+            </div>
+          </div>
+
+          
+      
+  
+  </section>
+<nav role="navigation" aria-labelledby="block-footerutilitynav-menu" id="block-footerutilitynav" class="block-footerutilitynav">
+            
+  <h2 class="block-title visually-hidden" id="block-footerutilitynav-menu">Footer Utility Nav</h2>
+  
+
+        
+              <ul class="menu">
+              <li>
+                            <a href="/privacy-policy" data-drupal-link-system-path="node/1076">Privacy Policy</a>
+                          </li>
+          <li>
+                            <a href="/terms-use" data-drupal-link-system-path="node/296">Terms of Use</a>
+                          </li>
+          <li>
+                            <a href="/eu-us-and-swiss-us-privacy-shield-policy" data-drupal-link-system-path="node/1321">EU-U.S. and Swiss-U.S. Privacy Shield Policy</a>
+                          </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+                  </div>
+                              </div>
+            </div>
+        </footer>
+          </div>
+  </div>
+</div>
+
+  </div>
+
+
+<div id="dialog-confirm"></div>
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/376","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"extlink\/drupal.extlink,hero\/hero_banner,paragraphs\/drupal.paragraphs.unpublished,sarepta_corporate\/chartjs,sarepta_corporate\/global,sarepta_corporate\/pipeline,sarepta_corporate\/slick,sarepta_utils\/drupal.sarepta_utils,search_api_autocomplete\/search_api_autocomplete,system\/base,views\/views.module,zurb_foundation\/global","theme":"sarepta_corporate","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"data":{"sarepta_utils":{"externalText":"The site you are about to visit is maintained by another organization who is solely responsible for its content. As we cannot control the content or privacy practices of any third-party websites, we encourage you to read the privacy policy of every website you visit.","sisterText":"You are now leaving to visit another Sarepta Therapeutics website.","okayText":"Okay","cancelText":"Cancel","sisterSites":"duchenne.com|sarepta.com|exondys51hcp.com|exondys51.com|vyondys53.com|sarepta.gcs-web.com|duchennegenetherapy.com|sareptatherapeutics.ch|sareptatherapeutics.de|sareptatherapeutics.co.uk|sareptatherapeutics.co.jp|sareptafarmaceutica.com.br|sareptatherapeutics.fr|investorrelations.sarepta.com|limbgirdle.com|essencetrial.com"},"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"myworkdayjobs\\.com","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":true,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":null}},"pipelineGraph":{"programsTotal":"40+","modalityData":{"121":{"name":"Gene Editing","color":"#EEB62A","count":2,"weight":0},"116":{"name":"Gene Therapy","color":"#661B62","count":21,"weight":1},"106":{"name":"RNA Technologies","color":"#172A84","count":14,"weight":2}},"stageData":{"141":{"name":"Discovery","color":"#999899","count":12,"weight":0},"136":{"name":"Pre-Clinical","color":"#EEB62A","count":15,"weight":1},"131":{"name":"Clinical","color":"#172A84","count":7,"weight":2},"126":{"name":"Commercial","color":"#661B62","count":3,"weight":3}},"diseaseData":{"391":{"name":"Angelman Syndrome","color":"#999899","count":1,"weight":0},"371":{"name":"Cardiomyopathy","color":"#8EAA6D","count":1,"weight":1},"96":{"name":"CMT","color":"#15587B","count":1,"weight":2},"91":{"name":"CNS Disorders","color":"#8798E9","count":1,"weight":3},"386":{"name":"Dravet Syndrome","color":"#999899","count":1,"weight":4},"81":{"name":"Duchenne","color":"#661B62","count":20,"weight":5},"411":{"name":"EDMD","color":"#21BFD1","count":1,"weight":6},"86":{"name":"LGMD","color":"#3453A3","count":6,"weight":7},"426":{"name":"MPS","color":"#8694A4","count":0,"weight":8},"381":{"name":"Multiple Sclerosis","color":"#6341FA","count":1,"weight":9},"401":{"name":"Muscle - CNS Target","color":"#999899","count":0,"weight":10},"431":{"name":"Muscle - CV Targets","color":"#999899","count":0,"weight":11},"396":{"name":"Niemann-Pick Type C","color":"#B25BA3","count":1,"weight":12},"101":{"name":"Pompe Disease","color":"#999899","count":1,"weight":13},"366":{"name":"Rett","color":"#999899","count":2,"weight":14}},"modalityLabels":["Gene Editing","Gene Therapy","RNA Technologies"],"modalityLegendColors":["#EEB62A","#661B62","#172A84"],"stageLabels":["Discovery","Pre-Clinical","Clinical","Commercial"],"diseaseLabels":["Angelman Syndrome","Cardiomyopathy","CMT","CNS Disorders","Dravet Syndrome","Duchenne","EDMD","LGMD","MPS","Multiple Sclerosis","Muscle - CNS Target","Muscle - CV Targets","Niemann-Pick Type C","Pompe Disease","Rett"],"diseaseLegendColors":["#999899","#8EAA6D","#15587B","#8798E9","#999899","#661B62","#21BFD1","#3453A3","#8694A4","#6341FA","#999899","#999899","#B25BA3","#999899","#999899"]},"search_api_autocomplete":{"acquia_search":{"auto_submit":true,"min_length":3}},"user":{"uid":0,"permissionsHash":"49647e52e1cff410aec1d28dbe8a878e13ec0257d49a471ff734c090baa75bdd"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.6.0"></script>
+<script src="/core/assets/vendor/css-escape/css.escape.js?v=1.5.1"></script>
+<script src="/core/misc/polyfills/element.matches.js?v=9.3.15"></script>
+<script src="/core/misc/polyfills/object.assign.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=9.3.15"></script>
+<script src="/core/misc/drupal.js?v=9.3.15"></script>
+<script src="/core/misc/drupal.init.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-patch-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/controlgroup-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-reset-mixin-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/mouse-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/autocomplete-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/menu-min.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/checkboxradio-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/draggable-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/resizable-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/button-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/dialog-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=5.2.1"></script>
+<script src="/modules/custom/sarepta_utils/sarepta_utils.js?v=8.8.6"></script>
+<script src="/core/misc/autocomplete.js?v=9.3.15"></script>
+<script src="/core/misc/jquery.tabbable.shim.js?v=9.3.15"></script>
+<script src="/core/misc/position.js?v=9.3.15"></script>
+<script src="/core/assets/vendor/js-cookie/js.cookie.min.js?v=3.0.1"></script>
+<script src="/core/misc/jquery.cookie.shim.js?v=9.3.15"></script>
+<script src="/core/misc/jquery.once.bc.js?v=9.3.15"></script>
+<script src="/themes/zurb_foundation/js/foundation.min.js?v=9.3.15"></script>
+<script src="/themes/zurb_foundation/js/foundation_init.js?v=9.3.15"></script>
+<script src="/themes/zurb_foundation/js/motion-ui.min.js?v=9.3.15"></script>
+<script src="/themes/sarepta_corporate/js/sarepta_corporate.js?v=9.3.15"></script>
+<script src="/themes/sarepta_corporate/js/slick.min.js?v=1.8.1"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+<script src="/modules/contrib/extlink/extlink.js?v=9.3.15"></script>
+<script src="/themes/sarepta_corporate/js/pipeline_grid.js?v=2.0.0"></script>
+<script src="/themes/sarepta_corporate/js/pipeline.js?v=2.0.0"></script>
+<script src="/core/misc/progress.js?v=9.3.15"></script>
+<script src="/core/misc/ajax.js?v=9.3.15"></script>
+<script src="/core/themes/stable/js/ajax.js?v=9.3.15"></script>
+<script src="/modules/contrib/search_api_autocomplete/js/search_api_autocomplete.js?rfs56g"></script>
+<script src="/themes/zurb_foundation/js/top_bar_active.js?v=9.3.15"></script>
+
+                            <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"faa8394bc9","applicationID":"70689614","transactionName":"ZlEDNUZTWRVWWhIPVl8bIAJAW1gIGEkHAVxuVwACXFc=","queueTime":0,"applicationTime":30,"atts":"ShYAQw5JShs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+<ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front search-api-autocomplete-search" unselectable="on" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><script type="text/javascript" id="">(function(b,c,e,f,d){b[d]=b[d]||[];var g=function(){var a={ti:"5726518"};a.q=b[d];b[d]=new UET(a);b[d].push("pageLoad")};var a=c.createElement(e);a.src=f;a.async=1;a.onload=a.onreadystatechange=function(){var b=this.readyState;b&&"loaded"!==b&&"complete"!==b||(g(),a.onload=a.onreadystatechange=null)};c=c.getElementsByTagName(e)[0];c.parentNode.insertBefore(a,c)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript><img src="//bat.bing.com/action/0?ti=5726518&amp;Ver=2" height="0" width="0" style="display:none; visibility: hidden;"></noscript>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","699725163413439");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=699725163413439&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="">(function(){var c,b=function(){c||(c=!0,dataLayer.push({event:"printPage"}))};if(window.matchMedia){var d=window.matchMedia("print");d.addListener(function(a){a.matches||b()})}window.onafterprint=b;$(document).keydown(function(a){80==a.keyCode&&(a.ctrlKey||a.metaKey)&&$.browser.opera&&b()});$(".printlink").click(function(){$.browser.opera&&b();window.print()})})();</script><script type="text/javascript" id="">(function(){function b(a){a=a.replace(/[\[]/,"\\[").replace(/[\]]/,"\\]");a=new RegExp("[\\?\x26]"+a+"\x3d([^\x26#]*)");a=a.exec(location.search);return null===a?"":decodeURIComponent(a[1].replace(/\+/g," "))}if(window.MutationObserver){var c=new MutationObserver(function(a){a.forEach(function(a){var b=a.oldValue,c=a.target.className;-1===b.indexOf("translated-")&&-1<c.indexOf("translated-")&&(console.log(a),window.dataLayer.push({event:"pageTranslated",translationLanguage:a.target.lang||document.getElementsByTagName("html")[0].getAttribute("xml:lang"),
+translationService:"on-page google translate"}))})}),d=document.querySelector("html");c.observe(d,{attributes:!0,attributeOldValue:!0,attributeFilter:["class"]})}-1<window.location.href.indexOf("translate.googleusercontent.com")&&window.dataLayer.push({event:"pageTranslated",translationLanguage:b("tl"),translationService:"google translate website"});-1<window.location.href.indexOf("translatoruser-int.com")&&window.dataLayer.push({event:"pageTranslated",translationLanguage:b("to"),translationService:"bing translator website"})})();</script><div style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon64429373251"><img style="width:0px; height:0px; display:none; visibility:hidden;" id="batBeacon51605193464" width="0" height="0" alt="" src="https://bat.bing.com/action/0?ti=5726518&amp;Ver=2&amp;mid=f1d6f4f9-c9f8-4717-ba9a-43e9522bb699&amp;sid=b94cbe40226811eda43f211d5d3bf525&amp;vid=b94cc350226811eda385fbbc9538d5c2&amp;vids=1&amp;msclkid=N&amp;pi=0&amp;lg=en-US&amp;sw=2560&amp;sh=1080&amp;sc=24&amp;nwd=1&amp;tl=Our%20Pipeline%20%7C%20Sarepta%20Therapeutics&amp;p=https%3A%2F%2Fwww.sarepta.com%2Fproducts-pipeline%2Fpipeline&amp;r=&amp;lt=2080&amp;evt=pageLoad&amp;sv=1&amp;rn=944540"></div></body></html>

@@ -1,0 +1,968 @@
+{
+  "url": "https://www.argenx.com/pipeline",
+  "timestamp": 1661206512828,
+  "elements": [
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div.main-wrapper",
+        "boundingBox": {
+          "top": 0,
+          "left": 0,
+          "width": 2800,
+          "height": 1003
+        },
+        "children": 3,
+        "attributes": [
+          {
+            "class": "main-wrapper"
+          },
+          {
+            "role": "main"
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div.main-wrapper div.main-content",
+            "boundingBox": {
+              "top": 128,
+              "left": 920,
+              "width": 960,
+              "height": 451.390625
+            },
+            "children": 18,
+            "attributes": [
+              {
+                "class": "main-content"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "h1",
+                "path": "html body div.main-wrapper div.main-content h1",
+                "boundingBox": {
+                  "top": 128,
+                  "left": 944,
+                  "width": 912,
+                  "height": 60
+                },
+                "children": 2,
+                "attributes": [
+                  {
+                    "class": "zone-name-title h1"
+                  }
+                ]
+              },
+              [
+                {
+                  "nodeName": "text",
+                  "path": "html body div.main-wrapper div.main-content h1",
+                  "text": "www.argenx.com",
+                  "boundingBox": {
+                    "top": 128,
+                    "left": 944,
+                    "width": 912,
+                    "height": 60
+                  },
+                  "attributes": [
+                    {
+                      "class": "zone-name-title h1"
+                    }
+                  ]
+                }
+              ]
+            ],
+            [
+              {
+                "nodeName": "h2",
+                "path": "html body div.main-wrapper div.main-content h2#cf-challenge-running",
+                "boundingBox": {
+                  "top": 188,
+                  "left": 944,
+                  "width": 912,
+                  "height": 36
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "class": "h2"
+                  },
+                  {
+                    "id": "cf-challenge-running"
+                  }
+                ]
+              },
+              [
+                {
+                  "nodeName": "text",
+                  "path": "html body div.main-wrapper div.main-content h2#cf-challenge-running",
+                  "text": "Checking if the site connection is secure",
+                  "boundingBox": {
+                    "top": 188,
+                    "left": 944,
+                    "width": 912,
+                    "height": 36
+                  },
+                  "attributes": [
+                    {
+                      "class": "h2"
+                    },
+                    {
+                      "id": "cf-challenge-running"
+                    }
+                  ]
+                }
+              ]
+            ],
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.main-wrapper div.main-content div#challenge-stage",
+                "boundingBox": {
+                  "top": 256,
+                  "left": 944,
+                  "width": 912,
+                  "height": 81.390625
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "id": "challenge-stage"
+                  },
+                  {
+                    "style": "display: block;"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body div.main-wrapper div.main-content div#challenge-stage div#cf-challenge-hcaptcha-wrapper",
+                    "boundingBox": {
+                      "top": 256,
+                      "left": 944,
+                      "width": 912,
+                      "height": 81.390625
+                    },
+                    "children": 2,
+                    "attributes": [
+                      {
+                        "id": "cf-challenge-hcaptcha-wrapper"
+                      },
+                      {
+                        "class": "captcha-prompt spacer"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.main-wrapper div.main-content div#challenge-stage div#cf-challenge-hcaptcha-wrapper div:nth-child(2)",
+                        "boundingBox": {
+                          "top": 256,
+                          "left": 944,
+                          "width": 303,
+                          "height": 81.390625
+                        },
+                        "children": 2,
+                        "attributes": [
+                          {
+                            "class": "hcaptcha-box"
+                          }
+                        ]
+                      },
+                      []
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.main-wrapper div.main-content div#cf-challenge-body-text",
+                "boundingBox": {
+                  "top": 369.390625,
+                  "left": 944,
+                  "width": 912,
+                  "height": 36
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "id": "cf-challenge-body-text"
+                  },
+                  {
+                    "class": "core-msg spacer"
+                  }
+                ]
+              },
+              [
+                {
+                  "nodeName": "text",
+                  "path": "html body div.main-wrapper div.main-content div#cf-challenge-body-text",
+                  "text": "www.argenx.com needs to review the security of your connection before\n            proceeding.",
+                  "boundingBox": {
+                    "top": 369.390625,
+                    "left": 944,
+                    "width": 912,
+                    "height": 36
+                  },
+                  "attributes": [
+                    {
+                      "id": "cf-challenge-body-text"
+                    },
+                    {
+                      "class": "core-msg spacer"
+                    }
+                  ]
+                }
+              ]
+            ],
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.main-wrapper div.main-content div#challenge-fact-wrapper",
+                "boundingBox": {
+                  "top": 437.390625,
+                  "left": 944,
+                  "width": 912,
+                  "height": 54
+                },
+                "children": 3,
+                "attributes": [
+                  {
+                    "id": "challenge-fact-wrapper"
+                  },
+                  {
+                    "class": "fact spacer hidden"
+                  },
+                  {
+                    "style": "display: block; visibility: visible;"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "span",
+                    "path": "html body div.main-wrapper div.main-content div#challenge-fact-wrapper span.fact-title",
+                    "boundingBox": {
+                      "top": 455.390625,
+                      "left": 961,
+                      "width": 99.609375,
+                      "height": 18
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "fact-title"
+                      }
+                    ]
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body div.main-wrapper div.main-content div#challenge-fact-wrapper span.fact-title",
+                      "text": "Did you know",
+                      "boundingBox": {
+                        "top": 455.390625,
+                        "left": 961,
+                        "width": 99.609375,
+                        "height": 18
+                      },
+                      "attributes": [
+                        {
+                          "class": "fact-title"
+                        }
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "span",
+                    "path": "html body div.main-wrapper div.main-content div#challenge-fact-wrapper span#challenge-fact",
+                    "boundingBox": {
+                      "top": 455.390625,
+                      "left": 1064.796875,
+                      "width": 673.296875,
+                      "height": 18
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "id": "challenge-fact"
+                      },
+                      {
+                        "class": "body-text"
+                      }
+                    ]
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body div.main-wrapper div.main-content div#challenge-fact-wrapper span#challenge-fact",
+                      "text": "keeping your browser up to date will help protect you from malware and other digital attacks?",
+                      "boundingBox": {
+                        "top": 455.390625,
+                        "left": 1064.796875,
+                        "width": 673.296875,
+                        "height": 18
+                      },
+                      "attributes": [
+                        {
+                          "id": "challenge-fact"
+                        },
+                        {
+                          "class": "body-text"
+                        }
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.main-wrapper div.main-content div#challenge-explainer-expandable",
+                "boundingBox": {
+                  "top": 523.390625,
+                  "left": 944,
+                  "width": 912,
+                  "height": 24
+                },
+                "children": 3,
+                "attributes": [
+                  {
+                    "id": "challenge-explainer-expandable"
+                  },
+                  {
+                    "class": "hidden expandable body-text spacer"
+                  },
+                  {
+                    "style": "display: block; visibility: visible;"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body div.main-wrapper div.main-content div#challenge-explainer-expandable div#challenge-explainer-summary",
+                    "boundingBox": {
+                      "top": 523.390625,
+                      "left": 954,
+                      "width": 902,
+                      "height": 24
+                    },
+                    "children": 2,
+                    "attributes": [
+                      {
+                        "class": "expandable-title"
+                      },
+                      {
+                        "id": "challenge-explainer-summary"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "button",
+                        "path": "html body div.main-wrapper div.main-content div#challenge-explainer-expandable div#challenge-explainer-summary button#challenge-explainer-btn",
+                        "boundingBox": {
+                          "top": 523.390625,
+                          "left": 954,
+                          "width": 225.296875,
+                          "height": 24
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "class": "expandable-summary-btn"
+                          },
+                          {
+                            "id": "challenge-explainer-btn"
+                          },
+                          {
+                            "type": "button"
+                          }
+                        ]
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html body div.main-wrapper div.main-content div#challenge-explainer-expandable div#challenge-explainer-summary button#challenge-explainer-btn",
+                          "text": "Why am I seeing this page?",
+                          "boundingBox": {
+                            "top": 523.390625,
+                            "left": 954,
+                            "width": 225.296875,
+                            "height": 24
+                          },
+                          "attributes": [
+                            {
+                              "class": "expandable-summary-btn"
+                            },
+                            {
+                              "id": "challenge-explainer-btn"
+                            },
+                            {
+                              "type": "button"
+                            }
+                          ]
+                        },
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html body div.main-wrapper div.main-content div#challenge-explainer-expandable div#challenge-explainer-summary button#challenge-explainer-btn span.caret-icon-wrapper",
+                            "boundingBox": {
+                              "top": 527.984375,
+                              "left": 1163.296875,
+                              "width": 16,
+                              "height": 18
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "caret-icon-wrapper"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div.main-wrapper div.main-content div#challenge-explainer-expandable div#challenge-explainer-summary button#challenge-explainer-btn span.caret-icon-wrapper div.caret-icon",
+                                "boundingBox": {
+                                  "top": 526.984375,
+                                  "left": 1163.296875,
+                                  "width": 16,
+                                  "height": 16
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "class": "caret-icon"
+                                  }
+                                ]
+                              }
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body div.main-wrapper div.main-content div#challenge-explainer-expandable div#challenge-explainer-details",
+                    "boundingBox": {
+                      "top": 0,
+                      "left": 0,
+                      "width": 0,
+                      "height": 0
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "expandable-details"
+                      },
+                      {
+                        "id": "challenge-explainer-details"
+                      }
+                    ]
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body div.main-wrapper div.main-content div#challenge-explainer-expandable div#challenge-explainer-details",
+                      "text": "Requests from malicious bots can pose as legitimate traffic. Occasionally, you may see this page while the site ensures that the connection is secure.",
+                      "boundingBox": {
+                        "top": 0,
+                        "left": 0,
+                        "width": 0,
+                        "height": 0
+                      },
+                      "attributes": [
+                        {
+                          "class": "expandable-details"
+                        },
+                        {
+                          "id": "challenge-explainer-details"
+                        }
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              {
+                "nodeName": "form",
+                "path": "html body div.main-wrapper div.main-content form#challenge-form",
+                "boundingBox": {
+                  "top": 579.390625,
+                  "left": 944,
+                  "width": 912,
+                  "height": 0
+                },
+                "children": 6,
+                "attributes": [
+                  {
+                    "id": "challenge-form"
+                  },
+                  {
+                    "action": "/pipeline?__cf_chl_f_tk=Tx0sRNnKEUhHBu8ggO9oNhgER7k40ZlcaU3e.psGmlI-1661206497-0-gaNycGzNCD0"
+                  },
+                  {
+                    "method": "POST"
+                  },
+                  {
+                    "enctype": "application/x-www-form-urlencoded"
+                  }
+                ]
+              },
+              []
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div.footer",
+        "boundingBox": {
+          "top": 1003,
+          "left": 920,
+          "width": 960,
+          "height": 77
+        },
+        "children": 3,
+        "attributes": [
+          {
+            "class": "footer"
+          },
+          {
+            "role": "contentinfo"
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div.footer div.footer-inner",
+            "boundingBox": {
+              "top": 1003,
+              "left": 944,
+              "width": 912,
+              "height": 77
+            },
+            "children": 5,
+            "attributes": [
+              {
+                "class": "footer-inner"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.footer div.footer-inner div.clearfix.diagnostic-wrapper",
+                "boundingBox": {
+                  "top": 1020,
+                  "left": 944,
+                  "width": 912,
+                  "height": 18
+                },
+                "children": 3,
+                "attributes": [
+                  {
+                    "class": "clearfix diagnostic-wrapper"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body div.footer div.footer-inner div.clearfix.diagnostic-wrapper div.ray-id",
+                    "boundingBox": {
+                      "top": 1020,
+                      "left": 944,
+                      "width": 912,
+                      "height": 18
+                    },
+                    "children": 2,
+                    "attributes": [
+                      {
+                        "class": "ray-id"
+                      }
+                    ]
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body div.footer div.footer-inner div.clearfix.diagnostic-wrapper div.ray-id",
+                      "text": "Ray ID:",
+                      "boundingBox": {
+                        "top": 1020,
+                        "left": 944,
+                        "width": 912,
+                        "height": 18
+                      },
+                      "attributes": [
+                        {
+                          "class": "ray-id"
+                        }
+                      ]
+                    },
+                    [
+                      {
+                        "nodeName": "code",
+                        "path": "html body div.footer div.footer-inner div.clearfix.diagnostic-wrapper div.ray-id code",
+                        "boundingBox": {
+                          "top": 1021,
+                          "left": 1363.875,
+                          "width": 115.21875,
+                          "height": 15
+                        },
+                        "children": 1,
+                        "attributes": null
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html body div.footer div.footer-inner div.clearfix.diagnostic-wrapper div.ray-id code",
+                          "text": "73eef6df4928a4b4",
+                          "boundingBox": {
+                            "top": 1021,
+                            "left": 1363.875,
+                            "width": 115.21875,
+                            "height": 15
+                          },
+                          "attributes": null
+                        }
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.footer div.footer-inner div.text-center",
+                "boundingBox": {
+                  "top": 1046,
+                  "left": 944,
+                  "width": 912,
+                  "height": 18
+                },
+                "children": 3,
+                "attributes": [
+                  {
+                    "class": "text-center"
+                  }
+                ]
+              },
+              [
+                {
+                  "nodeName": "text",
+                  "path": "html body div.footer div.footer-inner div.text-center",
+                  "text": "Performance & security by",
+                  "boundingBox": {
+                    "top": 1046,
+                    "left": 944,
+                    "width": 912,
+                    "height": 18
+                  },
+                  "attributes": [
+                    {
+                      "class": "text-center"
+                    }
+                  ]
+                },
+                [
+                  {
+                    "nodeName": "a",
+                    "path": "html body div.footer div.footer-inner div.text-center a",
+                    "boundingBox": {
+                      "top": 1047,
+                      "left": 1447.65625,
+                      "width": 58.34375,
+                      "height": 15
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "rel": "noopener noreferrer"
+                      },
+                      {
+                        "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m"
+                      },
+                      {
+                        "target": "_blank"
+                      }
+                    ]
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body div.footer div.footer-inner div.text-center a",
+                      "text": "Cloudflare",
+                      "boundingBox": {
+                        "top": 1047,
+                        "left": 1447.65625,
+                        "width": 58.34375,
+                        "height": 15
+                      },
+                      "attributes": [
+                        {
+                          "rel": "noopener noreferrer"
+                        },
+                        {
+                          "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m"
+                        },
+                        {
+                          "target": "_blank"
+                        }
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      {
+        "nodeName": "span",
+        "path": "html body span#trk_jschal_js",
+        "boundingBox": {
+          "top": 1080,
+          "left": 0,
+          "width": 2800,
+          "height": 0
+        },
+        "children": 0,
+        "attributes": [
+          {
+            "id": "trk_jschal_js"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div:nth-child(3)",
+        "boundingBox": {
+          "top": -10000,
+          "left": -10000,
+          "width": 302,
+          "height": 155.390625
+        },
+        "children": 3,
+        "attributes": [
+          {
+            "aria-hidden": "true"
+          },
+          {
+            "style": "background-color: rgb(255, 255, 255); border: 1px solid rgb(215, 215, 215); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 4px; border-radius: 4px; left: -10000px; top: -10000px; z-index: -2147483648; position: absolute; transition: opacity 0.15s ease-out 0s; opacity: 0; visibility: hidden;"
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div:nth-child(3) div:nth-child(1)",
+            "boundingBox": {
+              "top": -9999,
+              "left": -9999,
+              "width": 300,
+              "height": 153.390625
+            },
+            "children": 1,
+            "attributes": [
+              {
+                "style": "position: relative; z-index: 1;"
+              }
+            ]
+          },
+          []
+        ],
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div:nth-child(3) div:nth-child(3)",
+            "boundingBox": {
+              "top": -9856.609375,
+              "left": -10021,
+              "width": 22,
+              "height": 42
+            },
+            "children": 2,
+            "attributes": [
+              {
+                "style": "border-width: 11px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 1; right: 100%;"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div:nth-child(3) div:nth-child(3) div:nth-child(1)",
+                "boundingBox": {
+                  "top": -9846.609375,
+                  "left": -10021,
+                  "width": 22,
+                  "height": 20
+                },
+                "children": 0,
+                "attributes": [
+                  {
+                    "style": "border-width: 10px; border-style: solid; border-color: transparent rgb(255, 255, 255) transparent transparent; position: relative; top: 10px; z-index: 1;"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div:nth-child(3) div:nth-child(3) div:nth-child(2)",
+                "boundingBox": {
+                  "top": -9847.609375,
+                  "left": -10021,
+                  "width": 22,
+                  "height": 22
+                },
+                "children": 0,
+                "attributes": [
+                  {
+                    "style": "border-width: 11px; border-style: solid; border-color: transparent rgb(215, 215, 215) transparent transparent; position: relative; top: -11px; z-index: 0;"
+                  }
+                ]
+              }
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div:nth-child(4)",
+        "boundingBox": {
+          "top": -10000,
+          "left": -10000,
+          "width": 302,
+          "height": 155.390625
+        },
+        "children": 3,
+        "attributes": [
+          {
+            "aria-hidden": "true"
+          },
+          {
+            "style": "background-color: rgb(255, 255, 255); border: 1px solid rgb(215, 215, 215); box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 4px; border-radius: 4px; left: -10000px; top: -10000px; z-index: -2147483648; position: absolute; transition: opacity 0.15s ease-out 0s; opacity: 0; visibility: hidden;"
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div:nth-child(4) div:nth-child(1)",
+            "boundingBox": {
+              "top": -9999,
+              "left": -9999,
+              "width": 300,
+              "height": 153.390625
+            },
+            "children": 1,
+            "attributes": [
+              {
+                "style": "position: relative; z-index: 1;"
+              }
+            ]
+          },
+          []
+        ],
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div:nth-child(4) div:nth-child(3)",
+            "boundingBox": {
+              "top": -9856.609375,
+              "left": -10021,
+              "width": 22,
+              "height": 42
+            },
+            "children": 2,
+            "attributes": [
+              {
+                "style": "border-width: 11px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 1; right: 100%;"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div:nth-child(4) div:nth-child(3) div:nth-child(1)",
+                "boundingBox": {
+                  "top": -9846.609375,
+                  "left": -10021,
+                  "width": 22,
+                  "height": 20
+                },
+                "children": 0,
+                "attributes": [
+                  {
+                    "style": "border-width: 10px; border-style: solid; border-color: transparent rgb(255, 255, 255) transparent transparent; position: relative; top: 10px; z-index: 1;"
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div:nth-child(4) div:nth-child(3) div:nth-child(2)",
+                "boundingBox": {
+                  "top": -9847.609375,
+                  "left": -10021,
+                  "width": 22,
+                  "height": 22
+                },
+                "children": 0,
+                "attributes": [
+                  {
+                    "style": "border-width: 11px; border-style: solid; border-color: transparent rgb(215, 215, 215) transparent transparent; position: relative; top: -11px; z-index: 0;"
+                  }
+                ]
+              }
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+}

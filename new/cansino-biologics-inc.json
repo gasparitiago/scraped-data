@@ -1,0 +1,1919 @@
+{
+  "url": "https://www.cansinotech.com/html/1//156/159/index.html",
+  "timestamp": 1661207080344,
+  "elements": [
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div.main",
+        "boundingBox": {
+          "top": 0,
+          "left": 0,
+          "width": 2785,
+          "height": 2079.0625
+        },
+        "children": 7,
+        "attributes": [
+          {
+            "class": "main"
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div.main div.categoryBanner",
+            "boundingBox": {
+              "top": 0,
+              "left": 0,
+              "width": 2785,
+              "height": 791.8125
+            },
+            "children": 3,
+            "attributes": [
+              {
+                "class": "categoryBanner"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "img",
+                "path": "html body div.main div.categoryBanner img",
+                "boundingBox": {
+                  "top": 0,
+                  "left": 0,
+                  "width": 2785,
+                  "height": 791.8125
+                },
+                "children": 0,
+                "attributes": [
+                  {
+                    "src": "https://www.cansinotech.com//upload/1/column/1584532490742.jpg"
+                  },
+                  {
+                    "alt": ""
+                  }
+                ]
+              }
+            ]
+          ]
+        ],
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div.main div.Breadcrumb.shouldAddClassHeader2",
+            "boundingBox": {
+              "top": 805.8125,
+              "left": 672.5,
+              "width": 1440,
+              "height": 61
+            },
+            "children": 7,
+            "attributes": [
+              {
+                "class": "Breadcrumb shouldAddClassHeader2"
+              }
+            ]
+          },
+          [
+            {
+              "nodeName": "text",
+              "path": "html body div.main div.Breadcrumb.shouldAddClassHeader2",
+              "text": "You are here:",
+              "boundingBox": {
+                "top": 805.8125,
+                "left": 672.5,
+                "width": 1440,
+                "height": 61
+              },
+              "attributes": [
+                {
+                  "class": "Breadcrumb shouldAddClassHeader2"
+                }
+              ]
+            },
+            [
+              {
+                "nodeName": "a",
+                "path": "html body div.main div.Breadcrumb.shouldAddClassHeader2 a:nth-child(1)",
+                "boundingBox": {
+                  "top": 823.8125,
+                  "left": 803.078125,
+                  "width": 55.203125,
+                  "height": 25
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "href": "https://www.cansinotech.com/html/1/index.html"
+                  }
+                ]
+              },
+              [
+                {
+                  "nodeName": "text",
+                  "path": "html body div.main div.Breadcrumb.shouldAddClassHeader2 a:nth-child(1)",
+                  "text": "Home",
+                  "boundingBox": {
+                    "top": 823.8125,
+                    "left": 803.078125,
+                    "width": 55.203125,
+                    "height": 25
+                  },
+                  "attributes": [
+                    {
+                      "href": "https://www.cansinotech.com/html/1/index.html"
+                    }
+                  ]
+                }
+              ]
+            ],
+            [
+              {
+                "nodeName": "a",
+                "path": "html body div.main div.Breadcrumb.shouldAddClassHeader2 a:nth-child(2)",
+                "boundingBox": {
+                  "top": 823.8125,
+                  "left": 862.40625,
+                  "width": 218.125,
+                  "height": 25
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "href": "javascript:void();"
+                  }
+                ]
+              },
+              [
+                {
+                  "nodeName": "text",
+                  "path": "html body div.main div.Breadcrumb.shouldAddClassHeader2 a:nth-child(2)",
+                  "text": "Development And Product",
+                  "boundingBox": {
+                    "top": 823.8125,
+                    "left": 862.40625,
+                    "width": 218.125,
+                    "height": 25
+                  },
+                  "attributes": [
+                    {
+                      "href": "javascript:void();"
+                    }
+                  ]
+                }
+              ]
+            ],
+            [
+              {
+                "nodeName": "a",
+                "path": "html body div.main div.Breadcrumb.shouldAddClassHeader2 a:nth-child(3)",
+                "boundingBox": {
+                  "top": 821.8125,
+                  "left": 1084.65625,
+                  "width": 88.84375,
+                  "height": 28
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "href": "javascript:void();"
+                  }
+                ]
+              },
+              [
+                {
+                  "nodeName": "text",
+                  "path": "html body div.main div.Breadcrumb.shouldAddClassHeader2 a:nth-child(3)",
+                  "text": "Pipeline",
+                  "boundingBox": {
+                    "top": 821.8125,
+                    "left": 1084.65625,
+                    "width": 88.84375,
+                    "height": 28
+                  },
+                  "attributes": [
+                    {
+                      "href": "javascript:void();"
+                    }
+                  ]
+                }
+              ]
+            ]
+          ]
+        ],
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div.main div#space",
+            "boundingBox": {
+              "top": 866.8125,
+              "left": 672.5,
+              "width": 1440,
+              "height": 1212.25
+            },
+            "children": 9,
+            "attributes": [
+              {
+                "class": "Product animation1"
+              },
+              {
+                "id": "space"
+              },
+              {
+                "style": "position: relative; opacity: 1; top: 0px;"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "ul",
+                "path": "html body div.main div#space ul#ProductList",
+                "boundingBox": {
+                  "top": 866.8125,
+                  "left": 692.5,
+                  "width": 1400,
+                  "height": 74
+                },
+                "children": 4,
+                "attributes": [
+                  {
+                    "class": "ProductList hidden3"
+                  },
+                  {
+                    "style": ""
+                  },
+                  {
+                    "id": "ProductList"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductList li:nth-child(1)",
+                    "boundingBox": {
+                      "top": 866.8125,
+                      "left": 742.5,
+                      "width": 287.765625,
+                      "height": 40
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "blue"
+                      }
+                    ]
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body div.main div#space ul#ProductList li:nth-child(1)",
+                      "text": "Potential Best-in-class in China",
+                      "boundingBox": {
+                        "top": 866.8125,
+                        "left": 742.5,
+                        "width": 287.765625,
+                        "height": 40
+                      },
+                      "attributes": [
+                        {
+                          "class": "blue"
+                        }
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductList li:nth-child(2)",
+                    "boundingBox": {
+                      "top": 866.8125,
+                      "left": 1040.265625,
+                      "width": 287.359375,
+                      "height": 40
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "green"
+                      }
+                    ]
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body div.main div#space ul#ProductList li:nth-child(2)",
+                      "text": "Potential First-in-class in China",
+                      "boundingBox": {
+                        "top": 866.8125,
+                        "left": 1040.265625,
+                        "width": 287.359375,
+                        "height": 40
+                      },
+                      "attributes": [
+                        {
+                          "class": "green"
+                        }
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductList li:nth-child(3)",
+                    "boundingBox": {
+                      "top": 866.8125,
+                      "left": 1337.625,
+                      "width": 192.671875,
+                      "height": 40
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "cyan"
+                      }
+                    ]
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body div.main div#space ul#ProductList li:nth-child(3)",
+                      "text": "Globally Innovative",
+                      "boundingBox": {
+                        "top": 866.8125,
+                        "left": 1337.625,
+                        "width": 192.671875,
+                        "height": 40
+                      },
+                      "attributes": [
+                        {
+                          "class": "cyan"
+                        }
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductList li:nth-child(4)",
+                    "boundingBox": {
+                      "top": 866.8125,
+                      "left": 1540.296875,
+                      "width": 275.40625,
+                      "height": 40
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "lightGreen"
+                      }
+                    ]
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body div.main div#space ul#ProductList li:nth-child(4)",
+                      "text": "Potential Global Best-in-class",
+                      "boundingBox": {
+                        "top": 866.8125,
+                        "left": 1540.296875,
+                        "width": 275.40625,
+                        "height": 40
+                      },
+                      "attributes": [
+                        {
+                          "class": "lightGreen"
+                        }
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.main div#space div#ProductProcess",
+                "boundingBox": {
+                  "top": 940.8125,
+                  "left": 692.5,
+                  "width": 1400,
+                  "height": 66.25
+                },
+                "children": 3,
+                "attributes": [
+                  {
+                    "class": "ProductProcess"
+                  },
+                  {
+                    "id": "ProductProcess"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "img",
+                    "path": "html body div.main div#space div#ProductProcess img.img",
+                    "boundingBox": {
+                      "top": 940.8125,
+                      "left": 742.5,
+                      "width": 1300,
+                      "height": 66.25
+                    },
+                    "children": 0,
+                    "attributes": [
+                      {
+                        "src": "https://www.cansinotech.com/templets/1/build/img/5d86.png"
+                      },
+                      {
+                        "class": "img"
+                      },
+                      {
+                        "alt": ""
+                      }
+                    ]
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "nodeName": "ul",
+                "path": "html body div.main div#space ul#ProductLineWrapper",
+                "boundingBox": {
+                  "top": 1041.0625,
+                  "left": 692.5,
+                  "width": 1400,
+                  "height": 1038
+                },
+                "children": 13,
+                "attributes": [
+                  {
+                    "class": "ProductLineWrapper"
+                  },
+                  {
+                    "id": "ProductLineWrapper"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(1)",
+                    "boundingBox": {
+                      "top": 1041.0625,
+                      "left": 742.5,
+                      "width": 1300,
+                      "height": 30
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "ProductLine"
+                      },
+                      {
+                        "style": "cursor: pointer;"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(1) div",
+                        "boundingBox": {
+                          "top": 1041.0625,
+                          "left": 742.5,
+                          "width": 1300,
+                          "height": 30
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "cyan percent"
+                          },
+                          {
+                            "style": "width: 100%;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(1) div span",
+                            "boundingBox": {
+                              "top": 1040.0625,
+                              "left": 742.5,
+                              "width": 106.265625,
+                              "height": 31
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ProductName"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(1) div span",
+                              "text": "Ad5-EBOV",
+                              "boundingBox": {
+                                "top": 1040.0625,
+                                "left": 742.5,
+                                "width": 106.265625,
+                                "height": 31
+                              },
+                              "attributes": [
+                                {
+                                  "class": "ProductName"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(2)",
+                    "boundingBox": {
+                      "top": 1125.0625,
+                      "left": 742.5,
+                      "width": 1300,
+                      "height": 30
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "ProductLine"
+                      },
+                      {
+                        "style": "cursor: pointer;"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(2) div",
+                        "boundingBox": {
+                          "top": 1125.0625,
+                          "left": 742.5,
+                          "width": 1300,
+                          "height": 30
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "cyan percent"
+                          },
+                          {
+                            "style": "width: 100%;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(2) div span",
+                            "boundingBox": {
+                              "top": 1124.0625,
+                              "left": 742.5,
+                              "width": 104.96875,
+                              "height": 31
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ProductName"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(2) div span",
+                              "text": "Ad5-nCoV",
+                              "boundingBox": {
+                                "top": 1124.0625,
+                                "left": 742.5,
+                                "width": 104.96875,
+                                "height": 31
+                              },
+                              "attributes": [
+                                {
+                                  "class": "ProductName"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(3)",
+                    "boundingBox": {
+                      "top": 1209.0625,
+                      "left": 742.5,
+                      "width": 1300,
+                      "height": 30
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "ProductLine"
+                      },
+                      {
+                        "style": "cursor: pointer;"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(3) div",
+                        "boundingBox": {
+                          "top": 1209.0625,
+                          "left": 742.5,
+                          "width": 1300,
+                          "height": 30
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "blue percent"
+                          },
+                          {
+                            "style": "width: 100%;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(3) div span",
+                            "boundingBox": {
+                              "top": 1208.0625,
+                              "left": 742.5,
+                              "width": 62.421875,
+                              "height": 31
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ProductName"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(3) div span",
+                              "text": "MCV2",
+                              "boundingBox": {
+                                "top": 1208.0625,
+                                "left": 742.5,
+                                "width": 62.421875,
+                                "height": 31
+                              },
+                              "attributes": [
+                                {
+                                  "class": "ProductName"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(4)",
+                    "boundingBox": {
+                      "top": 1293.0625,
+                      "left": 742.5,
+                      "width": 1300,
+                      "height": 30
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "ProductLine"
+                      },
+                      {
+                        "style": "cursor: pointer;"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(4) div",
+                        "boundingBox": {
+                          "top": 1293.0625,
+                          "left": 742.5,
+                          "width": 1300,
+                          "height": 30
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "green percent"
+                          },
+                          {
+                            "style": "width: 100%;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(4) div span",
+                            "boundingBox": {
+                              "top": 1292.0625,
+                              "left": 742.5,
+                              "width": 62.421875,
+                              "height": 31
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ProductName"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(4) div span",
+                              "text": "MCV4",
+                              "boundingBox": {
+                                "top": 1292.0625,
+                                "left": 742.5,
+                                "width": 62.421875,
+                                "height": 31
+                              },
+                              "attributes": [
+                                {
+                                  "class": "ProductName"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(5)",
+                    "boundingBox": {
+                      "top": 1377.0625,
+                      "left": 742.5,
+                      "width": 1300,
+                      "height": 30
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "ProductLine"
+                      },
+                      {
+                        "style": "cursor: pointer;"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(5) div",
+                        "boundingBox": {
+                          "top": 1377.0625,
+                          "left": 742.5,
+                          "width": 936,
+                          "height": 30
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "cyan percent"
+                          },
+                          {
+                            "style": "width: 72%;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(5) div span",
+                            "boundingBox": {
+                              "top": 1376.0625,
+                              "left": 742.5,
+                              "width": 239,
+                              "height": 31
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ProductName"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(5) div span",
+                              "text": "Ad5-nCoV for Inhalation",
+                              "boundingBox": {
+                                "top": 1376.0625,
+                                "left": 742.5,
+                                "width": 239,
+                                "height": 31
+                              },
+                              "attributes": [
+                                {
+                                  "class": "ProductName"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(6)",
+                    "boundingBox": {
+                      "top": 1461.0625,
+                      "left": 742.5,
+                      "width": 1300,
+                      "height": 30
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "ProductLine"
+                      },
+                      {
+                        "style": "cursor: pointer;"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(6) div",
+                        "boundingBox": {
+                          "top": 1461.0625,
+                          "left": 742.5,
+                          "width": 936,
+                          "height": 30
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "blue percent"
+                          },
+                          {
+                            "style": "width: 72%;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(6) div span",
+                            "boundingBox": {
+                              "top": 1460.0625,
+                              "left": 742.5,
+                              "width": 74.625,
+                              "height": 31
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ProductName"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(6) div span",
+                              "text": "PCV13i",
+                              "boundingBox": {
+                                "top": 1460.0625,
+                                "left": 742.5,
+                                "width": 74.625,
+                                "height": 31
+                              },
+                              "attributes": [
+                                {
+                                  "class": "ProductName"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(7)",
+                    "boundingBox": {
+                      "top": 1545.0625,
+                      "left": 742.5,
+                      "width": 1300,
+                      "height": 30
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "ProductLine"
+                      },
+                      {
+                        "style": "cursor: pointer;"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(7) div",
+                        "boundingBox": {
+                          "top": 1545.0625,
+                          "left": 742.5,
+                          "width": 767,
+                          "height": 30
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "cyan percent"
+                          },
+                          {
+                            "style": "width: 59%;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(7) div span",
+                            "boundingBox": {
+                              "top": 1544.0625,
+                              "left": 742.5,
+                              "width": 58.421875,
+                              "height": 31
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ProductName"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(7) div span",
+                              "text": "PBPV",
+                              "boundingBox": {
+                                "top": 1544.0625,
+                                "left": 742.5,
+                                "width": 58.421875,
+                                "height": 31
+                              },
+                              "attributes": [
+                                {
+                                  "class": "ProductName"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(8)",
+                    "boundingBox": {
+                      "top": 1629.0625,
+                      "left": 742.5,
+                      "width": 1300,
+                      "height": 30
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "ProductLine"
+                      },
+                      {
+                        "style": "cursor: pointer;"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(8) div",
+                        "boundingBox": {
+                          "top": 1629.0625,
+                          "left": 742.5,
+                          "width": 780,
+                          "height": 30
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "blue percent"
+                          },
+                          {
+                            "style": "width: 60%;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(8) div span",
+                            "boundingBox": {
+                              "top": 1628.0625,
+                              "left": 742.5,
+                              "width": 115.25,
+                              "height": 31
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ProductName"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(8) div span",
+                              "text": "DTcP  Infant",
+                              "boundingBox": {
+                                "top": 1628.0625,
+                                "left": 742.5,
+                                "width": 115.25,
+                                "height": 31
+                              },
+                              "attributes": [
+                                {
+                                  "class": "ProductName"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(9)",
+                    "boundingBox": {
+                      "top": 1713.0625,
+                      "left": 742.5,
+                      "width": 1300,
+                      "height": 30
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "ProductLine"
+                      },
+                      {
+                        "style": "cursor: pointer;"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(9) div",
+                        "boundingBox": {
+                          "top": 1713.0625,
+                          "left": 742.5,
+                          "width": 780,
+                          "height": 30
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "green percent"
+                          },
+                          {
+                            "style": "width: 60%;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(9) div span",
+                            "boundingBox": {
+                              "top": 1712.0625,
+                              "left": 742.5,
+                              "width": 132.25,
+                              "height": 31
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ProductName"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(9) div span",
+                              "text": "DTcP  Booster",
+                              "boundingBox": {
+                                "top": 1712.0625,
+                                "left": 742.5,
+                                "width": 132.25,
+                                "height": 31
+                              },
+                              "attributes": [
+                                {
+                                  "class": "ProductName"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(10)",
+                    "boundingBox": {
+                      "top": 1797.0625,
+                      "left": 742.5,
+                      "width": 1300,
+                      "height": 30
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "ProductLine"
+                      },
+                      {
+                        "style": "cursor: pointer;"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(10) div",
+                        "boundingBox": {
+                          "top": 1797.0625,
+                          "left": 742.5,
+                          "width": 637,
+                          "height": 30
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "lightGreen percent"
+                          },
+                          {
+                            "style": "width: 49%;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(10) div span",
+                            "boundingBox": {
+                              "top": 1796.0625,
+                              "left": 742.5,
+                              "width": 264.0625,
+                              "height": 31
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ProductName"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(10) div span",
+                              "text": "Tdcp Adolescent and Adult",
+                              "boundingBox": {
+                                "top": 1796.0625,
+                                "left": 742.5,
+                                "width": 264.0625,
+                                "height": 31
+                              },
+                              "attributes": [
+                                {
+                                  "class": "ProductName"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(11)",
+                    "boundingBox": {
+                      "top": 1881.0625,
+                      "left": 742.5,
+                      "width": 1300,
+                      "height": 30
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "ProductLine"
+                      },
+                      {
+                        "style": "cursor: pointer;"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(11) div",
+                        "boundingBox": {
+                          "top": 1881.0625,
+                          "left": 742.5,
+                          "width": 780,
+                          "height": 30
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "cyan percent"
+                          },
+                          {
+                            "style": "width: 60%;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(11) div span",
+                            "boundingBox": {
+                              "top": 1880.0625,
+                              "left": 742.5,
+                              "width": 110.6875,
+                              "height": 31
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ProductName"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(11) div span",
+                              "text": "TB Booster",
+                              "boundingBox": {
+                                "top": 1880.0625,
+                                "left": 742.5,
+                                "width": 110.6875,
+                                "height": 31
+                              },
+                              "attributes": [
+                                {
+                                  "class": "ProductName"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(12)",
+                    "boundingBox": {
+                      "top": 1965.0625,
+                      "left": 742.5,
+                      "width": 1300,
+                      "height": 30
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "ProductLine"
+                      },
+                      {
+                        "style": "cursor: pointer;"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(12) div",
+                        "boundingBox": {
+                          "top": 1965.0625,
+                          "left": 742.5,
+                          "width": 780,
+                          "height": 30
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "lightGreen percent"
+                          },
+                          {
+                            "style": "width: 60%;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(12) div span",
+                            "boundingBox": {
+                              "top": 1964.0625,
+                              "left": 742.5,
+                              "width": 240.125,
+                              "height": 31
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ProductName"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(12) div span",
+                              "text": "COVID-19 mRNA vaccine",
+                              "boundingBox": {
+                                "top": 1964.0625,
+                                "left": 742.5,
+                                "width": 240.125,
+                                "height": 31
+                              },
+                              "attributes": [
+                                {
+                                  "class": "ProductName"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "li",
+                    "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(13)",
+                    "boundingBox": {
+                      "top": 2049.0625,
+                      "left": 742.5,
+                      "width": 1300,
+                      "height": 30
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "ProductLine"
+                      },
+                      {
+                        "style": "cursor: pointer;"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(13) div",
+                        "boundingBox": {
+                          "top": 2049.0625,
+                          "left": 742.5,
+                          "width": 520,
+                          "height": 30
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "blue percent"
+                          },
+                          {
+                            "style": "width: 40%;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(13) div span",
+                            "boundingBox": {
+                              "top": 2048.0625,
+                              "left": 742.5,
+                              "width": 249.390625,
+                              "height": 31
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "ProductName"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.main div#space ul#ProductLineWrapper li:nth-child(13) div span",
+                              "text": "DTCP-Hib Combo Vaccine",
+                              "boundingBox": {
+                                "top": 2048.0625,
+                                "left": 742.5,
+                                "width": 249.390625,
+                                "height": 31
+                              },
+                              "attributes": [
+                                {
+                                  "class": "ProductName"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div.footerWrapper",
+        "boundingBox": {
+          "top": 2133.0625,
+          "left": 0,
+          "width": 2785,
+          "height": 109
+        },
+        "children": 3,
+        "attributes": [
+          {
+            "class": "footerWrapper"
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div.footerWrapper div.footer",
+            "boundingBox": {
+              "top": 2133.0625,
+              "left": 432.5,
+              "width": 1920,
+              "height": 109
+            },
+            "children": 3,
+            "attributes": [
+              {
+                "class": "footer"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div.footerWrapper div.footer div",
+                "boundingBox": {
+                  "top": 2173.0625,
+                  "left": 432.5,
+                  "width": 1920,
+                  "height": 30
+                },
+                "children": 3,
+                "attributes": [
+                  {
+                    "class": "container"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body div.footerWrapper div.footer div div.row",
+                    "boundingBox": {
+                      "top": 2173.0625,
+                      "left": 432.5,
+                      "width": 1920,
+                      "height": 30
+                    },
+                    "children": 3,
+                    "attributes": [
+                      {
+                        "class": "row"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div.footerWrapper div.footer div div.row div.c1-12",
+                        "boundingBox": {
+                          "top": 2173.0625,
+                          "left": 432.5,
+                          "width": 1920,
+                          "height": 30
+                        },
+                        "children": 11,
+                        "attributes": [
+                          {
+                            "class": "c1-12"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "a",
+                            "path": "html body div.footerWrapper div.footer div div.row div.c1-12 a:nth-child(1)",
+                            "boundingBox": {
+                              "top": 2174.84375,
+                              "left": 1014.59375,
+                              "width": 59.609375,
+                              "height": 22
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "href": "https://login.partner.microsoftonline.cn/common/oauth2/authorize?client_id=00000006-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3dUppeWMH5_ER3YIIE8NAbxnJ3B-Sh9ClGUuH-8_xKyH2Q7JILjC7oUX9LG4NRUeWhHLYZhDyn2CSPGHvCtEjp66_LSN7-zqW_up0Ubg9ACvj1lrjN_NFPiwQJLkEDnVLPJlfyrRHVm7eAQaxFseOAV9MSuCtPpsEqN6mgmFQA5tPBAl-JD66kUGfGVjEO-qxE&nonce=637333160950951813.YmMwYzZjYjMtY2M4ZC00OGUyLWEzNDYtMGY0ZjI3ZTRhYWY0YWI3NjFmM2UtNWM2Ni00MTQ5LTg0MmMtMWQ3YTlkYjBhNDYw&redirect_uri=https%3a%2f%2fportal.partner.microsoftonline.cn%2flanding&ui_locales=zh-CN&mkt=zh-CN&client-request-id=033b8c19-7890-4242-ad5a-971797307855&msafed=0"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "img",
+                                "path": "html body div.footerWrapper div.footer div div.row div.c1-12 a:nth-child(1) img",
+                                "boundingBox": {
+                                  "top": 2173.0625,
+                                  "left": 1027.59375,
+                                  "width": 30,
+                                  "height": 30
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "class": "icon imgBox"
+                                  },
+                                  {
+                                    "src": "https://www.cansinotech.com/upload/article/1585104290556.png"
+                                  },
+                                  {
+                                    "alt": ""
+                                  }
+                                ]
+                              }
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "a",
+                            "path": "html body div.footerWrapper div.footer div div.row div.c1-12 a:nth-child(2)",
+                            "boundingBox": {
+                              "top": 2174.84375,
+                              "left": 1074.203125,
+                              "width": 59.609375,
+                              "height": 22
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "href": ""
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "img",
+                                "path": "html body div.footerWrapper div.footer div div.row div.c1-12 a:nth-child(2) img",
+                                "boundingBox": {
+                                  "top": 2173.0625,
+                                  "left": 1087.203125,
+                                  "width": 30,
+                                  "height": 30
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "class": "icon imgBox"
+                                  },
+                                  {
+                                    "src": "https://www.cansinotech.com//upload/1/article/1585104290145.png"
+                                  },
+                                  {
+                                    "alt": ""
+                                  }
+                                ]
+                              }
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "a",
+                            "path": "html body div.footerWrapper div.footer div div.row div.c1-12 a:nth-child(3)",
+                            "boundingBox": {
+                              "top": 2174.84375,
+                              "left": 1133.8125,
+                              "width": 59.609375,
+                              "height": 22
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "href": ""
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "img",
+                                "path": "html body div.footerWrapper div.footer div div.row div.c1-12 a:nth-child(3) img",
+                                "boundingBox": {
+                                  "top": 2173.0625,
+                                  "left": 1146.8125,
+                                  "width": 30,
+                                  "height": 30
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "class": "icon imgBox"
+                                  },
+                                  {
+                                    "src": "https://www.cansinotech.com//upload/article/1581953168989.png"
+                                  },
+                                  {
+                                    "alt": ""
+                                  }
+                                ]
+                              }
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "a",
+                            "path": "html body div.footerWrapper div.footer div div.row div.c1-12 a:nth-child(4)",
+                            "boundingBox": {
+                              "top": 2174.84375,
+                              "left": 1193.421875,
+                              "width": 59.609375,
+                              "height": 22
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "href": ""
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "img",
+                                "path": "html body div.footerWrapper div.footer div div.row div.c1-12 a:nth-child(4) img",
+                                "boundingBox": {
+                                  "top": 2173.0625,
+                                  "left": 1206.421875,
+                                  "width": 30,
+                                  "height": 30
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "class": "icon imgBox"
+                                  },
+                                  {
+                                    "src": "https://www.cansinotech.com//upload/article/1581953180889.png"
+                                  },
+                                  {
+                                    "alt": ""
+                                  }
+                                ]
+                              }
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html body div.footerWrapper div.footer div div.row div.c1-12 span.copyright",
+                            "boundingBox": {
+                              "top": 2172.84375,
+                              "left": 1253.03125,
+                              "width": 517.375,
+                              "height": 25
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "copyright"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.footerWrapper div.footer div div.row div.c1-12 span.copyright",
+                              "text": "For the record:",
+                              "boundingBox": {
+                                "top": 2172.84375,
+                                "left": 1253.03125,
+                                "width": 517.375,
+                                "height": 25
+                              },
+                              "attributes": [
+                                {
+                                  "class": "copyright"
+                                }
+                              ]
+                            },
+                            [
+                              {
+                                "nodeName": "a",
+                                "path": "html body div.footerWrapper div.footer div div.row div.c1-12 span.copyright a",
+                                "boundingBox": {
+                                  "top": 2172.84375,
+                                  "left": 1369.109375,
+                                  "width": 161.375,
+                                  "height": 25
+                                },
+                                "children": 1,
+                                "attributes": [
+                                  {
+                                    "href": "https://beian.miit.gov.cn/"
+                                  },
+                                  {
+                                    "target": "_blank"
+                                  },
+                                  {
+                                    "style": "color:#fff;"
+                                  }
+                                ]
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html body div.footerWrapper div.footer div div.row div.c1-12 span.copyright a",
+                                  "text": "津ICP备14006666号-2",
+                                  "boundingBox": {
+                                    "top": 2172.84375,
+                                    "left": 1369.109375,
+                                    "width": 161.375,
+                                    "height": 25
+                                  },
+                                  "attributes": [
+                                    {
+                                      "href": "https://beian.miit.gov.cn/"
+                                    },
+                                    {
+                                      "target": "_blank"
+                                    },
+                                    {
+                                      "style": "color:#fff;"
+                                    }
+                                  ]
+                                }
+                              ]
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html body div.footerWrapper div.footer div div.row div.c1-12 span.copyright",
+                              "text": "Copyright © ( 2017) CanSinoBIO",
+                              "boundingBox": {
+                                "top": 2172.84375,
+                                "left": 1253.03125,
+                                "width": 517.375,
+                                "height": 25
+                              },
+                              "attributes": [
+                                {
+                                  "class": "copyright"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+}

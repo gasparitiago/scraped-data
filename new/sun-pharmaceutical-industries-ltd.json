@@ -1,0 +1,2395 @@
+{
+  "url": "https://sunpharmaderm.com/pipeline.html",
+  "timestamp": 1661227994912,
+  "elements": [
+    [
+      {
+        "nodeName": "main",
+        "path": "html#ng-app body main",
+        "boundingBox": {
+          "top": 0,
+          "left": 0,
+          "width": 2770,
+          "height": 3298
+        },
+        "children": 11,
+        "attributes": [
+          {
+            "class": "content--main"
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "div",
+            "path": "html#ng-app body main div.header--backdrop",
+            "boundingBox": {
+              "top": 0,
+              "left": 0,
+              "width": 2770,
+              "height": 192
+            },
+            "children": 0,
+            "attributes": [
+              {
+                "class": "header--backdrop"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "nodeName": "article",
+            "path": "html#ng-app body main article",
+            "boundingBox": {
+              "top": 0,
+              "left": 0,
+              "width": 2770,
+              "height": 3298
+            },
+            "children": 11,
+            "attributes": [
+              {
+                "class": "content--article"
+              },
+              {
+                "ng-style": "{'padding-top': ( (offsetTop+10) + 'px')}"
+              },
+              {
+                "style": "padding-top: 189px;"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "header",
+                "path": "html#ng-app body main article header.header--pipeline",
+                "boundingBox": {
+                  "top": 189,
+                  "left": 0,
+                  "width": 2770,
+                  "height": 414
+                },
+                "children": 5,
+                "attributes": [
+                  {
+                    "class": "header--pipeline"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html#ng-app body main article header.header--pipeline div:nth-child(1)",
+                    "boundingBox": {
+                      "top": 189,
+                      "left": 905,
+                      "width": 960,
+                      "height": 362
+                    },
+                    "children": 5,
+                    "attributes": [
+                      {
+                        "class": "wrap--content"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "h1",
+                        "path": "html#ng-app body main article header.header--pipeline div:nth-child(1) h1",
+                        "boundingBox": {
+                          "top": 239,
+                          "left": 905,
+                          "width": 960,
+                          "height": 64
+                        },
+                        "children": 5,
+                        "attributes": null
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article header.header--pipeline div:nth-child(1) h1",
+                          "text": "Innovation",
+                          "boundingBox": {
+                            "top": 239,
+                            "left": 905,
+                            "width": 960,
+                            "height": 64
+                          },
+                          "attributes": null
+                        },
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html#ng-app body main article header.header--pipeline div:nth-child(1) h1 span.script",
+                            "boundingBox": {
+                              "top": 239,
+                              "left": 1120.09375,
+                              "width": 272.8359375,
+                              "height": 64
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "script"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article header.header--pipeline div:nth-child(1) h1 span.script",
+                              "text": "fuels",
+                              "boundingBox": {
+                                "top": 239,
+                                "left": 1120.09375,
+                                "width": 272.8359375,
+                                "height": 64
+                              },
+                              "attributes": [
+                                {
+                                  "class": "script"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article header.header--pipeline div:nth-child(1) h1",
+                          "text": "our pipeline",
+                          "boundingBox": {
+                            "top": 239,
+                            "left": 905,
+                            "width": 960,
+                            "height": 64
+                          },
+                          "attributes": null
+                        }
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "p",
+                        "path": "html#ng-app body main article header.header--pipeline div:nth-child(1) p",
+                        "boundingBox": {
+                          "top": 303,
+                          "left": 905,
+                          "width": 960,
+                          "height": 48
+                        },
+                        "children": 1,
+                        "attributes": null
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article header.header--pipeline div:nth-child(1) p",
+                          "text": "SUN Dermatology is committed to bringing patients new treatment options for dermatologic conditions with high unmet needs.",
+                          "boundingBox": {
+                            "top": 303,
+                            "left": 905,
+                            "width": 960,
+                            "height": 48
+                          },
+                          "attributes": null
+                        }
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html#ng-app body main article header.header--pipeline div.mask--repeating.bottom",
+                    "boundingBox": {
+                      "top": 551,
+                      "left": 0,
+                      "width": 2770,
+                      "height": 52
+                    },
+                    "children": 0,
+                    "attributes": [
+                      {
+                        "class": "mask--repeating bottom"
+                      }
+                    ]
+                  }
+                ]
+              ]
+            ],
+            [
+              {
+                "nodeName": "section",
+                "path": "html#ng-app body main article section.section--content",
+                "boundingBox": {
+                  "top": 603,
+                  "left": 0,
+                  "width": 2770,
+                  "height": 620.5
+                },
+                "children": 3,
+                "attributes": [
+                  {
+                    "class": "section--content"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html#ng-app body main article section.section--content div",
+                    "boundingBox": {
+                      "top": 603,
+                      "left": 905,
+                      "width": 960,
+                      "height": 620.5
+                    },
+                    "children": 5,
+                    "attributes": [
+                      {
+                        "class": "wrap--content"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html#ng-app body main article section.section--content div div.box.left",
+                        "boundingBox": {
+                          "top": 653,
+                          "left": 905,
+                          "width": 960,
+                          "height": 268.5
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "class": "box left"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "picture",
+                            "path": "html#ng-app body main article section.section--content div div.box.left picture",
+                            "boundingBox": {
+                              "top": 653,
+                              "left": 905,
+                              "width": 280,
+                              "height": 268.5
+                            },
+                            "children": 4,
+                            "attributes": [
+                              {
+                                "class": "hide--sm"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "source",
+                                "path": "html#ng-app body main article section.section--content div div.box.left picture source",
+                                "boundingBox": {
+                                  "top": 904.5,
+                                  "left": 905,
+                                  "width": 0,
+                                  "height": 18
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "srcset": "img/lg/pipeline-ontherise.jpg 1x, img/lgr/pipeline-ontherise.jpg 2x"
+                                  }
+                                ]
+                              }
+                            ],
+                            [
+                              {
+                                "nodeName": "img",
+                                "path": "html#ng-app body main article section.section--content div div.box.left picture img",
+                                "boundingBox": {
+                                  "top": 653,
+                                  "left": 905,
+                                  "width": 280,
+                                  "height": 266
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "src": "img/lg/pipeline-ontherise.jpg"
+                                  },
+                                  {
+                                    "alt": "SUN Dermatology is On the Rise..."
+                                  }
+                                ]
+                              }
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html#ng-app body main article section.section--content div div.box.right",
+                        "boundingBox": {
+                          "top": 921.5,
+                          "left": 905,
+                          "width": 960,
+                          "height": 252
+                        },
+                        "children": 9,
+                        "attributes": [
+                          {
+                            "class": "box right"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "h2",
+                            "path": "html#ng-app body main article section.section--content div div.box.right h2",
+                            "boundingBox": {
+                              "top": 921.5,
+                              "left": 905,
+                              "width": 960,
+                              "height": 36
+                            },
+                            "children": 1,
+                            "attributes": null
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--content div div.box.right h2",
+                              "text": "SUN Dermatology is on the rise",
+                              "boundingBox": {
+                                "top": 921.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 36
+                              },
+                              "attributes": null
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "p",
+                            "path": "html#ng-app body main article section.section--content div div.box.right p:nth-child(1)",
+                            "boundingBox": {
+                              "top": 957.5,
+                              "left": 905,
+                              "width": 960,
+                              "height": 72
+                            },
+                            "children": 2,
+                            "attributes": null
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--content div div.box.right p:nth-child(1)",
+                              "text": "SUN Dermatology has launched several products for conditions including acne and actinic keratosis under their branded dermatology business. In addition, SUN Dermatology is also investigating a novel therapeutic approach to psoriasis treatment.",
+                              "boundingBox": {
+                                "top": 957.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 72
+                              },
+                              "attributes": null
+                            },
+                            [
+                              {
+                                "nodeName": "sup",
+                                "path": "html#ng-app body main article section.section--content div div.box.right p:nth-child(1) sup",
+                                "boundingBox": {
+                                  "top": 1008.1015625,
+                                  "left": 986.0390625,
+                                  "width": 6.0078125,
+                                  "height": 12.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--content div div.box.right p:nth-child(1) sup",
+                                  "text": "1",
+                                  "boundingBox": {
+                                    "top": 1008.1015625,
+                                    "left": 986.0390625,
+                                    "width": 6.0078125,
+                                    "height": 12.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "p",
+                            "path": "html#ng-app body main article section.section--content div div.box.right p:nth-child(2)",
+                            "boundingBox": {
+                              "top": 1029.5,
+                              "left": 905,
+                              "width": 960,
+                              "height": 144
+                            },
+                            "children": 2,
+                            "attributes": null
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--content div div.box.right p:nth-child(2)",
+                              "text": "SUN Dermatology is a division of Sun Pharmaceutical Industries, Inc., which is part of Sun Pharmaceutical Industries, Ltd.—the world’s fifth largest specialty generic pharmaceutical company. Sun Pharmaceuticals provides high-quality, affordable medicines trusted by healthcare professionals and patients in over 150 countries around the world. The global presence of Sun Pharmaceuticals is supported by 47 manufacturing facilities and R&D centers across 6 continents. Sun Pharmaceuticals fosters excellence through innovation supported by strong R&D capabilities comprising approximately 2,000 scientists and R&D investments of over 7% of annual revenues.",
+                              "boundingBox": {
+                                "top": 1029.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 144
+                              },
+                              "attributes": null
+                            },
+                            [
+                              {
+                                "nodeName": "sup",
+                                "path": "html#ng-app body main article section.section--content div div.box.right p:nth-child(2) sup",
+                                "boundingBox": {
+                                  "top": 1152.1015625,
+                                  "left": 1462.3125,
+                                  "width": 6.0078125,
+                                  "height": 12.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--content div div.box.right p:nth-child(2) sup",
+                                  "text": "1",
+                                  "boundingBox": {
+                                    "top": 1152.1015625,
+                                    "left": 1462.3125,
+                                    "width": 6.0078125,
+                                    "height": 12.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              {
+                "nodeName": "section",
+                "path": "html#ng-app body main article section.section--molecule",
+                "boundingBox": {
+                  "top": 1223.5,
+                  "left": 0,
+                  "width": 2770,
+                  "height": 1307.5
+                },
+                "children": 3,
+                "attributes": [
+                  {
+                    "class": "section--molecule"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html#ng-app body main article section.section--molecule div",
+                    "boundingBox": {
+                      "top": 1223.5,
+                      "left": 905,
+                      "width": 960,
+                      "height": 1307.5
+                    },
+                    "children": 15,
+                    "attributes": [
+                      {
+                        "class": "wrap--content"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "h2",
+                        "path": "html#ng-app body main article section.section--molecule div h2",
+                        "boundingBox": {
+                          "top": 1273.5,
+                          "left": 905,
+                          "width": 960,
+                          "height": 36
+                        },
+                        "children": 2,
+                        "attributes": null
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article section.section--molecule div h2",
+                          "text": "IL-23 inhibition: Targeting psoriasis at its core",
+                          "boundingBox": {
+                            "top": 1273.5,
+                            "left": 905,
+                            "width": 960,
+                            "height": 36
+                          },
+                          "attributes": null
+                        },
+                        [
+                          {
+                            "nodeName": "sup",
+                            "path": "html#ng-app body main article section.section--molecule div h2 sup",
+                            "boundingBox": {
+                              "top": 1272.703125,
+                              "left": 1509.265625,
+                              "width": 26.375,
+                              "height": 26
+                            },
+                            "children": 1,
+                            "attributes": null
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div h2 sup",
+                              "text": "2-4",
+                              "boundingBox": {
+                                "top": 1272.703125,
+                                "left": 1509.265625,
+                                "width": 26.375,
+                                "height": 26
+                              },
+                              "attributes": null
+                            }
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "picture",
+                        "path": "html#ng-app body main article section.section--molecule div picture",
+                        "boundingBox": {
+                          "top": 1309.5,
+                          "left": 905,
+                          "width": 960,
+                          "height": 542.5
+                        },
+                        "children": 4,
+                        "attributes": [
+                          {
+                            "class": "hide--sm"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "source",
+                            "path": "html#ng-app body main article section.section--molecule div picture source",
+                            "boundingBox": {
+                              "top": 1835,
+                              "left": 905,
+                              "width": 0,
+                              "height": 18
+                            },
+                            "children": 0,
+                            "attributes": [
+                              {
+                                "srcset": "img/lg/pipeline-molecule.jpg 1x, img/lgr/pipeline-molecule.jpg 2x"
+                              }
+                            ]
+                          }
+                        ],
+                        [
+                          {
+                            "nodeName": "img",
+                            "path": "html#ng-app body main article section.section--molecule div picture img",
+                            "boundingBox": {
+                              "top": 1309.5,
+                              "left": 905,
+                              "width": 960,
+                              "height": 540
+                            },
+                            "children": 0,
+                            "attributes": [
+                              {
+                                "src": "img/lg/pipeline-molecule.jpg"
+                              },
+                              {
+                                "alt": "IL-23 molecule illustration"
+                              }
+                            ]
+                          }
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "p",
+                        "path": "html#ng-app body main article section.section--molecule div p.caption.hide--sm",
+                        "boundingBox": {
+                          "top": 1852,
+                          "left": 905,
+                          "width": 960,
+                          "height": 48.5
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "class": "caption hide--sm"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "b",
+                            "path": "html#ng-app body main article section.section--molecule div p.caption.hide--sm b",
+                            "boundingBox": {
+                              "top": 1853,
+                              "left": 905,
+                              "width": 136.5,
+                              "height": 21.5
+                            },
+                            "children": 1,
+                            "attributes": null
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div p.caption.hide--sm b",
+                              "text": "IL-23 Inhibition.",
+                              "boundingBox": {
+                                "top": 1853,
+                                "left": 905,
+                                "width": 136.5,
+                                "height": 21.5
+                              },
+                              "attributes": null
+                            }
+                          ]
+                        ],
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article section.section--molecule div p.caption.hide--sm",
+                          "text": "SUN Dermatology is currently in development of investigational biologics, which are designed to offer precision targeting of the inflammatory pathway linked to psoriasis through IL-23.",
+                          "boundingBox": {
+                            "top": 1852,
+                            "left": 905,
+                            "width": 960,
+                            "height": 48.5
+                          },
+                          "attributes": [
+                            {
+                              "class": "caption hide--sm"
+                            }
+                          ]
+                        },
+                        [
+                          {
+                            "nodeName": "sup",
+                            "path": "html#ng-app body main article section.section--molecule div p.caption.hide--sm sup",
+                            "boundingBox": {
+                              "top": 1879.1015625,
+                              "left": 1547.34375,
+                              "width": 6.0078125,
+                              "height": 12.5
+                            },
+                            "children": 1,
+                            "attributes": null
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div p.caption.hide--sm sup",
+                              "text": "5",
+                              "boundingBox": {
+                                "top": 1879.1015625,
+                                "left": 1547.34375,
+                                "width": 6.0078125,
+                                "height": 12.5
+                              },
+                              "attributes": null
+                            }
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "p",
+                        "path": "html#ng-app body main article section.section--molecule div p:nth-child(2)",
+                        "boundingBox": {
+                          "top": 1900.5,
+                          "left": 905,
+                          "width": 960,
+                          "height": 96
+                        },
+                        "children": 4,
+                        "attributes": null
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article section.section--molecule div p:nth-child(2)",
+                          "text": "Although current psoriasis therapies have shown improved outcomes compared to older therapeutic agents, inadequate long-term efficacy as well as safety concerns may limit their use.",
+                          "boundingBox": {
+                            "top": 1900.5,
+                            "left": 905,
+                            "width": 960,
+                            "height": 96
+                          },
+                          "attributes": null
+                        },
+                        [
+                          {
+                            "nodeName": "sup",
+                            "path": "html#ng-app body main article section.section--molecule div p:nth-child(2) sup:nth-child(1)",
+                            "boundingBox": {
+                              "top": 1927.1015625,
+                              "left": 1416.859375,
+                              "width": 27.0234375,
+                              "height": 12.5
+                            },
+                            "children": 1,
+                            "attributes": null
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div p:nth-child(2) sup:nth-child(1)",
+                              "text": "2,5,6",
+                              "boundingBox": {
+                                "top": 1927.1015625,
+                                "left": 1416.859375,
+                                "width": 27.0234375,
+                                "height": 12.5
+                              },
+                              "attributes": null
+                            }
+                          ]
+                        ],
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article section.section--molecule div p:nth-child(2)",
+                          "text": "Currently, the development of investigational biologics, which are designed to offer precision targeting of the inflammatory pathway linked to psoriasis through IL-23, may address these unmet needs.",
+                          "boundingBox": {
+                            "top": 1900.5,
+                            "left": 905,
+                            "width": 960,
+                            "height": 96
+                          },
+                          "attributes": null
+                        },
+                        [
+                          {
+                            "nodeName": "sup",
+                            "path": "html#ng-app body main article section.section--molecule div p:nth-child(2) sup:nth-child(2)",
+                            "boundingBox": {
+                              "top": 1975.1015625,
+                              "left": 1171.15625,
+                              "width": 6.0078125,
+                              "height": 12.5
+                            },
+                            "children": 1,
+                            "attributes": null
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div p:nth-child(2) sup:nth-child(2)",
+                              "text": "5",
+                              "boundingBox": {
+                                "top": 1975.1015625,
+                                "left": 1171.15625,
+                                "width": 6.0078125,
+                                "height": 12.5
+                              },
+                              "attributes": null
+                            }
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "p",
+                        "path": "html#ng-app body main article section.section--molecule div p:nth-child(3)",
+                        "boundingBox": {
+                          "top": 1996.5,
+                          "left": 905,
+                          "width": 960,
+                          "height": 96
+                        },
+                        "children": 4,
+                        "attributes": null
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article section.section--molecule div p:nth-child(3)",
+                          "text": "These research efforts have led to the creation of novel, investigational anti-IL-23p19 monoclonal antibodies designed to precisely target the master cytokine, IL-23, which is now seen as the optimal treatment target in chronic plaque psoriasis.",
+                          "boundingBox": {
+                            "top": 1996.5,
+                            "left": 905,
+                            "width": 960,
+                            "height": 96
+                          },
+                          "attributes": null
+                        },
+                        [
+                          {
+                            "nodeName": "sup",
+                            "path": "html#ng-app body main article section.section--molecule div p:nth-child(3) sup:nth-child(1)",
+                            "boundingBox": {
+                              "top": 2047.1015625,
+                              "left": 981.03125,
+                              "width": 18.015625,
+                              "height": 12.5
+                            },
+                            "children": 1,
+                            "attributes": null
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div p:nth-child(3) sup:nth-child(1)",
+                              "text": "7,8",
+                              "boundingBox": {
+                                "top": 2047.1015625,
+                                "left": 981.03125,
+                                "width": 18.015625,
+                                "height": 12.5
+                              },
+                              "attributes": null
+                            }
+                          ]
+                        ],
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article section.section--molecule div p:nth-child(3)",
+                          "text": "In clinical trials, positive results with a new molecule validate the important role of IL-23 in moderate-to-severe plaque psoriasis.",
+                          "boundingBox": {
+                            "top": 1996.5,
+                            "left": 905,
+                            "width": 960,
+                            "height": 96
+                          },
+                          "attributes": null
+                        },
+                        [
+                          {
+                            "nodeName": "sup",
+                            "path": "html#ng-app body main article section.section--molecule div p:nth-child(3) sup:nth-child(2)",
+                            "boundingBox": {
+                              "top": 2071.1015625,
+                              "left": 1099.109375,
+                              "width": 15.015625,
+                              "height": 12.5
+                            },
+                            "children": 1,
+                            "attributes": null
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div p:nth-child(3) sup:nth-child(2)",
+                              "text": "1,5",
+                              "boundingBox": {
+                                "top": 2071.1015625,
+                                "left": 1099.109375,
+                                "width": 15.015625,
+                                "height": 12.5
+                              },
+                              "attributes": null
+                            }
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "p",
+                        "path": "html#ng-app body main article section.section--molecule div p:nth-child(4)",
+                        "boundingBox": {
+                          "top": 2092.5,
+                          "left": 905,
+                          "width": 960,
+                          "height": 96
+                        },
+                        "children": 3,
+                        "attributes": null
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article section.section--molecule div p:nth-child(4)",
+                          "text": "The worldwide rights to one of these promising, investigational anti-IL-23p19 molecules were acquired from Merck in 2014 by SUN Dermatology, a division of Sun Pharmaceutical Industries, Inc.",
+                          "boundingBox": {
+                            "top": 2092.5,
+                            "left": 905,
+                            "width": 960,
+                            "height": 96
+                          },
+                          "attributes": null
+                        },
+                        [
+                          {
+                            "nodeName": "sup",
+                            "path": "html#ng-app body main article section.section--molecule div p:nth-child(4) sup",
+                            "boundingBox": {
+                              "top": 2119.1015625,
+                              "left": 1510.96875,
+                              "width": 9.0078125,
+                              "height": 12.5
+                            },
+                            "children": 1,
+                            "attributes": null
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div p:nth-child(4) sup",
+                              "text": "1",
+                              "boundingBox": {
+                                "top": 2119.1015625,
+                                "left": 1510.96875,
+                                "width": 9.0078125,
+                                "height": 12.5
+                              },
+                              "attributes": null
+                            }
+                          ]
+                        ],
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article section.section--molecule div p:nth-child(4)",
+                          "text": "SUN Dermatology is fully committed to bringing therapeutic innovations to market, including targeted IL-23 inhibition in the treatment of moderate-to-severe plaque psoriasis.",
+                          "boundingBox": {
+                            "top": 2092.5,
+                            "left": 905,
+                            "width": 960,
+                            "height": 96
+                          },
+                          "attributes": null
+                        }
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html#ng-app body main article section.section--molecule div div.refs",
+                        "boundingBox": {
+                          "top": 2188.5,
+                          "left": 905,
+                          "width": 960,
+                          "height": 292.5
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "class": "refs"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "p",
+                            "path": "html#ng-app body main article section.section--molecule div div.refs p",
+                            "boundingBox": {
+                              "top": 2188.5,
+                              "left": 905,
+                              "width": 960,
+                              "height": 292.5
+                            },
+                            "children": 30,
+                            "attributes": null
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "b",
+                                "path": "html#ng-app body main article section.section--molecule div div.refs p b:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 2189.5,
+                                  "left": 905,
+                                  "width": 119.953125,
+                                  "height": 21.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--molecule div div.refs p b:nth-child(1)",
+                                  "text": "References: 1.",
+                                  "boundingBox": {
+                                    "top": 2189.5,
+                                    "left": 905,
+                                    "width": 119.953125,
+                                    "height": 21.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div div.refs p",
+                              "text": "Data on file. Sun Pharmaceutical Industries, Inc.",
+                              "boundingBox": {
+                                "top": 2188.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 292.5
+                              },
+                              "attributes": null
+                            },
+                            [
+                              {
+                                "nodeName": "b",
+                                "path": "html#ng-app body main article section.section--molecule div div.refs p b:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 2189.5,
+                                  "left": 1414.15625,
+                                  "width": 21.984375,
+                                  "height": 21.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--molecule div div.refs p b:nth-child(2)",
+                                  "text": "2.",
+                                  "boundingBox": {
+                                    "top": 2189.5,
+                                    "left": 1414.15625,
+                                    "width": 21.984375,
+                                    "height": 21.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div div.refs p",
+                              "text": "Gaspari AA, Tyring S. New and emerging biologic therapies for moderate-to-severe plaque psoriasis: mechanistic rationales and recent clinical data for IL-17 and IL-23 inhibitors.",
+                              "boundingBox": {
+                                "top": 2188.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 292.5
+                              },
+                              "attributes": null
+                            },
+                            [
+                              {
+                                "nodeName": "i",
+                                "path": "html#ng-app body main article section.section--molecule div div.refs p i:nth-child(1)",
+                                "boundingBox": {
+                                  "top": 2238,
+                                  "left": 987.0390625,
+                                  "width": 121.484375,
+                                  "height": 21.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--molecule div div.refs p i:nth-child(1)",
+                                  "text": "Dermatol Ther.",
+                                  "boundingBox": {
+                                    "top": 2238,
+                                    "left": 987.0390625,
+                                    "width": 121.484375,
+                                    "height": 21.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div div.refs p",
+                              "text": "2015;28(4):179-193.",
+                              "boundingBox": {
+                                "top": 2188.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 292.5
+                              },
+                              "attributes": null
+                            },
+                            [
+                              {
+                                "nodeName": "b",
+                                "path": "html#ng-app body main article section.section--molecule div div.refs p b:nth-child(3)",
+                                "boundingBox": {
+                                  "top": 2238,
+                                  "left": 1276.65625,
+                                  "width": 21.984375,
+                                  "height": 21.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--molecule div div.refs p b:nth-child(3)",
+                                  "text": "3.",
+                                  "boundingBox": {
+                                    "top": 2238,
+                                    "left": 1276.65625,
+                                    "width": 21.984375,
+                                    "height": 21.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div div.refs p",
+                              "text": "Nestle FO, Kaplan DH, Barker J. Psoriasis.",
+                              "boundingBox": {
+                                "top": 2188.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 292.5
+                              },
+                              "attributes": null
+                            },
+                            [
+                              {
+                                "nodeName": "i",
+                                "path": "html#ng-app body main article section.section--molecule div div.refs p i:nth-child(2)",
+                                "boundingBox": {
+                                  "top": 2238,
+                                  "left": 1646.75,
+                                  "width": 111.9609375,
+                                  "height": 21.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--molecule div div.refs p i:nth-child(2)",
+                                  "text": "N Engl J Med.",
+                                  "boundingBox": {
+                                    "top": 2238,
+                                    "left": 1646.75,
+                                    "width": 111.9609375,
+                                    "height": 21.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div div.refs p",
+                              "text": "2009;361(5):496-509.",
+                              "boundingBox": {
+                                "top": 2188.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 292.5
+                              },
+                              "attributes": null
+                            },
+                            [
+                              {
+                                "nodeName": "b",
+                                "path": "html#ng-app body main article section.section--molecule div div.refs p b:nth-child(4)",
+                                "boundingBox": {
+                                  "top": 2262.5,
+                                  "left": 1083.140625,
+                                  "width": 21.984375,
+                                  "height": 21.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--molecule div div.refs p b:nth-child(4)",
+                                  "text": "4.",
+                                  "boundingBox": {
+                                    "top": 2262.5,
+                                    "left": 1083.140625,
+                                    "width": 21.984375,
+                                    "height": 21.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div div.refs p",
+                              "text": "Mahil SK, Capon F, Barker JN. Update on psoriasis immunopathogenesis and targeted immunotherapy.",
+                              "boundingBox": {
+                                "top": 2188.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 292.5
+                              },
+                              "attributes": null
+                            },
+                            [
+                              {
+                                "nodeName": "i",
+                                "path": "html#ng-app body main article section.section--molecule div div.refs p i:nth-child(3)",
+                                "boundingBox": {
+                                  "top": 2287,
+                                  "left": 1037.7265625,
+                                  "width": 180.4921875,
+                                  "height": 21.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--molecule div div.refs p i:nth-child(3)",
+                                  "text": "Semin Immunopathol.",
+                                  "boundingBox": {
+                                    "top": 2287,
+                                    "left": 1037.7265625,
+                                    "width": 180.4921875,
+                                    "height": 21.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div div.refs p",
+                              "text": "2016;38(1):11-27.",
+                              "boundingBox": {
+                                "top": 2188.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 292.5
+                              },
+                              "attributes": null
+                            },
+                            [
+                              {
+                                "nodeName": "b",
+                                "path": "html#ng-app body main article section.section--molecule div div.refs p b:nth-child(5)",
+                                "boundingBox": {
+                                  "top": 2287,
+                                  "left": 1364.9921875,
+                                  "width": 21.984375,
+                                  "height": 21.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--molecule div div.refs p b:nth-child(5)",
+                                  "text": "5.",
+                                  "boundingBox": {
+                                    "top": 2287,
+                                    "left": 1364.9921875,
+                                    "width": 21.984375,
+                                    "height": 21.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div div.refs p",
+                              "text": "Papp K, Thaçi D, Reich K, Riedl E, Langley RG, Krueger JG, et al. Tildrakizumab (MK-3222), an anti-interleukin-23p19 monoclonal antibody, improves psoriasis in a phase IIb randomized placebo-controlled trial.",
+                              "boundingBox": {
+                                "top": 2188.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 292.5
+                              },
+                              "attributes": null
+                            },
+                            [
+                              {
+                                "nodeName": "i",
+                                "path": "html#ng-app body main article section.section--molecule div div.refs p i:nth-child(4)",
+                                "boundingBox": {
+                                  "top": 2335.5,
+                                  "left": 1195.15625,
+                                  "width": 129.9453125,
+                                  "height": 21.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--molecule div div.refs p i:nth-child(4)",
+                                  "text": "Brit J Dermatol.",
+                                  "boundingBox": {
+                                    "top": 2335.5,
+                                    "left": 1195.15625,
+                                    "width": 129.9453125,
+                                    "height": 21.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div div.refs p",
+                              "text": "2015;173(4):930-939.",
+                              "boundingBox": {
+                                "top": 2188.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 292.5
+                              },
+                              "attributes": null
+                            },
+                            [
+                              {
+                                "nodeName": "b",
+                                "path": "html#ng-app body main article section.section--molecule div div.refs p b:nth-child(6)",
+                                "boundingBox": {
+                                  "top": 2335.5,
+                                  "left": 1503.2421875,
+                                  "width": 21.984375,
+                                  "height": 21.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--molecule div div.refs p b:nth-child(6)",
+                                  "text": "6.",
+                                  "boundingBox": {
+                                    "top": 2335.5,
+                                    "left": 1503.2421875,
+                                    "width": 21.984375,
+                                    "height": 21.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div div.refs p",
+                              "text": "Marinoni B, Ceribelli A, Massarotti MS, Selmi C. The Th17 axis in psoriatic disease: pathogenetic and therapeutic implications.",
+                              "boundingBox": {
+                                "top": 2188.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 292.5
+                              },
+                              "attributes": null
+                            },
+                            [
+                              {
+                                "nodeName": "i",
+                                "path": "html#ng-app body main article section.section--molecule div div.refs p i:nth-child(5)",
+                                "boundingBox": {
+                                  "top": 2360,
+                                  "left": 1600.71875,
+                                  "width": 188.484375,
+                                  "height": 21.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--molecule div div.refs p i:nth-child(5)",
+                                  "text": "Auto Immun Highlights.",
+                                  "boundingBox": {
+                                    "top": 2360,
+                                    "left": 1600.71875,
+                                    "width": 188.484375,
+                                    "height": 21.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div div.refs p",
+                              "text": "2014;5(1):9-19.",
+                              "boundingBox": {
+                                "top": 2188.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 292.5
+                              },
+                              "attributes": null
+                            },
+                            [
+                              {
+                                "nodeName": "b",
+                                "path": "html#ng-app body main article section.section--molecule div div.refs p b:nth-child(7)",
+                                "boundingBox": {
+                                  "top": 2384.5,
+                                  "left": 1033.0859375,
+                                  "width": 21.984375,
+                                  "height": 21.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--molecule div div.refs p b:nth-child(7)",
+                                  "text": "7.",
+                                  "boundingBox": {
+                                    "top": 2384.5,
+                                    "left": 1033.0859375,
+                                    "width": 21.984375,
+                                    "height": 21.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div div.refs p",
+                              "text": "Tonel G, Conrad C, Laggner U, Di Meglio P, Grys K, McClanahan TK, et al. Cutting edge: A critical functional role for IL-23 in psoriasis.",
+                              "boundingBox": {
+                                "top": 2188.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 292.5
+                              },
+                              "attributes": null
+                            },
+                            [
+                              {
+                                "nodeName": "i",
+                                "path": "html#ng-app body main article section.section--molecule div div.refs p i:nth-child(6)",
+                                "boundingBox": {
+                                  "top": 2409,
+                                  "left": 1194.1484375,
+                                  "width": 94.46875,
+                                  "height": 21.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--molecule div div.refs p i:nth-child(6)",
+                                  "text": "J Immunol.",
+                                  "boundingBox": {
+                                    "top": 2409,
+                                    "left": 1194.1484375,
+                                    "width": 94.46875,
+                                    "height": 21.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div div.refs p",
+                              "text": "2010;185(10):5688-5691.",
+                              "boundingBox": {
+                                "top": 2188.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 292.5
+                              },
+                              "attributes": null
+                            },
+                            [
+                              {
+                                "nodeName": "b",
+                                "path": "html#ng-app body main article section.section--molecule div div.refs p b:nth-child(8)",
+                                "boundingBox": {
+                                  "top": 2409,
+                                  "left": 1496.7890625,
+                                  "width": 21.984375,
+                                  "height": 21.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--molecule div div.refs p b:nth-child(8)",
+                                  "text": "8.",
+                                  "boundingBox": {
+                                    "top": 2409,
+                                    "left": 1496.7890625,
+                                    "width": 21.984375,
+                                    "height": 21.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div div.refs p",
+                              "text": "Kopp T, Riedl E, Bangert C, Bowman EP, Greisenegger E, Horowitz A, et al. Clinical improvement in psoriasis with specific targeting of interleukin-23.",
+                              "boundingBox": {
+                                "top": 2188.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 292.5
+                              },
+                              "attributes": null
+                            },
+                            [
+                              {
+                                "nodeName": "i",
+                                "path": "html#ng-app body main article section.section--molecule div div.refs p i:nth-child(7)",
+                                "boundingBox": {
+                                  "top": 2433.5,
+                                  "left": 1763.375,
+                                  "width": 58.484375,
+                                  "height": 21.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                {
+                                  "nodeName": "text",
+                                  "path": "html#ng-app body main article section.section--molecule div div.refs p i:nth-child(7)",
+                                  "text": "Nature.",
+                                  "boundingBox": {
+                                    "top": 2433.5,
+                                    "left": 1763.375,
+                                    "width": 58.484375,
+                                    "height": 21.5
+                                  },
+                                  "attributes": null
+                                }
+                              ]
+                            ],
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article section.section--molecule div div.refs p",
+                              "text": "2015;521(7551):222-226.",
+                              "boundingBox": {
+                                "top": 2188.5,
+                                "left": 905,
+                                "width": 960,
+                                "height": 292.5
+                              },
+                              "attributes": null
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              {
+                "nodeName": "section",
+                "path": "html#ng-app body main article section.section--quote.callout--quote",
+                "boundingBox": {
+                  "top": 2531,
+                  "left": 0,
+                  "width": 2770,
+                  "height": 400
+                },
+                "children": 3,
+                "attributes": [
+                  {
+                    "class": "section--quote callout--quote"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html#ng-app body main article section.section--quote.callout--quote div",
+                    "boundingBox": {
+                      "top": 2531,
+                      "left": 905,
+                      "width": 960,
+                      "height": 400
+                    },
+                    "children": 5,
+                    "attributes": [
+                      {
+                        "class": "wrap--content"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html#ng-app body main article section.section--quote.callout--quote div div.svg--squiggle-white",
+                        "boundingBox": {
+                          "top": 2655,
+                          "left": 1334,
+                          "width": 102,
+                          "height": 40
+                        },
+                        "children": 0,
+                        "attributes": [
+                          {
+                            "class": "svg--squiggle-white"
+                          }
+                        ]
+                      }
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html#ng-app body main article section.section--quote.callout--quote div div.quote",
+                        "boundingBox": {
+                          "top": 2695,
+                          "left": 905,
+                          "width": 960,
+                          "height": 68
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "class": "quote"
+                          }
+                        ]
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article section.section--quote.callout--quote div div.quote",
+                          "text": "Caring to make a difference is what really makes us special.",
+                          "boundingBox": {
+                            "top": 2695,
+                            "left": 905,
+                            "width": 960,
+                            "height": 68
+                          },
+                          "attributes": [
+                            {
+                              "class": "quote"
+                            }
+                          ]
+                        },
+                        [
+                          {
+                            "nodeName": "br",
+                            "path": "html#ng-app body main article section.section--quote.callout--quote div div.quote br",
+                            "boundingBox": {
+                              "top": 2699,
+                              "left": 1672.453125,
+                              "width": 0,
+                              "height": 26
+                            },
+                            "children": 0,
+                            "attributes": [
+                              {
+                                "class": "hide--sm"
+                              }
+                            ]
+                          }
+                        ],
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article section.section--quote.callout--quote div div.quote",
+                          "text": "It's why we're so passionate about what we do.",
+                          "boundingBox": {
+                            "top": 2695,
+                            "left": 905,
+                            "width": 960,
+                            "height": 68
+                          },
+                          "attributes": [
+                            {
+                              "class": "quote"
+                            }
+                          ]
+                        }
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              {
+                "nodeName": "footer",
+                "path": "html#ng-app body main article footer",
+                "boundingBox": {
+                  "top": 2931,
+                  "left": 0,
+                  "width": 2770,
+                  "height": 367
+                },
+                "children": 5,
+                "attributes": [
+                  {
+                    "class": "footer--global"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html#ng-app body main article footer div:nth-child(1)",
+                    "boundingBox": {
+                      "top": 2931,
+                      "left": 905,
+                      "width": 960,
+                      "height": 367
+                    },
+                    "children": 9,
+                    "attributes": [
+                      {
+                        "class": "wrap--content"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html#ng-app body main article footer div:nth-child(1) div.logo.center",
+                        "boundingBox": {
+                          "top": 2981,
+                          "left": 905,
+                          "width": 960,
+                          "height": 140
+                        },
+                        "children": 5,
+                        "attributes": [
+                          {
+                            "class": "logo center"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "picture",
+                            "path": "html#ng-app body main article footer div:nth-child(1) div.logo.center picture",
+                            "boundingBox": {
+                              "top": 2981,
+                              "left": 1316,
+                              "width": 138,
+                              "height": 109.5
+                            },
+                            "children": 4,
+                            "attributes": null
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "source",
+                                "path": "html#ng-app body main article footer div:nth-child(1) div.logo.center picture source",
+                                "boundingBox": {
+                                  "top": 3073.5,
+                                  "left": 1316,
+                                  "width": 0,
+                                  "height": 18
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "srcset": "img/lg/logo-footer.png 1x, img/lgr/logo-footer.png 2x"
+                                  }
+                                ]
+                              }
+                            ],
+                            [
+                              {
+                                "nodeName": "img",
+                                "path": "html#ng-app body main article footer div:nth-child(1) div.logo.center picture img",
+                                "boundingBox": {
+                                  "top": 2981,
+                                  "left": 1316,
+                                  "width": 138,
+                                  "height": 107
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "src": "img/lg/logo-footer.png"
+                                  },
+                                  {
+                                    "alt": "Logo: SUN Pharmaceuticals"
+                                  }
+                                ]
+                              }
+                            ]
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "p",
+                            "path": "html#ng-app body main article footer div:nth-child(1) div.logo.center p",
+                            "boundingBox": {
+                              "top": 3098.5,
+                              "left": 905,
+                              "width": 960,
+                              "height": 22.5
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "center"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "strong",
+                                "path": "html#ng-app body main article footer div:nth-child(1) div.logo.center p strong",
+                                "boundingBox": {
+                                  "top": 3100,
+                                  "left": 1280.8828125,
+                                  "width": 208.2265625,
+                                  "height": 19.5
+                                },
+                                "children": 1,
+                                "attributes": null
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "em",
+                                    "path": "html#ng-app body main article footer div:nth-child(1) div.logo.center p strong em",
+                                    "boundingBox": {
+                                      "top": 3100,
+                                      "left": 1280.8828125,
+                                      "width": 208.2265625,
+                                      "height": 19
+                                    },
+                                    "children": 1,
+                                    "attributes": null
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html#ng-app body main article footer div:nth-child(1) div.logo.center p strong em",
+                                      "text": "We care to make a difference.",
+                                      "boundingBox": {
+                                        "top": 3100,
+                                        "left": 1280.8828125,
+                                        "width": 208.2265625,
+                                        "height": 19
+                                      },
+                                      "attributes": null
+                                    }
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "p",
+                        "path": "html#ng-app body main article footer div:nth-child(1) p:nth-child(1)",
+                        "boundingBox": {
+                          "top": 3158,
+                          "left": 905,
+                          "width": 960,
+                          "height": 22
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "class": "center"
+                          }
+                        ]
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article footer div:nth-child(1) p:nth-child(1)",
+                          "text": "SUN Dermatology is a division of",
+                          "boundingBox": {
+                            "top": 3158,
+                            "left": 905,
+                            "width": 960,
+                            "height": 22
+                          },
+                          "attributes": [
+                            {
+                              "class": "center"
+                            }
+                          ]
+                        },
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article footer div:nth-child(1) p:nth-child(1)",
+                          "text": "Sun Pharmaceutical Industries, Inc.",
+                          "boundingBox": {
+                            "top": 3158,
+                            "left": 905,
+                            "width": 960,
+                            "height": 22
+                          },
+                          "attributes": [
+                            {
+                              "class": "center"
+                            }
+                          ]
+                        }
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "p",
+                        "path": "html#ng-app body main article footer div:nth-child(1) p:nth-child(2)",
+                        "boundingBox": {
+                          "top": 3180,
+                          "left": 905,
+                          "width": 960,
+                          "height": 22
+                        },
+                        "children": 5,
+                        "attributes": [
+                          {
+                            "class": "center"
+                          }
+                        ]
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article footer div:nth-child(1) p:nth-child(2)",
+                          "text": "© 2017 Sun Pharmaceutical",
+                          "boundingBox": {
+                            "top": 3180,
+                            "left": 905,
+                            "width": 960,
+                            "height": 22
+                          },
+                          "attributes": [
+                            {
+                              "class": "center"
+                            }
+                          ]
+                        },
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article footer div:nth-child(1) p:nth-child(2)",
+                          "text": "Industries, Inc. All rights reserved.",
+                          "boundingBox": {
+                            "top": 3180,
+                            "left": 905,
+                            "width": 960,
+                            "height": 22
+                          },
+                          "attributes": [
+                            {
+                              "class": "center"
+                            }
+                          ]
+                        },
+                        {
+                          "nodeName": "text",
+                          "path": "html#ng-app body main article footer div:nth-child(1) p:nth-child(2)",
+                          "text": "SUN-DER-FRA-007 01/17",
+                          "boundingBox": {
+                            "top": 3180,
+                            "left": 905,
+                            "width": 960,
+                            "height": 22
+                          },
+                          "attributes": [
+                            {
+                              "class": "center"
+                            }
+                          ]
+                        }
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "p",
+                        "path": "html#ng-app body main article footer div:nth-child(1) p.center.links.hide--sm.hide--md",
+                        "boundingBox": {
+                          "top": 3224,
+                          "left": 905,
+                          "width": 960,
+                          "height": 24
+                        },
+                        "children": 7,
+                        "attributes": [
+                          {
+                            "class": "center links hide--sm hide--md"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "a",
+                            "path": "html#ng-app body main article footer div:nth-child(1) p.center.links.hide--sm.hide--md a:nth-child(1)",
+                            "boundingBox": {
+                              "top": 3224,
+                              "left": 1135.375,
+                              "width": 151.1875,
+                              "height": 24
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "href": "http://www.sunpharma.com/"
+                              },
+                              {
+                                "track-event": "['Footer','Click','Sun Pharma link']"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article footer div:nth-child(1) p.center.links.hide--sm.hide--md a:nth-child(1)",
+                              "text": "Sun Pharmaceuticals",
+                              "boundingBox": {
+                                "top": 3224,
+                                "left": 1135.375,
+                                "width": 151.1875,
+                                "height": 24
+                              },
+                              "attributes": [
+                                {
+                                  "href": "http://www.sunpharma.com/"
+                                },
+                                {
+                                  "track-event": "['Footer','Click','Sun Pharma link']"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html#ng-app body main article footer div:nth-child(1) p.center.links.hide--sm.hide--md span:nth-child(1)",
+                            "boundingBox": {
+                              "top": 3226,
+                              "left": 1286.5625,
+                              "width": 32.4453125,
+                              "height": 18
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "spacer"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article footer div:nth-child(1) p.center.links.hide--sm.hide--md span:nth-child(1)",
+                              "text": "/",
+                              "boundingBox": {
+                                "top": 3226,
+                                "left": 1286.5625,
+                                "width": 32.4453125,
+                                "height": 18
+                              },
+                              "attributes": [
+                                {
+                                  "class": "spacer"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "a",
+                            "path": "html#ng-app body main article footer div:nth-child(1) p.center.links.hide--sm.hide--md a:nth-child(2)",
+                            "boundingBox": {
+                              "top": 3224,
+                              "left": 1319.0078125,
+                              "width": 56.90625,
+                              "height": 24
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "href": "http://www.sunpharma.com/careers/work-with-us"
+                              },
+                              {
+                                "track-event": "['Footer','Click','Careers']"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article footer div:nth-child(1) p.center.links.hide--sm.hide--md a:nth-child(2)",
+                              "text": "Careers",
+                              "boundingBox": {
+                                "top": 3224,
+                                "left": 1319.0078125,
+                                "width": 56.90625,
+                                "height": 24
+                              },
+                              "attributes": [
+                                {
+                                  "href": "http://www.sunpharma.com/careers/work-with-us"
+                                },
+                                {
+                                  "track-event": "['Footer','Click','Careers']"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html#ng-app body main article footer div:nth-child(1) p.center.links.hide--sm.hide--md span:nth-child(2)",
+                            "boundingBox": {
+                              "top": 3226,
+                              "left": 1375.9140625,
+                              "width": 32.4453125,
+                              "height": 18
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "spacer"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article footer div:nth-child(1) p.center.links.hide--sm.hide--md span:nth-child(2)",
+                              "text": "/",
+                              "boundingBox": {
+                                "top": 3226,
+                                "left": 1375.9140625,
+                                "width": 32.4453125,
+                                "height": 18
+                              },
+                              "attributes": [
+                                {
+                                  "class": "spacer"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "a",
+                            "path": "html#ng-app body main article footer div:nth-child(1) p.center.links.hide--sm.hide--md a:nth-child(3)",
+                            "boundingBox": {
+                              "top": 3224,
+                              "left": 1408.359375,
+                              "width": 99.578125,
+                              "height": 24
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "href": "privacy-policy.html"
+                              },
+                              {
+                                "track-event": "['Footer','Click','Privacy Policy']"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article footer div:nth-child(1) p.center.links.hide--sm.hide--md a:nth-child(3)",
+                              "text": "Privacy Policy",
+                              "boundingBox": {
+                                "top": 3224,
+                                "left": 1408.359375,
+                                "width": 99.578125,
+                                "height": 24
+                              },
+                              "attributes": [
+                                {
+                                  "href": "privacy-policy.html"
+                                },
+                                {
+                                  "track-event": "['Footer','Click','Privacy Policy']"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "span",
+                            "path": "html#ng-app body main article footer div:nth-child(1) p.center.links.hide--sm.hide--md span:nth-child(3)",
+                            "boundingBox": {
+                              "top": 3226,
+                              "left": 1507.9375,
+                              "width": 32.4453125,
+                              "height": 18
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "spacer"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article footer div:nth-child(1) p.center.links.hide--sm.hide--md span:nth-child(3)",
+                              "text": "/",
+                              "boundingBox": {
+                                "top": 3226,
+                                "left": 1507.9375,
+                                "width": 32.4453125,
+                                "height": 18
+                              },
+                              "attributes": [
+                                {
+                                  "class": "spacer"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "a",
+                            "path": "html#ng-app body main article footer div:nth-child(1) p.center.links.hide--sm.hide--md a:nth-child(4)",
+                            "boundingBox": {
+                              "top": 3224,
+                              "left": 1540.3828125,
+                              "width": 94.2421875,
+                              "height": 24
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "href": "terms-of-use.html"
+                              },
+                              {
+                                "track-event": "['Footer','Click','Terms of Use']"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html#ng-app body main article footer div:nth-child(1) p.center.links.hide--sm.hide--md a:nth-child(4)",
+                              "text": "Terms of Use",
+                              "boundingBox": {
+                                "top": 3224,
+                                "left": 1540.3828125,
+                                "width": 94.2421875,
+                                "height": 24
+                              },
+                              "attributes": [
+                                {
+                                  "href": "terms-of-use.html"
+                                },
+                                {
+                                  "track-event": "['Footer','Click','Terms of Use']"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ],
+        [
+          {
+            "nodeName": "div",
+            "path": "html#ng-app body main div.injector--modal",
+            "boundingBox": {
+              "top": 3298,
+              "left": 0,
+              "width": 2770,
+              "height": 0
+            },
+            "children": 0,
+            "attributes": [
+              {
+                "class": "injector--modal"
+              }
+            ]
+          }
+        ]
+      ]
+    ]
+  ]
+}

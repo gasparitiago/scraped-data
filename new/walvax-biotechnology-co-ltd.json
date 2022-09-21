@@ -1,0 +1,4128 @@
+{
+  "url": "https://en.walvax.com/r-d/pipeline",
+  "timestamp": 1661206743041,
+  "elements": [
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div.section-1.banner",
+        "boundingBox": {
+          "top": 96,
+          "left": 0,
+          "width": 2785,
+          "height": 480
+        },
+        "children": 5,
+        "attributes": [
+          {
+            "class": "section-1 banner"
+          },
+          {
+            "style": "background-image: url(/media/upload/R%26D/R%26D-Pipeline-banner.jpg)"
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "h1",
+            "path": "html body div.section-1.banner h1.banner-heading",
+            "boundingBox": {
+              "top": 384,
+              "left": 144,
+              "width": 2497,
+              "height": 60
+            },
+            "children": 1,
+            "attributes": [
+              {
+                "class": "banner-heading"
+              }
+            ]
+          },
+          [
+            {
+              "nodeName": "text",
+              "path": "html body div.section-1.banner h1.banner-heading",
+              "text": "Pipeline",
+              "boundingBox": {
+                "top": 384,
+                "left": 144,
+                "width": 2497,
+                "height": 60
+              },
+              "attributes": [
+                {
+                  "class": "banner-heading"
+                }
+              ]
+            }
+          ]
+        ],
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div.section-1.banner div.banner-nav",
+            "boundingBox": {
+              "top": 444,
+              "left": 144,
+              "width": 2497,
+              "height": 52
+            },
+            "children": 7,
+            "attributes": [
+              {
+                "class": "banner-nav"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "a",
+                "path": "html body div.section-1.banner div.banner-nav a:nth-child(1)",
+                "boundingBox": {
+                  "top": 461,
+                  "left": 144,
+                  "width": 43.5,
+                  "height": 18
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "class": ""
+                  },
+                  {
+                    "href": "/"
+                  }
+                ]
+              },
+              [
+                {
+                  "nodeName": "text",
+                  "path": "html body div.section-1.banner div.banner-nav a:nth-child(1)",
+                  "text": "Home",
+                  "boundingBox": {
+                    "top": 461,
+                    "left": 144,
+                    "width": 43.5,
+                    "height": 18
+                  },
+                  "attributes": [
+                    {
+                      "class": ""
+                    },
+                    {
+                      "href": "/"
+                    }
+                  ]
+                }
+              ]
+            ],
+            [
+              {
+                "nodeName": "a",
+                "path": "html body div.section-1.banner div.banner-nav a:nth-child(2)",
+                "boundingBox": {
+                  "top": 461,
+                  "left": 191.171875,
+                  "width": 55.875,
+                  "height": 18
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "class": "banner-nav-link"
+                  },
+                  {
+                    "href": "/r-d"
+                  }
+                ]
+              },
+              [
+                {
+                  "nodeName": "text",
+                  "path": "html body div.section-1.banner div.banner-nav a:nth-child(2)",
+                  "text": "R＆D",
+                  "boundingBox": {
+                    "top": 461,
+                    "left": 191.171875,
+                    "width": 55.875,
+                    "height": 18
+                  },
+                  "attributes": [
+                    {
+                      "class": "banner-nav-link"
+                    },
+                    {
+                      "href": "/r-d"
+                    }
+                  ]
+                }
+              ]
+            ],
+            [
+              {
+                "nodeName": "a",
+                "path": "html body div.section-1.banner div.banner-nav a.banner-nav-link.active",
+                "boundingBox": {
+                  "top": 461,
+                  "left": 250.71875,
+                  "width": 77.140625,
+                  "height": 18
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "class": "banner-nav-link active"
+                  },
+                  {
+                    "href": "/r-d/pipeline"
+                  }
+                ]
+              },
+              [
+                {
+                  "nodeName": "text",
+                  "path": "html body div.section-1.banner div.banner-nav a.banner-nav-link.active",
+                  "text": "Pipeline",
+                  "boundingBox": {
+                    "top": 461,
+                    "left": 250.71875,
+                    "width": 77.140625,
+                    "height": 18
+                  },
+                  "attributes": [
+                    {
+                      "class": "banner-nav-link active"
+                    },
+                    {
+                      "href": "/r-d/pipeline"
+                    }
+                  ]
+                }
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      {
+        "nodeName": "div",
+        "path": "html body div:nth-child(2)",
+        "boundingBox": {
+          "top": 576,
+          "left": 0,
+          "width": 2785,
+          "height": 1308
+        },
+        "children": 7,
+        "attributes": [
+          {
+            "class": "section p-36 xl:px-12 xl:py-24 sm:px-6 sm:py-12"
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div:nth-child(2) div.richtext-box",
+            "boundingBox": {
+              "top": 720,
+              "left": 144,
+              "width": 2497,
+              "height": 120
+            },
+            "children": 8,
+            "attributes": [
+              {
+                "class": "richtext-box"
+              },
+              {
+                "slide-up": ""
+              },
+              {
+                "data-sr-id": "1"
+              },
+              {
+                "style": "visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 1s ease 0s, transform 1s ease 0s;"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "h1",
+                "path": "html body div:nth-child(2) div.richtext-box h1",
+                "boundingBox": {
+                  "top": 720,
+                  "left": 144,
+                  "width": 2497,
+                  "height": 60
+                },
+                "children": 1,
+                "attributes": null
+              },
+              [
+                {
+                  "nodeName": "text",
+                  "path": "html body div:nth-child(2) div.richtext-box h1",
+                  "text": "Product Pipeline",
+                  "boundingBox": {
+                    "top": 720,
+                    "left": 144,
+                    "width": 2497,
+                    "height": 60
+                  },
+                  "attributes": null
+                }
+              ]
+            ],
+            [
+              {
+                "nodeName": "p",
+                "path": "html body div:nth-child(2) div.richtext-box p:nth-child(1)",
+                "boundingBox": {
+                  "top": 780,
+                  "left": 144,
+                  "width": 2497,
+                  "height": 20
+                },
+                "children": 1,
+                "attributes": null
+              }
+            ],
+            [
+              {
+                "nodeName": "p",
+                "path": "html body div:nth-child(2) div.richtext-box p:nth-child(2)",
+                "boundingBox": {
+                  "top": 800,
+                  "left": 144,
+                  "width": 2497,
+                  "height": 20
+                },
+                "children": 1,
+                "attributes": null
+              }
+            ],
+            [
+              {
+                "nodeName": "p",
+                "path": "html body div:nth-child(2) div.richtext-box p:nth-child(3)",
+                "boundingBox": {
+                  "top": 820,
+                  "left": 144,
+                  "width": 2497,
+                  "height": 20
+                },
+                "children": 1,
+                "attributes": null
+              },
+              [
+                {
+                  "nodeName": "text",
+                  "path": "html body div:nth-child(2) div.richtext-box p:nth-child(3)",
+                  "text": "Walvax has abundant blockbuster pipelines in clinical stage.",
+                  "boundingBox": {
+                    "top": 820,
+                    "left": 144,
+                    "width": 2497,
+                    "height": 20
+                  },
+                  "attributes": null
+                }
+              ]
+            ]
+          ]
+        ],
+        [
+          {
+            "nodeName": "h3",
+            "path": "html body div:nth-child(2) h3",
+            "boundingBox": {
+              "top": 904,
+              "left": 144,
+              "width": 2497,
+              "height": 36
+            },
+            "children": 1,
+            "attributes": [
+              {
+                "class": "text-3xl sm:text-xl mb-6 mt-16 text-secondary"
+              },
+              {
+                "slide-up": ""
+              },
+              {
+                "data-sr-id": "3"
+              },
+              {
+                "style": "visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 1s ease 0s, transform 1s ease 0s;"
+              }
+            ]
+          },
+          [
+            {
+              "nodeName": "text",
+              "path": "html body div:nth-child(2) h3",
+              "text": "Key product",
+              "boundingBox": {
+                "top": 904,
+                "left": 144,
+                "width": 2497,
+                "height": 36
+              },
+              "attributes": [
+                {
+                  "class": "text-3xl sm:text-xl mb-6 mt-16 text-secondary"
+                },
+                {
+                  "slide-up": ""
+                },
+                {
+                  "data-sr-id": "3"
+                },
+                {
+                  "style": "visibility: visible; opacity: 1; transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transition: opacity 1s ease 0s, transform 1s ease 0s;"
+                }
+              ]
+            }
+          ]
+        ],
+        [
+          {
+            "nodeName": "div",
+            "path": "html body div:nth-child(2) div:nth-child(2)",
+            "boundingBox": {
+              "top": 964,
+              "left": 144,
+              "width": 2497,
+              "height": 776
+            },
+            "children": 5,
+            "attributes": [
+              {
+                "class": "overflow-auto sm:-mx-6 sm:px-6"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body div:nth-child(2) div:nth-child(2) div.data-table",
+                "boundingBox": {
+                  "top": 964,
+                  "left": 144,
+                  "width": 2497,
+                  "height": 776
+                },
+                "children": 9,
+                "attributes": [
+                  {
+                    "class": "data-table"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-hd",
+                    "boundingBox": {
+                      "top": 964,
+                      "left": 144,
+                      "width": 2497,
+                      "height": 76
+                    },
+                    "children": 9,
+                    "attributes": [
+                      {
+                        "class": "table-hd"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-hd div.table-caption",
+                        "boundingBox": {
+                          "top": 964,
+                          "left": 144,
+                          "width": 832.328125,
+                          "height": 76
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "table-caption"
+                          }
+                        ]
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-hd div.table-caption",
+                          "text": "Key Product Candidate",
+                          "boundingBox": {
+                            "top": 964,
+                            "left": 144,
+                            "width": 832.328125,
+                            "height": 76
+                          },
+                          "attributes": [
+                            {
+                              "class": "table-caption"
+                            }
+                          ]
+                        }
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-hd div.table-phases",
+                        "boundingBox": {
+                          "top": 964,
+                          "left": 976.328125,
+                          "width": 1664.65625,
+                          "height": 76
+                        },
+                        "children": 13,
+                        "attributes": [
+                          {
+                            "class": "table-phases"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-hd div.table-phases div:nth-child(1)",
+                            "boundingBox": {
+                              "top": 964,
+                              "left": 976.328125,
+                              "width": 276.609375,
+                              "height": 76
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "table-phase"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-hd div.table-phases div:nth-child(1)",
+                              "text": "Pre-clinical",
+                              "boundingBox": {
+                                "top": 964,
+                                "left": 976.328125,
+                                "width": 276.609375,
+                                "height": 76
+                              },
+                              "attributes": [
+                                {
+                                  "class": "table-phase"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-hd div.table-phases div:nth-child(2)",
+                            "boundingBox": {
+                              "top": 964,
+                              "left": 1252.9375,
+                              "width": 277.609375,
+                              "height": 76
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "table-phase"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-hd div.table-phases div:nth-child(2)",
+                              "text": "IND",
+                              "boundingBox": {
+                                "top": 964,
+                                "left": 1252.9375,
+                                "width": 277.609375,
+                                "height": 76
+                              },
+                              "attributes": [
+                                {
+                                  "class": "table-phase"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-hd div.table-phases div:nth-child(3)",
+                            "boundingBox": {
+                              "top": 964,
+                              "left": 1530.546875,
+                              "width": 277.609375,
+                              "height": 76
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "table-phase"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-hd div.table-phases div:nth-child(3)",
+                              "text": "PhaseⅠ",
+                              "boundingBox": {
+                                "top": 964,
+                                "left": 1530.546875,
+                                "width": 277.609375,
+                                "height": 76
+                              },
+                              "attributes": [
+                                {
+                                  "class": "table-phase"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-hd div.table-phases div:nth-child(4)",
+                            "boundingBox": {
+                              "top": 964,
+                              "left": 1808.15625,
+                              "width": 277.609375,
+                              "height": 76
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "table-phase"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-hd div.table-phases div:nth-child(4)",
+                              "text": "PhaseⅡ",
+                              "boundingBox": {
+                                "top": 964,
+                                "left": 1808.15625,
+                                "width": 277.609375,
+                                "height": 76
+                              },
+                              "attributes": [
+                                {
+                                  "class": "table-phase"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-hd div.table-phases div:nth-child(5)",
+                            "boundingBox": {
+                              "top": 964,
+                              "left": 2085.765625,
+                              "width": 277.609375,
+                              "height": 76
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "table-phase"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-hd div.table-phases div:nth-child(5)",
+                              "text": "PhaseⅢ",
+                              "boundingBox": {
+                                "top": 964,
+                                "left": 2085.765625,
+                                "width": 277.609375,
+                                "height": 76
+                              },
+                              "attributes": [
+                                {
+                                  "class": "table-phase"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-hd div.table-phases div:nth-child(6)",
+                            "boundingBox": {
+                              "top": 964,
+                              "left": 2363.375,
+                              "width": 277.609375,
+                              "height": 76
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "table-phase"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-hd div.table-phases div:nth-child(6)",
+                              "text": "BLA",
+                              "boundingBox": {
+                                "top": 964,
+                                "left": 2363.375,
+                                "width": 277.609375,
+                                "height": 76
+                              },
+                              "attributes": [
+                                {
+                                  "class": "table-phase"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd",
+                    "boundingBox": {
+                      "top": 1040,
+                      "left": 144,
+                      "width": 2497,
+                      "height": 700
+                    },
+                    "children": 29,
+                    "attributes": [
+                      {
+                        "class": "table-bd"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(1)",
+                        "boundingBox": {
+                          "top": 1040,
+                          "left": 144,
+                          "width": 2497,
+                          "height": 100
+                        },
+                        "children": 9,
+                        "attributes": [
+                          {
+                            "class": "table-item"
+                          },
+                          {
+                            "fade-in": ""
+                          },
+                          {
+                            "data-sr-id": "7"
+                          },
+                          {
+                            "style": "visibility: visible; opacity: 1; transition: opacity 1s ease 0s;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(1) div:nth-child(1)",
+                            "boundingBox": {
+                              "top": 1040,
+                              "left": 144,
+                              "width": 832.328125,
+                              "height": 100
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "table-title"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(1) div:nth-child(1)",
+                              "text": "SARS-CoV-2 mRNA Vaccine",
+                              "boundingBox": {
+                                "top": 1040,
+                                "left": 144,
+                                "width": 832.328125,
+                                "height": 100
+                              },
+                              "attributes": [
+                                {
+                                  "class": "table-title"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(1) div:nth-child(2)",
+                            "boundingBox": {
+                              "top": 1040,
+                              "left": 976.328125,
+                              "width": 1664.65625,
+                              "height": 100
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "table-progress"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(1) div:nth-child(2) div",
+                                "boundingBox": {
+                                  "top": 1040,
+                                  "left": 976.328125,
+                                  "width": 1381.65625,
+                                  "height": 100
+                                },
+                                "children": 5,
+                                "attributes": [
+                                  {
+                                    "class": "table-progress-container"
+                                  },
+                                  {
+                                    "style": "width: 83%"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "p",
+                                    "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(1) div:nth-child(2) div p",
+                                    "boundingBox": {
+                                      "top": 1082,
+                                      "left": 976.328125,
+                                      "width": 1381.65625,
+                                      "height": 0
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "text-right mb-1"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(1) div:nth-child(2) div div",
+                                    "boundingBox": {
+                                      "top": 1086,
+                                      "left": 976.328125,
+                                      "width": 1381.65625,
+                                      "height": 12
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "table-progress-bar"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(2)",
+                        "boundingBox": {
+                          "top": 1140,
+                          "left": 144,
+                          "width": 2497,
+                          "height": 100
+                        },
+                        "children": 9,
+                        "attributes": [
+                          {
+                            "class": "table-item"
+                          },
+                          {
+                            "fade-in": ""
+                          },
+                          {
+                            "data-sr-id": "8"
+                          },
+                          {
+                            "style": "visibility: visible; opacity: 1; transition: opacity 1s ease 0s;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(2) div:nth-child(1)",
+                            "boundingBox": {
+                              "top": 1140,
+                              "left": 144,
+                              "width": 832.328125,
+                              "height": 100
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "table-title"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(2) div:nth-child(1)",
+                              "text": "Recombinant 9-valent HPV Vaccine (Pichia pastoris)",
+                              "boundingBox": {
+                                "top": 1140,
+                                "left": 144,
+                                "width": 832.328125,
+                                "height": 100
+                              },
+                              "attributes": [
+                                {
+                                  "class": "table-title"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(2) div:nth-child(2)",
+                            "boundingBox": {
+                              "top": 1140,
+                              "left": 976.328125,
+                              "width": 1664.65625,
+                              "height": 100
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "table-progress"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(2) div:nth-child(2) div",
+                                "boundingBox": {
+                                  "top": 1140,
+                                  "left": 976.328125,
+                                  "width": 1248.484375,
+                                  "height": 100
+                                },
+                                "children": 5,
+                                "attributes": [
+                                  {
+                                    "class": "table-progress-container"
+                                  },
+                                  {
+                                    "style": "width: 75%"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "p",
+                                    "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(2) div:nth-child(2) div p",
+                                    "boundingBox": {
+                                      "top": 1172,
+                                      "left": 976.328125,
+                                      "width": 1248.484375,
+                                      "height": 20
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "text-right mb-1"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(2) div:nth-child(2) div p",
+                                      "text": "Supported by BMGF",
+                                      "boundingBox": {
+                                        "top": 1172,
+                                        "left": 976.328125,
+                                        "width": 1248.484375,
+                                        "height": 20
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "text-right mb-1"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(2) div:nth-child(2) div div",
+                                    "boundingBox": {
+                                      "top": 1196,
+                                      "left": 976.328125,
+                                      "width": 1248.484375,
+                                      "height": 12
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "table-progress-bar"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(3)",
+                        "boundingBox": {
+                          "top": 1240,
+                          "left": 144,
+                          "width": 2497,
+                          "height": 100
+                        },
+                        "children": 9,
+                        "attributes": [
+                          {
+                            "class": "table-item"
+                          },
+                          {
+                            "fade-in": ""
+                          },
+                          {
+                            "data-sr-id": "9"
+                          },
+                          {
+                            "style": "visibility: visible; opacity: 1; transition: opacity 1s ease 0s;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(3) div:nth-child(1)",
+                            "boundingBox": {
+                              "top": 1240,
+                              "left": 144,
+                              "width": 832.328125,
+                              "height": 100
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "table-title"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(3) div:nth-child(1)",
+                              "text": "Group ACYW135 Meningococcal Polysaccharide Conjugate Vaccine",
+                              "boundingBox": {
+                                "top": 1240,
+                                "left": 144,
+                                "width": 832.328125,
+                                "height": 100
+                              },
+                              "attributes": [
+                                {
+                                  "class": "table-title"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(3) div:nth-child(2)",
+                            "boundingBox": {
+                              "top": 1240,
+                              "left": 976.328125,
+                              "width": 1664.65625,
+                              "height": 100
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "table-progress"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(3) div:nth-child(2) div",
+                                "boundingBox": {
+                                  "top": 1240,
+                                  "left": 976.328125,
+                                  "width": 1248.484375,
+                                  "height": 100
+                                },
+                                "children": 5,
+                                "attributes": [
+                                  {
+                                    "class": "table-progress-container"
+                                  },
+                                  {
+                                    "style": "width: 75%"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "p",
+                                    "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(3) div:nth-child(2) div p",
+                                    "boundingBox": {
+                                      "top": 1282,
+                                      "left": 976.328125,
+                                      "width": 1248.484375,
+                                      "height": 0
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "text-right mb-1"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(3) div:nth-child(2) div div",
+                                    "boundingBox": {
+                                      "top": 1286,
+                                      "left": 976.328125,
+                                      "width": 1248.484375,
+                                      "height": 12
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "table-progress-bar"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(4)",
+                        "boundingBox": {
+                          "top": 1340,
+                          "left": 144,
+                          "width": 2497,
+                          "height": 100
+                        },
+                        "children": 9,
+                        "attributes": [
+                          {
+                            "class": "table-item"
+                          },
+                          {
+                            "fade-in": ""
+                          },
+                          {
+                            "data-sr-id": "10"
+                          },
+                          {
+                            "style": "visibility: visible; opacity: 1; transition: opacity 1s ease 0s;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(4) div:nth-child(1)",
+                            "boundingBox": {
+                              "top": 1340,
+                              "left": 144,
+                              "width": 832.328125,
+                              "height": 100
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "table-title"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(4) div:nth-child(1)",
+                              "text": "Recombinant Subunit  SARS-CoV-2 Vaccine",
+                              "boundingBox": {
+                                "top": 1340,
+                                "left": 144,
+                                "width": 832.328125,
+                                "height": 100
+                              },
+                              "attributes": [
+                                {
+                                  "class": "table-title"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(4) div:nth-child(2)",
+                            "boundingBox": {
+                              "top": 1340,
+                              "left": 976.328125,
+                              "width": 1664.65625,
+                              "height": 100
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "table-progress"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(4) div:nth-child(2) div",
+                                "boundingBox": {
+                                  "top": 1340,
+                                  "left": 976.328125,
+                                  "width": 998.78125,
+                                  "height": 100
+                                },
+                                "children": 5,
+                                "attributes": [
+                                  {
+                                    "class": "table-progress-container"
+                                  },
+                                  {
+                                    "style": "width: 60%"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "p",
+                                    "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(4) div:nth-child(2) div p",
+                                    "boundingBox": {
+                                      "top": 1372,
+                                      "left": 976.328125,
+                                      "width": 998.78125,
+                                      "height": 20
+                                    },
+                                    "children": 1,
+                                    "attributes": [
+                                      {
+                                        "class": "text-right mb-1"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    {
+                                      "nodeName": "text",
+                                      "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(4) div:nth-child(2) div p",
+                                      "text": "Supported by BMGF & CEPI",
+                                      "boundingBox": {
+                                        "top": 1372,
+                                        "left": 976.328125,
+                                        "width": 998.78125,
+                                        "height": 20
+                                      },
+                                      "attributes": [
+                                        {
+                                          "class": "text-right mb-1"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                ],
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(4) div:nth-child(2) div div",
+                                    "boundingBox": {
+                                      "top": 1396,
+                                      "left": 976.328125,
+                                      "width": 998.78125,
+                                      "height": 12
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "table-progress-bar"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(5)",
+                        "boundingBox": {
+                          "top": 1440,
+                          "left": 144,
+                          "width": 2497,
+                          "height": 100
+                        },
+                        "children": 9,
+                        "attributes": [
+                          {
+                            "class": "table-item"
+                          },
+                          {
+                            "fade-in": ""
+                          },
+                          {
+                            "data-sr-id": "11"
+                          },
+                          {
+                            "style": "visibility: visible; opacity: 0;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(5) div:nth-child(1)",
+                            "boundingBox": {
+                              "top": 1440,
+                              "left": 144,
+                              "width": 832.328125,
+                              "height": 100
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "table-title"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(5) div:nth-child(1)",
+                              "text": "Adenoviral Vector Based SARS-CoV-2 Vaccine",
+                              "boundingBox": {
+                                "top": 1440,
+                                "left": 144,
+                                "width": 832.328125,
+                                "height": 100
+                              },
+                              "attributes": [
+                                {
+                                  "class": "table-title"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(5) div:nth-child(2)",
+                            "boundingBox": {
+                              "top": 1440,
+                              "left": 976.328125,
+                              "width": 1664.65625,
+                              "height": 100
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "table-progress"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(5) div:nth-child(2) div",
+                                "boundingBox": {
+                                  "top": 1440,
+                                  "left": 976.328125,
+                                  "width": 998.78125,
+                                  "height": 100
+                                },
+                                "children": 5,
+                                "attributes": [
+                                  {
+                                    "class": "table-progress-container"
+                                  },
+                                  {
+                                    "style": "width: 60%"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "p",
+                                    "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(5) div:nth-child(2) div p",
+                                    "boundingBox": {
+                                      "top": 1482,
+                                      "left": 976.328125,
+                                      "width": 998.78125,
+                                      "height": 0
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "text-right mb-1"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(5) div:nth-child(2) div div",
+                                    "boundingBox": {
+                                      "top": 1486,
+                                      "left": 976.328125,
+                                      "width": 998.78125,
+                                      "height": 12
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "table-progress-bar"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(6)",
+                        "boundingBox": {
+                          "top": 1540,
+                          "left": 144,
+                          "width": 2497,
+                          "height": 100
+                        },
+                        "children": 9,
+                        "attributes": [
+                          {
+                            "class": "table-item"
+                          },
+                          {
+                            "fade-in": ""
+                          },
+                          {
+                            "data-sr-id": "12"
+                          },
+                          {
+                            "style": "visibility: visible; opacity: 0;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(6) div:nth-child(1)",
+                            "boundingBox": {
+                              "top": 1540,
+                              "left": 144,
+                              "width": 832.328125,
+                              "height": 100
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "table-title"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(6) div:nth-child(1)",
+                              "text": "Quadrivalent Influenza Vaccine",
+                              "boundingBox": {
+                                "top": 1540,
+                                "left": 144,
+                                "width": 832.328125,
+                                "height": 100
+                              },
+                              "attributes": [
+                                {
+                                  "class": "table-title"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(6) div:nth-child(2)",
+                            "boundingBox": {
+                              "top": 1540,
+                              "left": 976.328125,
+                              "width": 1664.65625,
+                              "height": 100
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "table-progress"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(6) div:nth-child(2) div",
+                                "boundingBox": {
+                                  "top": 1540,
+                                  "left": 976.328125,
+                                  "width": 749.09375,
+                                  "height": 100
+                                },
+                                "children": 5,
+                                "attributes": [
+                                  {
+                                    "class": "table-progress-container"
+                                  },
+                                  {
+                                    "style": "width: 45%"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "p",
+                                    "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(6) div:nth-child(2) div p",
+                                    "boundingBox": {
+                                      "top": 1582,
+                                      "left": 976.328125,
+                                      "width": 749.09375,
+                                      "height": 0
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "text-right mb-1"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(6) div:nth-child(2) div div",
+                                    "boundingBox": {
+                                      "top": 1586,
+                                      "left": 976.328125,
+                                      "width": 749.09375,
+                                      "height": 12
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "table-progress-bar"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "div",
+                        "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(7)",
+                        "boundingBox": {
+                          "top": 1640,
+                          "left": 144,
+                          "width": 2497,
+                          "height": 100
+                        },
+                        "children": 9,
+                        "attributes": [
+                          {
+                            "class": "table-item"
+                          },
+                          {
+                            "fade-in": ""
+                          },
+                          {
+                            "data-sr-id": "13"
+                          },
+                          {
+                            "style": "visibility: visible; opacity: 0;"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(7) div:nth-child(1)",
+                            "boundingBox": {
+                              "top": 1640,
+                              "left": 144,
+                              "width": 832.328125,
+                              "height": 100
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "class": "table-title"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(7) div:nth-child(1)",
+                              "text": "Shingles mRNA Vaccine",
+                              "boundingBox": {
+                                "top": 1640,
+                                "left": 144,
+                                "width": 832.328125,
+                                "height": 100
+                              },
+                              "attributes": [
+                                {
+                                  "class": "table-title"
+                                }
+                              ]
+                            }
+                          ]
+                        ],
+                        [
+                          {
+                            "nodeName": "div",
+                            "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(7) div:nth-child(2)",
+                            "boundingBox": {
+                              "top": 1640,
+                              "left": 976.328125,
+                              "width": 1664.65625,
+                              "height": 100
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "class": "table-progress"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "div",
+                                "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(7) div:nth-child(2) div",
+                                "boundingBox": {
+                                  "top": 1640,
+                                  "left": 976.328125,
+                                  "width": 282.984375,
+                                  "height": 100
+                                },
+                                "children": 5,
+                                "attributes": [
+                                  {
+                                    "class": "table-progress-container"
+                                  },
+                                  {
+                                    "style": "width: 17%"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "p",
+                                    "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(7) div:nth-child(2) div p",
+                                    "boundingBox": {
+                                      "top": 1682,
+                                      "left": 976.328125,
+                                      "width": 282.984375,
+                                      "height": 0
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "text-right mb-1"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "div",
+                                    "path": "html body div:nth-child(2) div:nth-child(2) div.data-table div.table-bd div:nth-child(7) div:nth-child(2) div div",
+                                    "boundingBox": {
+                                      "top": 1686,
+                                      "left": 976.328125,
+                                      "width": 282.984375,
+                                      "height": 12
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "class": "table-progress-bar"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      {
+        "nodeName": "footer",
+        "path": "html body footer",
+        "boundingBox": {
+          "top": 1884,
+          "left": 0,
+          "width": 2785,
+          "height": 685
+        },
+        "children": 5,
+        "attributes": [
+          {
+            "class": "footer"
+          }
+        ]
+      },
+      [
+        [
+          {
+            "nodeName": "div",
+            "path": "html body footer div:nth-child(1)",
+            "boundingBox": {
+              "top": 2028,
+              "left": 144,
+              "width": 2497,
+              "height": 316
+            },
+            "children": 13,
+            "attributes": [
+              {
+                "class": "flex items-start flex-wrap xl:space-y-12"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body footer div:nth-child(1) div:nth-child(1)",
+                "boundingBox": {
+                  "top": 2028,
+                  "left": 144,
+                  "width": 832.328125,
+                  "height": 291.96875
+                },
+                "children": 7,
+                "attributes": [
+                  {
+                    "class": "block1 w-4/12 sm:space-y-8 space-y-12"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1)",
+                    "boundingBox": {
+                      "top": 2028,
+                      "left": 144,
+                      "width": 832.328125,
+                      "height": 47.96875
+                    },
+                    "children": 3,
+                    "attributes": [
+                      {
+                        "class": "sm:w-1/2"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "svg",
+                        "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg",
+                        "boundingBox": {
+                          "top": 2028,
+                          "left": 144,
+                          "width": 257.796875,
+                          "height": 47.96875
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "xmlns": "http://www.w3.org/2000/svg"
+                          },
+                          {
+                            "width": "257.798"
+                          },
+                          {
+                            "height": "47.98"
+                          },
+                          {
+                            "viewBox": "0 0 257.798 47.98"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "g",
+                            "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224",
+                            "boundingBox": {
+                              "top": 2028.000732421875,
+                              "left": 144.03665161132812,
+                              "width": 257.73486328125,
+                              "height": 47.968017578125
+                            },
+                            "children": 7,
+                            "attributes": [
+                              {
+                                "id": "组_224"
+                              },
+                              {
+                                "data-name": "组 224"
+                              },
+                              {
+                                "transform": "translate(-121.481 222.547)"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "g",
+                                "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_221",
+                                "boundingBox": {
+                                  "top": 2028.000732421875,
+                                  "left": 144.60250854492188,
+                                  "width": 245.0374755859375,
+                                  "height": 27.99365234375
+                                },
+                                "children": 11,
+                                "attributes": [
+                                  {
+                                    "id": "组_221"
+                                  },
+                                  {
+                                    "data-name": "组 221"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_221 path#路径_248",
+                                    "boundingBox": {
+                                      "top": 2028.000732421875,
+                                      "left": 199.48765563964844,
+                                      "width": 48.86854553222656,
+                                      "height": 27.875732421875
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_248"
+                                      },
+                                      {
+                                        "data-name": "路径 248"
+                                      },
+                                      {
+                                        "d": "M195.475-217.922l-18.523,23.255h10.679l4.95-6.147h14.811l-2.269-5.212h-8.334l5.58-6.938a9.444,9.444,0,0,1,.926-1.03,1.322,1.322,0,0,1,.94-.277,1.032,1.032,0,0,1,.823.262,5.716,5.716,0,0,1,.621,1.045l9.6,18.3h10.553l-11.945-23.425a8.508,8.508,0,0,0-1.34-1.855,8.77,8.77,0,0,0-2.857-1.83,11.447,11.447,0,0,0-4.333-.77,13.307,13.307,0,0,0-4.612.734,10.757,10.757,0,0,0-3.153,1.729A15.527,15.527,0,0,0,195.475-217.922Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_221 path#路径_249",
+                                    "boundingBox": {
+                                      "top": 2028.037353515625,
+                                      "left": 306.1876220703125,
+                                      "width": 83.45236206054688,
+                                      "height": 27.89208984375
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_249"
+                                      },
+                                      {
+                                        "data-name": "路径 249"
+                                      },
+                                      {
+                                        "d": "M320.02-219.9a8.613,8.613,0,0,0-2.92-1.817,11.43,11.43,0,0,0-4.4-.789,13.484,13.484,0,0,0-4.695.749,11.059,11.059,0,0,0-3.231,1.722,17.155,17.155,0,0,0-2.159,2.153l-18.938,23.271h10.861l5.059-6.158h15.43l-2.282-5.214h-8.835l5.723-6.935a8.879,8.879,0,0,1,.931-1.023,1.4,1.4,0,0,1,.984-.29,1.067,1.067,0,0,1,.826.267,7.131,7.131,0,0,1,.633,1.046l9.714,18.307h10.727l-.018-.043h4.713l8.476-8.133c4.151,4.572,7.391,8.133,7.391,8.133h10.47l-12.131-13.643,4.776-4.627s4.974-4.463,10.024-9.307a35.3,35.3,0,0,0-4.723-.275,14.242,14.242,0,0,0-4.7.749,13.988,13.988,0,0,0-3.53,1.722,24.475,24.475,0,0,0-2.607,2.153l-4.179,4.064-3.612-4.064a17.077,17.077,0,0,0-2.309-2.153,11.7,11.7,0,0,0-3.287-1.722,13.206,13.206,0,0,0-4.581-.749,10.05,10.05,0,0,0-4.182.789c1.959,2.168,7.126,7.858,12.223,13.473l-10.148,9.864-10.135-19.656A9.335,9.335,0,0,0,320.02-219.9Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_221 path#路径_250",
+                                    "boundingBox": {
+                                      "top": 2028.475830078125,
+                                      "left": 275.0379333496094,
+                                      "width": 48.092681884765625,
+                                      "height": 27.461669921875
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_250"
+                                      },
+                                      {
+                                        "data-name": "路径 250"
+                                      },
+                                      {
+                                        "d": "M265.886-196.917a7.722,7.722,0,0,0,2.59,1.617,10.131,10.131,0,0,0,3.942.694,12.447,12.447,0,0,0,4.183-.661,9.856,9.856,0,0,0,2.85-1.533,12.722,12.722,0,0,0,1.929-1.909l19.244-23.362h-9.88l-15.609,18.977a6.955,6.955,0,0,1-.853.918,1.273,1.273,0,0,1-.856.252,1.019,1.019,0,0,1-.734-.232,7.3,7.3,0,0,1-.559-.938l-10.177-18.977H252.52l12.153,23.506A5.168,5.168,0,0,0,265.886-196.917Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_221 path#路径_251",
+                                    "boundingBox": {
+                                      "top": 2028.0040283203125,
+                                      "left": 249.21484375,
+                                      "width": 33.52227783203125,
+                                      "height": 27.9302978515625
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_251"
+                                      },
+                                      {
+                                        "data-name": "路径 251"
+                                      },
+                                      {
+                                        "d": "M233.691-194.606h22.43c3.31,0,4.1-5.4,4.1-5.4H238.71a2.086,2.086,0,0,1-2.13-2.38l3.159-20.157h-9.428s-2.1,11.857-3.444,19.425C225.676-196.154,230.81-194.836,233.691-194.606Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_221 path#路径_252",
+                                    "boundingBox": {
+                                      "top": 2029.470703125,
+                                      "left": 144.60250854492188,
+                                      "width": 69.96359252929688,
+                                      "height": 26.523681640625
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_252"
+                                      },
+                                      {
+                                        "data-name": "路径 252"
+                                      },
+                                      {
+                                        "d": "M162.489-197.979a6.448,6.448,0,0,0,5.628,3.433,3.342,3.342,0,0,0,.68-.074,2.862,2.862,0,0,0,1.094-.25,8.492,8.492,0,0,0,2.488-1.961c.483-.516,14.93-18.106,19.655-24.245h-9.443c-2.919,3.579-9.881,12.18-13.161,16.242l-8.669-16.242H150.168l.318.572c-2.4,3.69-7,10.774-9.592,14.779l-8.24-15.351h-10.6l12.232,22.937a6.46,6.46,0,0,0,5.624,3.431,2.979,2.979,0,0,0,.621-.06,3.145,3.145,0,0,0,1.4-.374,8.417,8.417,0,0,0,2.241-2.18c.051-.061.2-.317.45-.71v-.008c1.4-2.252,5.771-9.378,9.542-15.554l.365.731Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "g",
+                                "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222",
+                                "boundingBox": {
+                                  "top": 2065.6611328125,
+                                  "left": 144.03665161132812,
+                                  "width": 244.08877563476562,
+                                  "height": 10.3076171875
+                                },
+                                "children": 55,
+                                "attributes": [
+                                  {
+                                    "id": "组_222"
+                                  },
+                                  {
+                                    "data-name": "组 222"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_253",
+                                    "boundingBox": {
+                                      "top": 2065.80810546875,
+                                      "left": 144.03665161132812,
+                                      "width": 11.309356689453125,
+                                      "height": 8.554931640625
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_253"
+                                      },
+                                      {
+                                        "data-name": "路径 253"
+                                      },
+                                      {
+                                        "d": "M122.983-184.73l1.554,7.168,1.76-7.168h1.722l1.736,7.168,1.581-7.168H132.8l-2.216,8.557h-1.738l-1.7-6.958-1.786,6.958h-1.734l-2.138-8.557Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_254",
+                                    "boundingBox": {
+                                      "top": 2065.80810546875,
+                                      "left": 156.8746337890625,
+                                      "width": 8.82794189453125,
+                                      "height": 8.554931640625
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_254"
+                                      },
+                                      {
+                                        "data-name": "路径 254"
+                                      },
+                                      {
+                                        "d": "M134.329-176.173l3.574-8.557h1.82l3.436,8.557H141.69l-.879-2.238h-4.1l-.915,2.238Zm4.46-7.535-1.655,4.207h3.23Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_255",
+                                    "boundingBox": {
+                                      "top": 2065.80810546875,
+                                      "left": 167.8675994873047,
+                                      "width": 5.5151519775390625,
+                                      "height": 8.5576171875
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_255"
+                                      },
+                                      {
+                                        "data-name": "路径 255"
+                                      },
+                                      {
+                                        "d": "M145.327-184.73h1.38v4.98a6.192,6.192,0,0,0,.092,1.23,1.408,1.408,0,0,0,.313.672,2.515,2.515,0,0,0,1.874.584h1.855v1.091h-2.126a5.575,5.575,0,0,1-1.608-.187,2.478,2.478,0,0,1-1.045-.652,2.3,2.3,0,0,1-.571-.994,6.081,6.081,0,0,1-.164-1.585Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_256",
+                                    "boundingBox": {
+                                      "top": 2065.80810546875,
+                                      "left": 174.7894287109375,
+                                      "width": 9.029891967773438,
+                                      "height": 8.554931640625
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_256"
+                                      },
+                                      {
+                                        "data-name": "路径 256"
+                                      },
+                                      {
+                                        "d": "M161.28-184.73l-3.684,8.557h-1.638l-3.71-8.557h1.6l2.955,7.278,2.993-7.278Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_257",
+                                    "boundingBox": {
+                                      "top": 2065.80810546875,
+                                      "left": 185.22000122070312,
+                                      "width": 8.824920654296875,
+                                      "height": 8.554931640625
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_257"
+                                      },
+                                      {
+                                        "data-name": "路径 257"
+                                      },
+                                      {
+                                        "d": "M162.681-176.173l3.574-8.557h1.816l3.437,8.557H170.04l-.878-2.238h-4.1l-.918,2.238Zm4.459-7.535-1.66,4.207h3.238Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_258",
+                                    "boundingBox": {
+                                      "top": 2065.80810546875,
+                                      "left": 195.46559143066406,
+                                      "width": 8.571990966796875,
+                                      "height": 8.554931640625
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_258"
+                                      },
+                                      {
+                                        "data-name": "路径 258"
+                                      },
+                                      {
+                                        "d": "M176.308-180.561l-2.866-4.169H175.1l2.126,3.148,2.386-3.148h1.652l-3.232,4.169,3.471,4.388h-1.675l-2.67-3.418-2.556,3.418h-1.673Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_259",
+                                    "boundingBox": {
+                                      "top": 2065.805419921875,
+                                      "left": 210.85699462890625,
+                                      "width": 7.2419586181640625,
+                                      "height": 8.576171875
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_259"
+                                      },
+                                      {
+                                        "data-name": "路径 259"
+                                      },
+                                      {
+                                        "d": "M188.324-176.173v-8.557h4.132a6.4,6.4,0,0,1,1.51.135,1.814,1.814,0,0,1,.861.5,2.141,2.141,0,0,1,.608,1.562,2.05,2.05,0,0,1-1.328,1.966,2.5,2.5,0,0,1,.928.539,1.934,1.934,0,0,1,.529,1.436,2.207,2.207,0,0,1-.933,1.932,4.661,4.661,0,0,1-2.513.488Zm1.382-4.938h2.75a1.835,1.835,0,0,0,1.1-.259,1.179,1.179,0,0,0,.455-1.01,1.256,1.256,0,0,0-.36-.952.944.944,0,0,0-.428-.242,3.155,3.155,0,0,0-.765-.065h-2.75Zm0,3.847h2.631q1.762,0,1.76-1.423a1.239,1.239,0,0,0-.382-1.021,2,2,0,0,0-1.259-.312h-2.75Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_260",
+                                    "boundingBox": {
+                                      "top": 2065.80810546875,
+                                      "left": 220.82266235351562,
+                                      "width": 1.382659912109375,
+                                      "height": 8.554931640625
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_260"
+                                      },
+                                      {
+                                        "data-name": "路径 260"
+                                      },
+                                      {
+                                        "d": "M198.292-176.173v-8.557h1.383v8.557Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_261",
+                                    "boundingBox": {
+                                      "top": 2065.6611328125,
+                                      "left": 224.86959838867188,
+                                      "width": 8.38629150390625,
+                                      "height": 8.835693359375
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_261"
+                                      },
+                                      {
+                                        "data-name": "路径 261"
+                                      },
+                                      {
+                                        "d": "M206.584-184.855A3.8,3.8,0,0,1,210-183.4a5.314,5.314,0,0,1,.71,2.965,4.314,4.314,0,0,1-1.181,3.38,4.479,4.479,0,0,1-3.071,1,3.9,3.9,0,0,1-3.225-1.25,3.673,3.673,0,0,1-.651-1.349,6.49,6.49,0,0,1-.242-1.79,6.232,6.232,0,0,1,.254-1.791,3.6,3.6,0,0,1,.7-1.348,3.37,3.37,0,0,1,1.353-.956A5.5,5.5,0,0,1,206.584-184.855Zm-.016,1.09a2.409,2.409,0,0,0-2.4,1.237,4.738,4.738,0,0,0-.367,2.067,4.288,4.288,0,0,0,.539,2.389,2.472,2.472,0,0,0,2.208.935,2.352,2.352,0,0,0,2.372-1.249,4.9,4.9,0,0,0,.32-2.005,4.54,4.54,0,0,0-.471-2.357A2.424,2.424,0,0,0,206.568-183.765Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_262",
+                                    "boundingBox": {
+                                      "top": 2065.80810546875,
+                                      "left": 235.0213165283203,
+                                      "width": 7.359283447265625,
+                                      "height": 8.554931640625
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_262"
+                                      },
+                                      {
+                                        "data-name": "路径 262"
+                                      },
+                                      {
+                                        "d": "M215.479-183.639h-2.985v-1.091h7.361v1.091h-2.993v7.466h-1.383Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_263",
+                                    "boundingBox": {
+                                      "top": 2065.800048828125,
+                                      "left": 244.1485595703125,
+                                      "width": 6.69305419921875,
+                                      "height": 8.565673828125
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_263"
+                                      },
+                                      {
+                                        "data-name": "路径 263"
+                                      },
+                                      {
+                                        "d": "M228.314-184.73v1.091H225.8a4.7,4.7,0,0,0-1.08.094,1.836,1.836,0,0,0-.687.332,2.067,2.067,0,0,0-.624.839,4.35,4.35,0,0,0-.255,1.342h5.164v1.092H223.15a3.143,3.143,0,0,0,.413,1.671,1.825,1.825,0,0,0,.807.78,3.323,3.323,0,0,0,1.353.225h2.591v1.091h-2.843a5.335,5.335,0,0,1-1.763-.242,3.037,3.037,0,0,1-1.78-1.913,5.507,5.507,0,0,1-.3-1.958,5.51,5.51,0,0,1,.49-2.507,3.376,3.376,0,0,1,1.4-1.5,5.21,5.21,0,0,1,2.36-.439Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_264",
+                                    "boundingBox": {
+                                      "top": 2065.802001953125,
+                                      "left": 253.16989135742188,
+                                      "width": 6.95953369140625,
+                                      "height": 8.563720703125
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_264"
+                                      },
+                                      {
+                                        "data-name": "路径 264"
+                                      },
+                                      {
+                                        "d": "M237.608-177.264v1.091h-2.682a7.126,7.126,0,0,1-1.829-.187,3.026,3.026,0,0,1-1.987-1.769,5.3,5.3,0,0,1-.462-2.262,5.4,5.4,0,0,1,.627-2.64,2.968,2.968,0,0,1,1.31-1.323,5.463,5.463,0,0,1,2.265-.376h2.758v1.091h-2.682a5.011,5.011,0,0,0-1.328.133,1.552,1.552,0,0,0-.752.5,2.887,2.887,0,0,0-.538,1.108,5.847,5.847,0,0,0-.188,1.545,3.522,3.522,0,0,0,.743,2.423,1.749,1.749,0,0,0,.809.526,4.96,4.96,0,0,0,1.368.142Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_265",
+                                    "boundingBox": {
+                                      "top": 2065.80810546875,
+                                      "left": 262.80377197265625,
+                                      "width": 7.335296630859375,
+                                      "height": 8.554931640625
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_265"
+                                      },
+                                      {
+                                        "data-name": "路径 265"
+                                      },
+                                      {
+                                        "d": "M247.62-184.73v8.557h-1.377v-3.793h-4.584v3.793h-1.376v-8.557h1.376v3.675h4.584v-3.675Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_266",
+                                    "boundingBox": {
+                                      "top": 2065.80615234375,
+                                      "left": 273.2863464355469,
+                                      "width": 7.394256591796875,
+                                      "height": 8.554931640625
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_266"
+                                      },
+                                      {
+                                        "data-name": "路径 266"
+                                      },
+                                      {
+                                        "d": "M252.117-183v6.825h-1.349v-8.557h1.65l4.4,6.846v-6.846h1.346v8.557h-1.6Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_267",
+                                    "boundingBox": {
+                                      "top": 2065.661376953125,
+                                      "left": 283.3399963378906,
+                                      "width": 8.392974853515625,
+                                      "height": 8.84033203125
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_267"
+                                      },
+                                      {
+                                        "data-name": "路径 267"
+                                      },
+                                      {
+                                        "d": "M265.075-184.855a3.8,3.8,0,0,1,3.417,1.46,5.314,5.314,0,0,1,.709,2.965,4.308,4.308,0,0,1-1.186,3.38,4.458,4.458,0,0,1-3.067,1,3.906,3.906,0,0,1-3.227-1.25,3.689,3.689,0,0,1-.649-1.349,6.493,6.493,0,0,1-.248-1.79,6.164,6.164,0,0,1,.258-1.791,3.689,3.689,0,0,1,.7-1.348,3.329,3.329,0,0,1,1.357-.956A5.47,5.47,0,0,1,265.075-184.855Zm-.015,1.09a2.411,2.411,0,0,0-2.4,1.237,4.741,4.741,0,0,0-.365,2.067,4.308,4.308,0,0,0,.534,2.389,2.478,2.478,0,0,0,2.214.935,2.354,2.354,0,0,0,2.372-1.249,5,5,0,0,0,.315-2.005,4.587,4.587,0,0,0-.466-2.357A2.437,2.437,0,0,0,265.06-183.765Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_268",
+                                    "boundingBox": {
+                                      "top": 2065.80810546875,
+                                      "left": 294.27642822265625,
+                                      "width": 5.51068115234375,
+                                      "height": 8.557373046875
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_268"
+                                      },
+                                      {
+                                        "data-name": "路径 268"
+                                      },
+                                      {
+                                        "d": "M271.763-184.73h1.382v4.98a6.312,6.312,0,0,0,.089,1.23,1.391,1.391,0,0,0,.315.672,2.514,2.514,0,0,0,1.873.584h1.853v1.091h-2.128a5.535,5.535,0,0,1-1.6-.187,2.487,2.487,0,0,1-1.048-.652,2.319,2.319,0,0,1-.571-.994,6.313,6.313,0,0,1-.163-1.585Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_269",
+                                    "boundingBox": {
+                                      "top": 2065.661376953125,
+                                      "left": 301.58868408203125,
+                                      "width": 8.391387939453125,
+                                      "height": 8.83984375
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_269"
+                                      },
+                                      {
+                                        "data-name": "路径 269"
+                                      },
+                                      {
+                                        "d": "M283.326-184.855a3.8,3.8,0,0,1,3.417,1.46,5.34,5.34,0,0,1,.709,2.965,4.3,4.3,0,0,1-1.185,3.38,4.471,4.471,0,0,1-3.072,1,3.913,3.913,0,0,1-3.226-1.25,3.688,3.688,0,0,1-.648-1.349,6.567,6.567,0,0,1-.244-1.79,6.233,6.233,0,0,1,.256-1.791,3.642,3.642,0,0,1,.7-1.348,3.369,3.369,0,0,1,1.357-.956A5.494,5.494,0,0,1,283.326-184.855Zm-.013,1.09a2.414,2.414,0,0,0-2.4,1.237,4.784,4.784,0,0,0-.366,2.067,4.3,4.3,0,0,0,.539,2.389,2.475,2.475,0,0,0,2.21.935,2.352,2.352,0,0,0,2.372-1.249,4.929,4.929,0,0,0,.316-2.005,4.534,4.534,0,0,0-.468-2.357A2.426,2.426,0,0,0,283.313-183.765Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_270",
+                                    "boundingBox": {
+                                      "top": 2065.806396484375,
+                                      "left": 312.12286376953125,
+                                      "width": 7.46759033203125,
+                                      "height": 8.560546875
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_270"
+                                      },
+                                      {
+                                        "data-name": "路径 270"
+                                      },
+                                      {
+                                        "d": "M293.037-181.083h4.046v4.91h-3.2a7.227,7.227,0,0,1-1.982-.211,3.02,3.02,0,0,1-1.485-1.047,4.773,4.773,0,0,1-.791-2.978c0-1.881.526-3.145,1.59-3.786a3.361,3.361,0,0,1,1.1-.416,8.845,8.845,0,0,1,1.633-.119h3.132v1.091h-3.027a7.976,7.976,0,0,0-1.177.058,2.029,2.029,0,0,0-.684.266q-1.1.672-1.1,2.8a6.39,6.39,0,0,0,.115,1.354,2.769,2.769,0,0,0,.4.951,1.849,1.849,0,0,0,.865.752,4.649,4.649,0,0,0,1.583.2H295.7v-2.727h-2.667Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_271",
+                                    "boundingBox": {
+                                      "top": 2065.80810546875,
+                                      "left": 321.625,
+                                      "width": 8.296051025390625,
+                                      "height": 8.554931640625
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_271"
+                                      },
+                                      {
+                                        "data-name": "路径 271"
+                                      },
+                                      {
+                                        "d": "M302.577-179.613l-3.459-5.117h1.6l2.582,4.042,2.51-4.042h1.606l-3.466,5.117v3.44h-1.376Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_272",
+                                    "boundingBox": {
+                                      "top": 2065.80224609375,
+                                      "left": 335.70849609375,
+                                      "width": 6.9605712890625,
+                                      "height": 8.5634765625
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_272"
+                                      },
+                                      {
+                                        "data-name": "路径 272"
+                                      },
+                                      {
+                                        "d": "M320.167-177.264v1.091h-2.686a7.089,7.089,0,0,1-1.824-.187,3.031,3.031,0,0,1-1.99-1.769,5.316,5.316,0,0,1-.461-2.262,5.385,5.385,0,0,1,.628-2.64,2.974,2.974,0,0,1,1.308-1.323,5.483,5.483,0,0,1,2.267-.376h2.758v1.091h-2.686a4.992,4.992,0,0,0-1.324.133,1.567,1.567,0,0,0-.756.5,2.914,2.914,0,0,0-.534,1.108,5.8,5.8,0,0,0-.192,1.545,3.538,3.538,0,0,0,.747,2.423,1.745,1.745,0,0,0,.809.526,4.918,4.918,0,0,0,1.364.142Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_273",
+                                    "boundingBox": {
+                                      "top": 2065.66162109375,
+                                      "left": 344.75445556640625,
+                                      "width": 8.3890380859375,
+                                      "height": 8.83984375
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_273"
+                                      },
+                                      {
+                                        "data-name": "路径 273"
+                                      },
+                                      {
+                                        "d": "M326.5-184.855a3.8,3.8,0,0,1,3.416,1.46,5.322,5.322,0,0,1,.71,2.965,4.318,4.318,0,0,1-1.182,3.38,4.478,4.478,0,0,1-3.072,1,3.909,3.909,0,0,1-3.226-1.25,3.7,3.7,0,0,1-.647-1.349,6.53,6.53,0,0,1-.246-1.79,6.1,6.1,0,0,1,.259-1.791,3.625,3.625,0,0,1,.7-1.348,3.373,3.373,0,0,1,1.356-.956A5.5,5.5,0,0,1,326.5-184.855Zm-.011,1.09a2.41,2.41,0,0,0-2.4,1.237,4.77,4.77,0,0,0-.365,2.067,4.325,4.325,0,0,0,.535,2.389,2.476,2.476,0,0,0,2.209.935,2.354,2.354,0,0,0,2.375-1.249,4.946,4.946,0,0,0,.316-2.005,4.544,4.544,0,0,0-.468-2.357A2.428,2.428,0,0,0,326.49-183.765Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_274",
+                                    "boundingBox": {
+                                      "top": 2072.974365234375,
+                                      "left": 354.61126708984375,
+                                      "width": 1.2996826171875,
+                                      "height": 1.388671875
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_274"
+                                      },
+                                      {
+                                        "data-name": "路径 274"
+                                      },
+                                      {
+                                        "d": "M333.412-177.562v1.389h-1.3v-1.389Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_275",
+                                    "boundingBox": {
+                                      "top": 2072.974365234375,
+                                      "left": 357.9425048828125,
+                                      "width": 1.52264404296875,
+                                      "height": 2.994384765625
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_275"
+                                      },
+                                      {
+                                        "data-name": "路径 275"
+                                      },
+                                      {
+                                        "d": "M336.967-177.562v1.24l-.857,1.755h-.666l.666-1.606h-.44v-1.389Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_276",
+                                    "boundingBox": {
+                                      "top": 2065.80810546875,
+                                      "left": 362.6170654296875,
+                                      "width": 5.5140380859375,
+                                      "height": 8.5576171875
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_276"
+                                      },
+                                      {
+                                        "data-name": "路径 276"
+                                      },
+                                      {
+                                        "d": "M340.125-184.73H341.5v4.98a6.254,6.254,0,0,0,.093,1.23,1.426,1.426,0,0,0,.312.672,2.526,2.526,0,0,0,1.875.584h1.855v1.091h-2.127a5.551,5.551,0,0,1-1.606-.187,2.46,2.46,0,0,1-1.045-.652,2.26,2.26,0,0,1-.571-.994,6.124,6.124,0,0,1-.164-1.585Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_277",
+                                    "boundingBox": {
+                                      "top": 2065.80810546875,
+                                      "left": 369.02587890625,
+                                      "width": 7.3582763671875,
+                                      "height": 8.554931640625
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_277"
+                                      },
+                                      {
+                                        "data-name": "路径 277"
+                                      },
+                                      {
+                                        "d": "M349.516-183.639H346.53v-1.091h7.36v1.091H350.9v7.466h-1.38Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_278",
+                                    "boundingBox": {
+                                      "top": 2065.80224609375,
+                                      "left": 378.13775634765625,
+                                      "width": 7.64703369140625,
+                                      "height": 8.55712890625
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_278"
+                                      },
+                                      {
+                                        "data-name": "路径 278"
+                                      },
+                                      {
+                                        "d": "M355.644-184.73h3.315a7.458,7.458,0,0,1,2.014.194,3.111,3.111,0,0,1,1.852,1.663,5.146,5.146,0,0,1,.464,2.343q0,2.863-1.571,3.85a2.95,2.95,0,0,1-1.014.4,9.253,9.253,0,0,1-1.62.1h-3.44Zm1.377,1.091v6.375h2.205a2.331,2.331,0,0,0,2.056-.845,3.912,3.912,0,0,0,.539-2.239,4.27,4.27,0,0,0-.623-2.521,1.643,1.643,0,0,0-.775-.591,3.74,3.74,0,0,0-1.294-.179Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_222 path#路径_279",
+                                    "boundingBox": {
+                                      "top": 2072.974365234375,
+                                      "left": 386.82574462890625,
+                                      "width": 1.2996826171875,
+                                      "height": 1.388671875
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_279"
+                                      },
+                                      {
+                                        "data-name": "路径 279"
+                                      },
+                                      {
+                                        "d": "M365.634-177.562v1.389h-1.3v-1.389Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ],
+                            [
+                              {
+                                "nodeName": "g",
+                                "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_223",
+                                "boundingBox": {
+                                  "top": 2028.685791015625,
+                                  "left": 392.49346923828125,
+                                  "width": 9.278106689453125,
+                                  "height": 9.2841796875
+                                },
+                                "children": 5,
+                                "attributes": [
+                                  {
+                                    "id": "组_223"
+                                  },
+                                  {
+                                    "data-name": "组 223"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_223 path#路径_280",
+                                    "boundingBox": {
+                                      "top": 2028.685791015625,
+                                      "left": 392.49346923828125,
+                                      "width": 9.278106689453125,
+                                      "height": 9.2841796875
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_280"
+                                      },
+                                      {
+                                        "data-name": "路径 280"
+                                      },
+                                      {
+                                        "d": "M379.273-217.437a4.612,4.612,0,0,0-.727-2.283,4.586,4.586,0,0,0-.937-1.062,4.622,4.622,0,0,0-1.507-.841,4.547,4.547,0,0,0-.662-.167,4.327,4.327,0,0,0-.545-.062c-.053,0-.1-.006-.158-.009h-.2l-.162.009a4.8,4.8,0,0,0-.521.059,4.622,4.622,0,0,0-.693.174,4.618,4.618,0,0,0-.9.414,4.638,4.638,0,0,0-1.185,1.013,4.609,4.609,0,0,0-.9,1.706,4.49,4.49,0,0,0-.132.63c-.021.161-.036.323-.041.485,0,.016,0,.032,0,.048v.212c0,.051,0,.1.009.153.013.137.024.275.042.411a4.3,4.3,0,0,0,.235.933,4.6,4.6,0,0,0,.777,1.351,4.614,4.614,0,0,0,1.245,1.058,4.548,4.548,0,0,0,1.065.454,4.56,4.56,0,0,0,.633.132,4.673,4.673,0,0,0,.7.044,4.638,4.638,0,0,0,.577-.044,4.565,4.565,0,0,0,2.053-.816,4.608,4.608,0,0,0,1.441-1.665,4.579,4.579,0,0,0,.41-1.158,4.572,4.572,0,0,0,.077-.492A4.5,4.5,0,0,0,379.273-217.437Zm-4.638,3.919a3.7,3.7,0,0,1-3.7-3.7,3.7,3.7,0,0,1,3.7-3.7,3.7,3.7,0,0,1,3.7,3.7A3.7,3.7,0,0,1,374.635-213.518Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                [
+                                  {
+                                    "nodeName": "path",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(1) svg g#组_224 g#组_223 path#路径_281",
+                                    "boundingBox": {
+                                      "top": 2030.7943115234375,
+                                      "left": 395.08978271484375,
+                                      "width": 4.385009765625,
+                                      "height": 4.861083984375
+                                    },
+                                    "children": 0,
+                                    "attributes": [
+                                      {
+                                        "id": "路径_281"
+                                      },
+                                      {
+                                        "data-name": "路径 281"
+                                      },
+                                      {
+                                        "d": "M376.975-214.919l-.681-1.372a2.724,2.724,0,0,0-.3-.488,1.035,1.035,0,0,0-.556-.385l0-.005.019-.006a1.522,1.522,0,0,0,.325-.143,1.1,1.1,0,0,0,.444-.461,1.3,1.3,0,0,0,.124-.462,1.757,1.757,0,0,0-.043-.6,1.009,1.009,0,0,0-.373-.569,1.434,1.434,0,0,0-.468-.228,3.112,3.112,0,0,0-.858-.114c-.664,0-1.328,0-1.992,0H372.6v4.858h1.252v-1.833l.009,0a4.685,4.685,0,0,1,.5.01.686.686,0,0,1,.43.212,1.554,1.554,0,0,1,.25.38q.3.606.6,1.213a.033.033,0,0,0,.035.022h1.286l.024,0Zm-1.9-3.031a.452.452,0,0,1-.305.3,1.118,1.118,0,0,1-.353.055c-.182,0-.365,0-.547,0h-.016v-1.246h.023c.182,0,.364,0,.545,0a1.176,1.176,0,0,1,.358.053.438.438,0,0,1,.3.307A.894.894,0,0,1,375.075-217.95Z"
+                                      },
+                                      {
+                                        "fill": "#fff"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(2)",
+                    "boundingBox": {
+                      "top": 2123.96875,
+                      "left": 144,
+                      "width": 832.328125,
+                      "height": 64
+                    },
+                    "children": 5,
+                    "attributes": null
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "h3",
+                        "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(2) h3",
+                        "boundingBox": {
+                          "top": 2123.96875,
+                          "left": 144,
+                          "width": 832.328125,
+                          "height": 28
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "sm:text-lg text-xl"
+                          }
+                        ]
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(2) h3",
+                          "text": "Add.",
+                          "boundingBox": {
+                            "top": 2123.96875,
+                            "left": 144,
+                            "width": 832.328125,
+                            "height": 28
+                          },
+                          "attributes": [
+                            {
+                              "class": "sm:text-lg text-xl"
+                            }
+                          ]
+                        }
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "p",
+                        "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(2) p",
+                        "boundingBox": {
+                          "top": 2167.96875,
+                          "left": 144,
+                          "width": 832.328125,
+                          "height": 20
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "text-white mt-4 text-opacity-50 text-sm"
+                          }
+                        ]
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(2) p",
+                          "text": "4/F, Bldg. A3, Yunnan University Science Park, No.269 Kefa Road, High & New Tech Dev. Zone, Kunming, Yunnan, China",
+                          "boundingBox": {
+                            "top": 2167.96875,
+                            "left": 144,
+                            "width": 832.328125,
+                            "height": 20
+                          },
+                          "attributes": [
+                            {
+                              "class": "text-white mt-4 text-opacity-50 text-sm"
+                            }
+                          ]
+                        }
+                      ]
+                    ]
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(3)",
+                    "boundingBox": {
+                      "top": 2235.96875,
+                      "left": 144,
+                      "width": 832.328125,
+                      "height": 84
+                    },
+                    "children": 5,
+                    "attributes": null
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "h3",
+                        "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(3) h3",
+                        "boundingBox": {
+                          "top": 2235.96875,
+                          "left": 144,
+                          "width": 832.328125,
+                          "height": 28
+                        },
+                        "children": 1,
+                        "attributes": [
+                          {
+                            "class": "sm:text-lg text-xl"
+                          }
+                        ]
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(3) h3",
+                          "text": "Tel.",
+                          "boundingBox": {
+                            "top": 2235.96875,
+                            "left": 144,
+                            "width": 832.328125,
+                            "height": 28
+                          },
+                          "attributes": [
+                            {
+                              "class": "sm:text-lg text-xl"
+                            }
+                          ]
+                        }
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "p",
+                        "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(3) p",
+                        "boundingBox": {
+                          "top": 2279.96875,
+                          "left": 144,
+                          "width": 832.328125,
+                          "height": 40
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "class": "text-white mt-4 text-opacity-50 text-sm"
+                          }
+                        ]
+                      },
+                      [
+                        {
+                          "nodeName": "text",
+                          "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(3) p",
+                          "text": "+ (86)871-63330984   68312889    68312126",
+                          "boundingBox": {
+                            "top": 2279.96875,
+                            "left": 144,
+                            "width": 832.328125,
+                            "height": 40
+                          },
+                          "attributes": [
+                            {
+                              "class": "text-white mt-4 text-opacity-50 text-sm"
+                            }
+                          ]
+                        },
+                        [
+                          {
+                            "nodeName": "br",
+                            "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(3) p br",
+                            "boundingBox": {
+                              "top": 2280.96875,
+                              "left": 424.875,
+                              "width": 0,
+                              "height": 18
+                            },
+                            "children": 0,
+                            "attributes": null
+                          }
+                        ],
+                        {
+                          "nodeName": "text",
+                          "path": "html body footer div:nth-child(1) div:nth-child(1) div:nth-child(3) p",
+                          "text": "(Monday through Friday 9:00 a.m. to 5:00 p.m. GMT+8)",
+                          "boundingBox": {
+                            "top": 2279.96875,
+                            "left": 144,
+                            "width": 832.328125,
+                            "height": 40
+                          },
+                          "attributes": [
+                            {
+                              "class": "text-white mt-4 text-opacity-50 text-sm"
+                            }
+                          ]
+                        }
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              {
+                "nodeName": "div",
+                "path": "html body footer div:nth-child(1) div:nth-child(2)",
+                "boundingBox": {
+                  "top": 2028,
+                  "left": 1184.40625,
+                  "width": 624.25,
+                  "height": 316
+                },
+                "children": 5,
+                "attributes": [
+                  {
+                    "class": "block2 w-3/12 ml-auto"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "h2",
+                    "path": "html body footer div:nth-child(1) div:nth-child(2) h2",
+                    "boundingBox": {
+                      "top": 2028,
+                      "left": 1184.40625,
+                      "width": 624.25,
+                      "height": 28
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "sm:text-lg text-xl"
+                      }
+                    ]
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body footer div:nth-child(1) div:nth-child(2) h2",
+                      "text": "Quick Links",
+                      "boundingBox": {
+                        "top": 2028,
+                        "left": 1184.40625,
+                        "width": 624.25,
+                        "height": 28
+                      },
+                      "attributes": [
+                        {
+                          "class": "sm:text-lg text-xl"
+                        }
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "ul",
+                    "path": "html body footer div:nth-child(1) div:nth-child(2) ul",
+                    "boundingBox": {
+                      "top": 2136,
+                      "left": 1184.40625,
+                      "width": 624.25,
+                      "height": 208
+                    },
+                    "children": 9,
+                    "attributes": [
+                      {
+                        "class": "space-y-8 xl:space-y-4 mt-20 xl:mt-4"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "li",
+                        "path": "html body footer div:nth-child(1) div:nth-child(2) ul li:nth-child(1)",
+                        "boundingBox": {
+                          "top": 2136,
+                          "left": 1184.40625,
+                          "width": 624.25,
+                          "height": 28
+                        },
+                        "children": 3,
+                        "attributes": null
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "a",
+                            "path": "html body footer div:nth-child(1) div:nth-child(2) ul li:nth-child(1) a",
+                            "boundingBox": {
+                              "top": 2136,
+                              "left": 1184.40625,
+                              "width": 138.5625,
+                              "height": 28
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "href": "/about-us/our-company"
+                              },
+                              {
+                                "class": "text-xl xl:text-sm inline-block"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body footer div:nth-child(1) div:nth-child(2) ul li:nth-child(1) a",
+                              "text": "About Walvax",
+                              "boundingBox": {
+                                "top": 2136,
+                                "left": 1184.40625,
+                                "width": 138.5625,
+                                "height": 28
+                              },
+                              "attributes": [
+                                {
+                                  "href": "/about-us/our-company"
+                                },
+                                {
+                                  "class": "text-xl xl:text-sm inline-block"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "li",
+                        "path": "html body footer div:nth-child(1) div:nth-child(2) ul li:nth-child(2)",
+                        "boundingBox": {
+                          "top": 2196,
+                          "left": 1184.40625,
+                          "width": 624.25,
+                          "height": 28
+                        },
+                        "children": 3,
+                        "attributes": null
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "a",
+                            "path": "html body footer div:nth-child(1) div:nth-child(2) ul li:nth-child(2) a",
+                            "boundingBox": {
+                              "top": 2196,
+                              "left": 1184.40625,
+                              "width": 191.5625,
+                              "height": 28
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "href": "/products/products-list"
+                              },
+                              {
+                                "class": "text-xl xl:text-sm inline-block"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body footer div:nth-child(1) div:nth-child(2) ul li:nth-child(2) a",
+                              "text": "Marketed Products",
+                              "boundingBox": {
+                                "top": 2196,
+                                "left": 1184.40625,
+                                "width": 191.5625,
+                                "height": 28
+                              },
+                              "attributes": [
+                                {
+                                  "href": "/products/products-list"
+                                },
+                                {
+                                  "class": "text-xl xl:text-sm inline-block"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "li",
+                        "path": "html body footer div:nth-child(1) div:nth-child(2) ul li:nth-child(3)",
+                        "boundingBox": {
+                          "top": 2256,
+                          "left": 1184.40625,
+                          "width": 624.25,
+                          "height": 28
+                        },
+                        "children": 3,
+                        "attributes": null
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "a",
+                            "path": "html body footer div:nth-child(1) div:nth-child(2) ul li:nth-child(3) a",
+                            "boundingBox": {
+                              "top": 2256,
+                              "left": 1184.40625,
+                              "width": 81.34375,
+                              "height": 28
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "href": "/r-d/pipeline"
+                              },
+                              {
+                                "class": "text-xl xl:text-sm inline-block"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body footer div:nth-child(1) div:nth-child(2) ul li:nth-child(3) a",
+                              "text": "Pipeline",
+                              "boundingBox": {
+                                "top": 2256,
+                                "left": 1184.40625,
+                                "width": 81.34375,
+                                "height": 28
+                              },
+                              "attributes": [
+                                {
+                                  "href": "/r-d/pipeline"
+                                },
+                                {
+                                  "class": "text-xl xl:text-sm inline-block"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "li",
+                        "path": "html body footer div:nth-child(1) div:nth-child(2) ul li:nth-child(4)",
+                        "boundingBox": {
+                          "top": 2316,
+                          "left": 1184.40625,
+                          "width": 624.25,
+                          "height": 28
+                        },
+                        "children": 3,
+                        "attributes": null
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "a",
+                            "path": "html body footer div:nth-child(1) div:nth-child(2) ul li:nth-child(4) a",
+                            "boundingBox": {
+                              "top": 2316,
+                              "left": 1184.40625,
+                              "width": 110.328125,
+                              "height": 28
+                            },
+                            "children": 1,
+                            "attributes": [
+                              {
+                                "href": "/about-us/contact-us"
+                              },
+                              {
+                                "class": "text-xl xl:text-sm inline-block"
+                              }
+                            ]
+                          },
+                          [
+                            {
+                              "nodeName": "text",
+                              "path": "html body footer div:nth-child(1) div:nth-child(2) ul li:nth-child(4) a",
+                              "text": "Contact Us",
+                              "boundingBox": {
+                                "top": 2316,
+                                "left": 1184.40625,
+                                "width": 110.328125,
+                                "height": 28
+                              },
+                              "attributes": [
+                                {
+                                  "href": "/about-us/contact-us"
+                                },
+                                {
+                                  "class": "text-xl xl:text-sm inline-block"
+                                }
+                              ]
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ],
+            [
+              {
+                "nodeName": "div",
+                "path": "html body footer div:nth-child(1) div:nth-child(3)",
+                "boundingBox": {
+                  "top": 2028,
+                  "left": 2016.734375,
+                  "width": 624.25,
+                  "height": 158
+                },
+                "children": 5,
+                "attributes": [
+                  {
+                    "class": "block3 w-3/12 ml-auto"
+                  }
+                ]
+              },
+              [
+                [
+                  {
+                    "nodeName": "h2",
+                    "path": "html body footer div:nth-child(1) div:nth-child(3) h2",
+                    "boundingBox": {
+                      "top": 2028,
+                      "left": 2016.734375,
+                      "width": 624.25,
+                      "height": 28
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "class": "sm:text-lg text-xl"
+                      }
+                    ]
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body footer div:nth-child(1) div:nth-child(3) h2",
+                      "text": "Follow Us",
+                      "boundingBox": {
+                        "top": 2028,
+                        "left": 2016.734375,
+                        "width": 624.25,
+                        "height": 28
+                      },
+                      "attributes": [
+                        {
+                          "class": "sm:text-lg text-xl"
+                        }
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "div",
+                    "path": "html body footer div:nth-child(1) div:nth-child(3) div",
+                    "boundingBox": {
+                      "top": 2136,
+                      "left": 2016.734375,
+                      "width": 624.25,
+                      "height": 50
+                    },
+                    "children": 17,
+                    "attributes": [
+                      {
+                        "class": "flex space-x-4 mt-20 xl:mt-4"
+                      }
+                    ]
+                  },
+                  [
+                    [
+                      {
+                        "nodeName": "a",
+                        "path": "html body footer div:nth-child(1) div:nth-child(3) div a:nth-child(1)",
+                        "boundingBox": {
+                          "top": 2136,
+                          "left": 2016.734375,
+                          "width": 50,
+                          "height": 50
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "href": "javascript:;"
+                          },
+                          {
+                            "target": "_blank"
+                          },
+                          {
+                            "class": "w-12 h-12 flex items-center box-content justify-center border border-white rounded-full"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "svg",
+                            "path": "html body footer div:nth-child(1) div:nth-child(3) div a:nth-child(1) svg",
+                            "boundingBox": {
+                              "top": 2149.234375,
+                              "left": 2035.859375,
+                              "width": 11.75,
+                              "height": 23.515625
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "xmlns": "http://www.w3.org/2000/svg"
+                              },
+                              {
+                                "width": "11.758"
+                              },
+                              {
+                                "height": "23.518"
+                              },
+                              {
+                                "viewBox": "0 0 11.758 23.518"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "g",
+                                "path": "html body footer div:nth-child(1) div:nth-child(3) div a:nth-child(1) svg g#facebook",
+                                "boundingBox": {
+                                  "top": 2149.2412109375,
+                                  "left": 2035.859375,
+                                  "width": 11.75,
+                                  "height": 23.501953125
+                                },
+                                "children": 3,
+                                "attributes": [
+                                  {
+                                    "id": "facebook"
+                                  },
+                                  {
+                                    "transform": "translate(0.001)"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "g",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(3) div a:nth-child(1) svg g#facebook g#组_2193",
+                                    "boundingBox": {
+                                      "top": 2149.2412109375,
+                                      "left": 2035.859375,
+                                      "width": 11.75,
+                                      "height": 23.501953125
+                                    },
+                                    "children": 3,
+                                    "attributes": [
+                                      {
+                                        "id": "组_2193"
+                                      },
+                                      {
+                                        "data-name": "组 2193"
+                                      },
+                                      {
+                                        "transform": "translate(-0.001)"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "path",
+                                        "path": "html body footer div:nth-child(1) div:nth-child(3) div a:nth-child(1) svg g#facebook g#组_2193 path#路径_33652",
+                                        "boundingBox": {
+                                          "top": 2149.2412109375,
+                                          "left": 2035.859375,
+                                          "width": 11.75,
+                                          "height": 23.501953125
+                                        },
+                                        "children": 0,
+                                        "attributes": [
+                                          {
+                                            "id": "路径_33652"
+                                          },
+                                          {
+                                            "data-name": "路径 33652"
+                                          },
+                                          {
+                                            "d": "M135.349,8.084V5.149a1.471,1.471,0,0,1,1.47-1.47h1.47V0h-2.939a4.409,4.409,0,0,0-4.41,4.41V8.084H128v3.675h2.939V23.518h4.41V11.759h2.939l1.47-3.675Z"
+                                          },
+                                          {
+                                            "transform": "translate(-128 0)"
+                                          },
+                                          {
+                                            "fill": "#fff"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "a",
+                        "path": "html body footer div:nth-child(1) div:nth-child(3) div a:nth-child(2)",
+                        "boundingBox": {
+                          "top": 2136,
+                          "left": 2082.734375,
+                          "width": 50,
+                          "height": 50
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "href": "https://twitter.com/WalvaxBiotech"
+                          },
+                          {
+                            "target": "_blank"
+                          },
+                          {
+                            "class": "w-12 h-12 flex items-center box-content justify-center border border-white rounded-full"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "svg",
+                            "path": "html body footer div:nth-child(1) div:nth-child(3) div a:nth-child(2) svg",
+                            "boundingBox": {
+                              "top": 2151.6875,
+                              "left": 2096.28125,
+                              "width": 22.90625,
+                              "height": 18.609375
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "xmlns": "http://www.w3.org/2000/svg"
+                              },
+                              {
+                                "width": "22.91"
+                              },
+                              {
+                                "height": "18.611"
+                              },
+                              {
+                                "viewBox": "0 0 22.91 18.611"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "g",
+                                "path": "html body footer div:nth-child(1) div:nth-child(3) div a:nth-child(2) svg g#twitter",
+                                "boundingBox": {
+                                  "top": 2151.678466796875,
+                                  "left": 2096.28125,
+                                  "width": 22.90625,
+                                  "height": 18.6181640625
+                                },
+                                "children": 3,
+                                "attributes": [
+                                  {
+                                    "id": "twitter"
+                                  },
+                                  {
+                                    "transform": "translate(0.001 0)"
+                                  }
+                                ]
+                              },
+                              [
+                                [
+                                  {
+                                    "nodeName": "g",
+                                    "path": "html body footer div:nth-child(1) div:nth-child(3) div a:nth-child(2) svg g#twitter g#组_2194",
+                                    "boundingBox": {
+                                      "top": 2151.678466796875,
+                                      "left": 2096.28125,
+                                      "width": 22.90625,
+                                      "height": 18.6181640625
+                                    },
+                                    "children": 3,
+                                    "attributes": [
+                                      {
+                                        "id": "组_2194"
+                                      },
+                                      {
+                                        "data-name": "组 2194"
+                                      },
+                                      {
+                                        "transform": "translate(-0.001 0)"
+                                      }
+                                    ]
+                                  },
+                                  [
+                                    [
+                                      {
+                                        "nodeName": "path",
+                                        "path": "html body footer div:nth-child(1) div:nth-child(3) div a:nth-child(2) svg g#twitter g#组_2194 path#路径_33656",
+                                        "boundingBox": {
+                                          "top": 2151.678466796875,
+                                          "left": 2096.28125,
+                                          "width": 22.90625,
+                                          "height": 18.6181640625
+                                        },
+                                        "children": 0,
+                                        "attributes": [
+                                          {
+                                            "id": "路径_33656"
+                                          },
+                                          {
+                                            "data-name": "路径 33656"
+                                          },
+                                          {
+                                            "d": "M22.91,50.2a9.792,9.792,0,0,1-2.706.742,4.671,4.671,0,0,0,2.07-2.6,9.386,9.386,0,0,1-2.978,1.137A4.7,4.7,0,0,0,11.167,52.7a4.836,4.836,0,0,0,.112,1.071A13.3,13.3,0,0,1,1.6,48.859a4.7,4.7,0,0,0,1.444,6.277,4.638,4.638,0,0,1-2.127-.579V54.6a4.719,4.719,0,0,0,3.763,4.615,4.687,4.687,0,0,1-1.231.154,4.153,4.153,0,0,1-.889-.081,4.741,4.741,0,0,0,4.389,3.272A9.438,9.438,0,0,1,1.119,64.57,8.8,8.8,0,0,1,0,64.506a13.223,13.223,0,0,0,7.2,2.108A13.276,13.276,0,0,0,20.573,53.249c0-.207-.007-.409-.017-.607A9.369,9.369,0,0,0,22.91,50.2Z"
+                                          },
+                                          {
+                                            "transform": "translate(0 -48.003)"
+                                          },
+                                          {
+                                            "fill": "#fff"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  ]
+                                ]
+                              ]
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "a",
+                        "path": "html body footer div:nth-child(1) div:nth-child(3) div a:nth-child(3)",
+                        "boundingBox": {
+                          "top": 2136,
+                          "left": 2148.734375,
+                          "width": 50,
+                          "height": 50
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "href": "https://www.linkedin.com/company/walvax/"
+                          },
+                          {
+                            "target": "_blank"
+                          },
+                          {
+                            "class": "w-12 h-12 flex items-center box-content justify-center border border-white rounded-full"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "svg",
+                            "path": "html body footer div:nth-child(1) div:nth-child(3) div a:nth-child(3) svg",
+                            "boundingBox": {
+                              "top": 2150.953125,
+                              "left": 2163.578125,
+                              "width": 20.3125,
+                              "height": 20.078125
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "xmlns": "http://www.w3.org/2000/svg"
+                              },
+                              {
+                                "width": "20.321"
+                              },
+                              {
+                                "height": "20.089"
+                              },
+                              {
+                                "viewBox": "0 0 20.321 20.089"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "path",
+                                "path": "html body footer div:nth-child(1) div:nth-child(3) div a:nth-child(3) svg path#路径_33680",
+                                "boundingBox": {
+                                  "top": 2150.95458984375,
+                                  "left": 2163.500244140625,
+                                  "width": 20.38818359375,
+                                  "height": 20.082763671875
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "id": "路径_33680"
+                                  },
+                                  {
+                                    "data-name": "路径 33680"
+                                  },
+                                  {
+                                    "d": "M146.992,149.176a2.19,2.19,0,1,0,0,4.377,2.189,2.189,0,1,0,0-4.377Zm18.128,20.086v-8.3c0-4.12-2.051-6.007-4.789-6.007a4.873,4.873,0,0,0-4.133,2.215h-.084l-.19-1.914h-3.615c.053,1.232.111,2.716.111,4.461v9.542h4.16V161.2a3.1,3.1,0,0,1,.159-1.09,2.215,2.215,0,0,1,2.1-1.63c1.506,0,2.109,1.232,2.109,3.035v7.753Zm-20.2-13.99h4.16v13.99h-4.16Z"
+                                  },
+                                  {
+                                    "transform": "translate(-144.8 -149.173)"
+                                  },
+                                  {
+                                    "fill": "#fff"
+                                  }
+                                ]
+                              }
+                            ]
+                          ]
+                        ]
+                      ]
+                    ],
+                    [
+                      {
+                        "nodeName": "a",
+                        "path": "html body footer div:nth-child(1) div:nth-child(3) div a:nth-child(4)",
+                        "boundingBox": {
+                          "top": 2136,
+                          "left": 2214.734375,
+                          "width": 50,
+                          "height": 50
+                        },
+                        "children": 3,
+                        "attributes": [
+                          {
+                            "href": "javascript:;"
+                          },
+                          {
+                            "target": "_blank"
+                          },
+                          {
+                            "class": "w-12 h-12 flex items-center box-content justify-center border border-white rounded-full"
+                          }
+                        ]
+                      },
+                      [
+                        [
+                          {
+                            "nodeName": "svg",
+                            "path": "html body footer div:nth-child(1) div:nth-child(3) div a:nth-child(4) svg",
+                            "boundingBox": {
+                              "top": 2152.8125,
+                              "left": 2228.09375,
+                              "width": 23.265625,
+                              "height": 16.359375
+                            },
+                            "children": 3,
+                            "attributes": [
+                              {
+                                "xmlns": "http://www.w3.org/2000/svg"
+                              },
+                              {
+                                "width": "23.273"
+                              },
+                              {
+                                "height": "16.368"
+                              },
+                              {
+                                "viewBox": "0 0 23.273 16.368"
+                              }
+                            ]
+                          },
+                          [
+                            [
+                              {
+                                "nodeName": "path",
+                                "path": "html body footer div:nth-child(1) div:nth-child(3) div a:nth-child(4) svg path#路径_33681",
+                                "boundingBox": {
+                                  "top": 2152.8134765625,
+                                  "left": 2228.09619140625,
+                                  "width": 23.26171875,
+                                  "height": 16.363525390625
+                                },
+                                "children": 0,
+                                "attributes": [
+                                  {
+                                    "id": "路径_33681"
+                                  },
+                                  {
+                                    "data-name": "路径 33681"
+                                  },
+                                  {
+                                    "d": "M23.229,155.34a5.017,5.017,0,0,0-.927-2.309,3.332,3.332,0,0,0-2.332-.986c-3.255-.236-8.141-.236-8.141-.236H11.82s-4.887,0-8.141.236a3.332,3.332,0,0,0-2.332.986,4.984,4.984,0,0,0-.923,2.309,35.288,35.288,0,0,0-.232,3.768v1.764a35.4,35.4,0,0,0,.232,3.768,5.044,5.044,0,0,0,.923,2.309,3.971,3.971,0,0,0,2.568,1c1.864.177,7.914.232,7.914.232s4.891-.009,8.146-.241a3.331,3.331,0,0,0,2.332-.986,5.017,5.017,0,0,0,.927-2.309,35.271,35.271,0,0,0,.232-3.768v-1.764a36.066,36.066,0,0,0-.236-3.768ZM9.42,163.013v-6.541l6.287,3.282L9.42,163.013Z"
+                                  },
+                                  {
+                                    "transform": "translate(-0.192 -151.808)"
+                                  },
+                                  {
+                                    "fill": "#fff"
+                                  }
+                                ]
+                              }
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ],
+        [
+          {
+            "nodeName": "div",
+            "path": "html body footer div:nth-child(2)",
+            "boundingBox": {
+              "top": 2472,
+              "left": 144,
+              "width": 2497,
+              "height": 49
+            },
+            "children": 5,
+            "attributes": [
+              {
+                "class": "flex justify-between text-white text-opacity-50 text-sm xl:text-xs border-t border-white border-opacity-30 pt-7 mt-32 sm:mt-8"
+              }
+            ]
+          },
+          [
+            [
+              {
+                "nodeName": "div",
+                "path": "html body footer div:nth-child(2) div",
+                "boundingBox": {
+                  "top": 2501,
+                  "left": 144,
+                  "width": 582.78125,
+                  "height": 20
+                },
+                "children": 5,
+                "attributes": null
+              },
+              [
+                [
+                  {
+                    "nodeName": "span",
+                    "path": "html body footer div:nth-child(2) div span",
+                    "boundingBox": {
+                      "top": 2502,
+                      "left": 144,
+                      "width": 262.265625,
+                      "height": 18
+                    },
+                    "children": 1,
+                    "attributes": null
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body footer div:nth-child(2) div span",
+                      "text": "© 2021 Walvax Biotechnology Co., Ltd.",
+                      "boundingBox": {
+                        "top": 2502,
+                        "left": 144,
+                        "width": 262.265625,
+                        "height": 18
+                      },
+                      "attributes": null
+                    }
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "a",
+                    "path": "html body footer div:nth-child(2) div a:nth-child(1)",
+                    "boundingBox": {
+                      "top": 2502,
+                      "left": 420.953125,
+                      "width": 138.328125,
+                      "height": 18
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "href": "//beian.miit.gov.cn"
+                      },
+                      {
+                        "target": "_blank"
+                      }
+                    ]
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body footer div:nth-child(2) div a:nth-child(1)",
+                      "text": "滇ICP备10201507号-1",
+                      "boundingBox": {
+                        "top": 2502,
+                        "left": 420.953125,
+                        "width": 138.328125,
+                        "height": 18
+                      },
+                      "attributes": [
+                        {
+                          "href": "//beian.miit.gov.cn"
+                        },
+                        {
+                          "target": "_blank"
+                        }
+                      ]
+                    }
+                  ]
+                ],
+                [
+                  {
+                    "nodeName": "a",
+                    "path": "html body footer div:nth-child(2) div a:nth-child(2)",
+                    "boundingBox": {
+                      "top": 2502,
+                      "left": 573.96875,
+                      "width": 152.8125,
+                      "height": 18
+                    },
+                    "children": 1,
+                    "attributes": [
+                      {
+                        "href": "https://www.sumaarts.com"
+                      },
+                      {
+                        "target": "_blank"
+                      }
+                    ]
+                  },
+                  [
+                    {
+                      "nodeName": "text",
+                      "path": "html body footer div:nth-child(2) div a:nth-child(2)",
+                      "text": "Designed by Sumaart",
+                      "boundingBox": {
+                        "top": 2502,
+                        "left": 573.96875,
+                        "width": 152.8125,
+                        "height": 18
+                      },
+                      "attributes": [
+                        {
+                          "href": "https://www.sumaarts.com"
+                        },
+                        {
+                          "target": "_blank"
+                        }
+                      ]
+                    }
+                  ]
+                ]
+              ]
+            ],
+            [
+              {
+                "nodeName": "a",
+                "path": "html body footer div:nth-child(2) a",
+                "boundingBox": {
+                  "top": 2501,
+                  "left": 2557.046875,
+                  "width": 83.953125,
+                  "height": 20
+                },
+                "children": 1,
+                "attributes": [
+                  {
+                    "href": "javascript:$('html').animate({ scrollTop: 0 }, 1000);"
+                  }
+                ]
+              },
+              [
+                {
+                  "nodeName": "text",
+                  "path": "html body footer div:nth-child(2) a",
+                  "text": "Back To Top",
+                  "boundingBox": {
+                    "top": 2501,
+                    "left": 2557.046875,
+                    "width": 83.953125,
+                    "height": 20
+                  },
+                  "attributes": [
+                    {
+                      "href": "javascript:$('html').animate({ scrollTop: 0 }, 1000);"
+                    }
+                  ]
+                }
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+}
